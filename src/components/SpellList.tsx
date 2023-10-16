@@ -1,10 +1,6 @@
 import React from 'react';
 import Spell, { ISpell } from './Spell';
 
-interface SphereCost {
-    name: string;
-    cost: number;
-}
 interface SpellListProps {
     data: ISpell[]; // Define the data prop
     filter: Array<[string, number]>;
