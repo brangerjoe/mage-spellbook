@@ -285,7 +285,6 @@ some king of object or symbol for the spirit. This object
 causes the spirit to either help or hinder those who are
 there for the duration of the effect. For a longer
 duration, the spirit must be negotiated with directly.
-10 Enlightened Grimoire
 Luck of the Lotus
 Book of Crafts page 119
 Entropy 3, Mind 2, optional Correspondence 2
@@ -1388,7 +1387,6 @@ Time 2
 Using complex statistics, the Iterator can predict the
 future (to reasonable accuracy) of a single person, place
 or thing.
-32 Enlightened Grimoire
 Play Back
 Mage: The Ascension First Edition page 221
 Data 2, Time 2
@@ -3534,7 +3532,6 @@ intended duration. Time can be added to cause the
 brand to be lifted at a triggered condition, Forces can
 make it glow visibly on the subject, and Spirit can be
 used to make it a permanent part of the subject's avatar.
-72 Enlightened Grimoire
 Curse of the Mayfly
 Mage: The Ascension First Edition page 222
 Entropy 4, Life 4
@@ -4693,7 +4690,6 @@ to new condition, making her a rather effective
 antiquer. The Matter 3 version restores, the Matter 4
 version recreates fully the object at an earlier point in its
 timeline.
-92 Enlightened Grimoire
 Perfection of the True Form
 Book of Crafts page 41
 Matter 3
@@ -4790,8 +4786,6 @@ Matter 4
 The Mage can transform virtually any substance into
 virtually any other. The mage can only affect one type of
 material at a time.
-94 Enlightened Grimoire
-Miscellaneous
 Checklist
 Convention Book: Void Engineers (Revised) page 85
 Entropy 2 or Prime 5
@@ -5619,7 +5613,6 @@ Spirit 3
 By humming a Songline, the Mage can take advantage
 of the spatial distortion of the Dreamtime to move to
 any other point along the line instantaneously.
-110 Enlightened Grimoire
 Songline Walking
 Dead Magic 2 page 66
 Spirit 1
@@ -9394,7 +9387,6 @@ Correspondence 3, Life 2, Mind 2
 By wearing only fragrant floral leis and beating out a
 primal rhythm on a drum, a Polynesian Mage can incite
 passion in a person of their choosing.
-184 Enlightened Grimoire
 Lecherous Kiss
 Book of Shadows page 142
 Mind 2, Life 2, Prime 2
@@ -9516,7 +9508,6 @@ elaborate it is and ties the membership into the target's
 identity. This allows the user of the ritual to instill one
 idea or emotional reaction to the target, most often
 loyalty to the organization and its ideals.
-186 Enlightened Grimoire
 The Look/The Word
 Technocracy: Syndicate page 46
 Mind 2

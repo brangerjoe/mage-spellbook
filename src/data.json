@@ -77,7 +77,7 @@
         "description": "The shaman awakens the spirit of a location (size determines number of successes required) and leaves some king of object or symbol for the spirit. This object causes the spirit to either help or hinder those who are there for the duration of the effect. For a longer duration, the spirit must be negotiated with directly."
     },
     {
-        "name": "10 Enlightened Grimoire",
+        "name": "Luck of the Lotus",
         "sphereCostRaw": "Entropy 3, Mind 2, optional Correspondence 2",
         "sphereCost": [
             [
@@ -2385,7 +2385,7 @@
         "description": "Using complex statistics, the Iterator can predict the future (to reasonable accuracy) of a single person, place or thing."
     },
     {
-        "name": "32 Enlightened Grimoire",
+        "name": "Play Back",
         "sphereCostRaw": "Data 2, Time 2",
         "sphereCost": [
             [
@@ -6293,7 +6293,7 @@
         "description": "This rote has two forms. Both twist the target's bones until they break, harming the target and often leaving them disabled without magical healing. One version is attempting to cause as much damage as possible, and it does aggravated damage. The other is instead attempting to cause permanent disability, in which case lethal damage is done, but for the duration of the effect, the limbs being twisted are useless."
     },
     {
-        "name": "72 Enlightened Grimoire",
+        "name": "Curse of the Mayfly",
         "sphereCostRaw": "Entropy 4, Life 4",
         "sphereCost": [
             [
@@ -8149,7 +8149,7 @@
         "description": "Penny Dreadful designed this rote to restore old items to new condition, making her a rather effective antiquer. The Matter 3 version restores, the Matter 4 version recreates fully the object at an earlier point in its timeline."
     },
     {
-        "name": "92 Enlightened Grimoire",
+        "name": "Perfection of the True Form",
         "sphereCostRaw": "Matter 3",
         "sphereCost": [
             [
@@ -8327,7 +8327,7 @@
         "description": "The Mage can transform virtually any substance into virtually any other. The mage can only affect one type of material at a time."
     },
     {
-        "name": "94 Enlightened Grimoire",
+        "name": "Checklist",
         "sphereCostRaw": "Entropy 2 or Prime 5",
         "sphereCost": [
             [
@@ -9678,7 +9678,7 @@
         "description": "By humming a Songline, the Mage can take advantage of the spatial distortion of the Dreamtime to move to any other point along the line instantaneously."
     },
     {
-        "name": "110 Enlightened Grimoire",
+        "name": "Songline Walking",
         "sphereCostRaw": "Spirit 1",
         "sphereCost": [
             [
@@ -16239,7 +16239,7 @@
         "description": "By wearing only fragrant floral leis and beating out a primal rhythm on a drum, a Polynesian Mage can incite passion in a person of their choosing."
     },
     {
-        "name": "184 Enlightened Grimoire",
+        "name": "Lecherous Kiss",
         "sphereCostRaw": "Mind 2, Life 2, Prime 2",
         "sphereCost": [
             [
@@ -16488,7 +16488,7 @@
         "description": "Initiation rites are used on new members of many organizations, most notable the Order of Reason and the Technocracy. This rite is more effective the more elaborate it is and ties the membership into the target's identity. This allows the user of the ritual to instill one idea or emotional reaction to the target, most often loyalty to the organization and its ideals."
     },
     {
-        "name": "186 Enlightened Grimoire",
+        "name": "The Look/The Word",
         "sphereCostRaw": "Mind 2",
         "sphereCost": [
             [
