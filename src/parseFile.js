@@ -32,7 +32,7 @@ const parseSpheres = (str) => {
         const spheres = possibility.split(",");
         for (sphere of spheres) {
             // sphere: 'Spirit 3'
-            const sphereParts = sphere.trim().replace("Primal Utility", "PrimalUtility").split(" ");
+            const sphereParts = sphere.trim().replace("Primal Utility", "Prime").split(" ");
             const name = sphereParts[0];
             const cost = parseInt(sphereParts[1]);
 

@@ -36,14 +36,14 @@ function App() {
 		alignItems: 'center',
 		padding: '40px 20px',
 		backgroundColor: colors.secondary,
-		width: '100%',
-		minHeight: '100vh',
+		// width: '100%',
+		// minHeight: '100vh',
 	};
 
 	const contentContainerStyle: React.CSSProperties = {
 		display: 'flex',
 		flexDirection: 'row',
-		width: '800px',
+		minWidth: '800px',
 		marginTop: '20px',
 		backgroundColor: colors.primary,
 		padding: '20px',
