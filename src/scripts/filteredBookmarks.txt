@@ -1,0 +1,523 @@
+BookmarkTitle: Blessings and Curses
+BookmarkLevel: 2
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Flexible Use
+BookmarkLevel: 3
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Blessings
+BookmarkLevel: 3
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Curses
+BookmarkLevel: 3
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Computers
+BookmarkLevel: 2
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Digital Web
+BookmarkLevel: 3
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Electronics
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Hacking and Information
+BookmarkLevel: 3
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Upgrades
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Divination and Fate
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Espionage
+BookmarkLevel: 3
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Fate
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Oaths
+BookmarkLevel: 3
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Prophecy
+BookmarkLevel: 3
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Scrying
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Elemental Magick
+BookmarkLevel: 2
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: General
+BookmarkLevel: 3
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Earth
+BookmarkLevel: 3
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Electricity
+BookmarkLevel: 3
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Fire and Heat
+BookmarkLevel: 3
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Light
+BookmarkLevel: 3
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Water and Weather
+BookmarkLevel: 3
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Energy-Work
+BookmarkLevel: 3
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: Enchanced Combat
+BookmarkLevel: 2
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Utility
+BookmarkLevel: 3
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Coordination
+BookmarkLevel: 3
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: Martial Arts
+BookmarkLevel: 3
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: Melee
+BookmarkLevel: 3
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: Ranged
+BookmarkLevel: 3
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: Healing and Harming
+BookmarkLevel: 2
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: Diagnostics
+BookmarkLevel: 3
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: Drugs and Poisons
+BookmarkLevel: 3
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: Harming
+BookmarkLevel: 3
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: Healing
+BookmarkLevel: 3
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Mental Health
+BookmarkLevel: 3
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: Pain
+BookmarkLevel: 3
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Resurrection
+BookmarkLevel: 3
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Temporary Health
+BookmarkLevel: 3
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Inanimate Objects
+BookmarkLevel: 2
+BookmarkPageNumber: 82
+BookmarkBegin
+BookmarkTitle: Alterations
+BookmarkLevel: 3
+BookmarkPageNumber: 82
+BookmarkBegin
+BookmarkTitle: Analysis
+BookmarkLevel: 3
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Conjuration
+BookmarkLevel: 3
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Creation
+BookmarkLevel: 3
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Destruction
+BookmarkLevel: 3
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Enhanced Objects
+BookmarkLevel: 3
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Repair and Reinforcement
+BookmarkLevel: 3
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Transmutation
+BookmarkLevel: 3
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Miscellaneous
+BookmarkLevel: 2
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Checklist
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Confusing Apishtiss
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Degrade Order
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Destroy Structures
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Disintegrator
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Ebon Dragon's Tide
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Jolt
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Kinetic Push
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Lobotomize
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Mershakushtu Qurdu
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Mutate Ephemera
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Night Battle
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Shango's Grave
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Sneaking Shadow
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Telekinesis
+BookmarkLevel: 3
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: Unleash Nanotech Destruction
+BookmarkLevel: 3
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: Unseen Arm
+BookmarkLevel: 3
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: Movement and Communication
+BookmarkLevel: 2
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: Utility
+BookmarkLevel: 3
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: Alter Distance
+BookmarkLevel: 3
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: Astral Travel
+BookmarkLevel: 3
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: Breaking In
+BookmarkLevel: 3
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle: Broadcast
+BookmarkLevel: 3
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: Language
+BookmarkLevel: 3
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: Realms
+BookmarkLevel: 3
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Secret Messages
+BookmarkLevel: 3
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Shadowlands Travel
+BookmarkLevel: 3
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: Sleeping Land
+BookmarkLevel: 3
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Teleportation
+BookmarkLevel: 3
+BookmarkPageNumber: 111
+BookmarkBegin
+BookmarkTitle: Umbral Travel
+BookmarkLevel: 3
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: Unusual Environments
+BookmarkLevel: 3
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: Unusual Modes
+BookmarkLevel: 3
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Mystic Perception
+BookmarkLevel: 2
+BookmarkPageNumber: 120
+BookmarkBegin
+BookmarkTitle: Correspondence/Data
+BookmarkLevel: 3
+BookmarkPageNumber: 120
+BookmarkBegin
+BookmarkTitle: Entropy
+BookmarkLevel: 3
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: Forces
+BookmarkLevel: 3
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: Life
+BookmarkLevel: 3
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: Matter
+BookmarkLevel: 3
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Mind
+BookmarkLevel: 3
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Prime/Primal Utility
+BookmarkLevel: 3
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: Spirit/Dimensional Science
+BookmarkLevel: 3
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: Time
+BookmarkLevel: 3
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Complex
+BookmarkLevel: 3
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: Necromancy
+BookmarkLevel: 2
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: Fetters
+BookmarkLevel: 3
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: Ghosts and the Shadowlands
+BookmarkLevel: 3
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: Rebirth
+BookmarkLevel: 3
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: Servants
+BookmarkLevel: 3
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: Obfuscation
+BookmarkLevel: 2
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle: Blending In
+BookmarkLevel: 3
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle: Disappearing
+BookmarkLevel: 3
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: Unnoticed
+BookmarkLevel: 3
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: Unseen
+BookmarkLevel: 3
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Space-Time Management
+BookmarkLevel: 2
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: Knowledge
+BookmarkLevel: 3
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: Many Places
+BookmarkLevel: 3
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: Time Manipulation
+BookmarkLevel: 3
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: Warping Space
+BookmarkLevel: 3
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: Summoning, Binding and Warding
+BookmarkLevel: 2
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: Basic Interactions
+BookmarkLevel: 3
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: Binding
+BookmarkLevel: 3
+BookmarkPageNumber: 154
+BookmarkBegin
+BookmarkTitle: Perception
+BookmarkLevel: 3
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Summoning
+BookmarkLevel: 3
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: Warding
+BookmarkLevel: 3
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: Transformations
+BookmarkLevel: 2
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: Alter Appearance
+BookmarkLevel: 3
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: Alteration
+BookmarkLevel: 3
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: Creation
+BookmarkLevel: 3
+BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: Metamorphosis
+BookmarkLevel: 3
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: Self Improvement
+BookmarkLevel: 3
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: Uncanny Influence
+BookmarkLevel: 2
+BookmarkPageNumber: 182
+BookmarkBegin
+BookmarkTitle: Anger and Calm
+BookmarkLevel: 3
+BookmarkPageNumber: 182
+BookmarkBegin
+BookmarkTitle: Fear and Intimidation
+BookmarkLevel: 3
+BookmarkPageNumber: 183
+BookmarkBegin
+BookmarkTitle: Seduction
+BookmarkLevel: 3
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: Other Emotions
+BookmarkLevel: 3
+BookmarkPageNumber: 185
+BookmarkBegin
+BookmarkTitle: Animal Control
+BookmarkLevel: 3
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Attention
+BookmarkLevel: 3
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: Cooperation
+BookmarkLevel: 3
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: Disruption
+BookmarkLevel: 3
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: Dreams
+BookmarkLevel: 3
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: Illusions
+BookmarkLevel: 3
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: Memory
+BookmarkLevel: 3
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: Mind Control
+BookmarkLevel: 3
+BookmarkPageNumber: 194

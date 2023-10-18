@@ -1,0 +1,4976 @@
+BookmarkBegin
+BookmarkTitle: Enlightened Grimoire (Cover)
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Credits
+BookmarkLevel: 2
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: Table of Contents
+BookmarkLevel: 2
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: Introduction
+BookmarkLevel: 2
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: What is this book?
+BookmarkLevel: 3
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Differences Between Editions
+BookmarkLevel: 4
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: First Edition
+BookmarkLevel: 4
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Second Edition
+BookmarkLevel: 4
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Sorcerer&#8217;s Crusade
+BookmarkLevel: 4
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Revised Edition
+BookmarkLevel: 4
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: How to Use This Book
+BookmarkLevel: 3
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Blessings and Curses
+BookmarkLevel: 2
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Flexible Use
+BookmarkLevel: 3
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Balance the Scales
+BookmarkLevel: 4
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Blight/Farmer&#8217;s Favor
+BookmarkLevel: 4
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Luck Blessing/Curse
+BookmarkLevel: 4
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Luck of the Lotus
+BookmarkLevel: 4
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Namburbu
+BookmarkLevel: 4
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Threefold Return
+BookmarkLevel: 4
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Blessings
+BookmarkLevel: 3
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Ansu Ishten
+BookmarkLevel: 4
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Banishing Blessing
+BookmarkLevel: 4
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Baptism Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Beginner's Luck
+BookmarkLevel: 4
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Bless the Heavenly Flower
+BookmarkLevel: 4
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Bum a Dollar from the Universe
+BookmarkLevel: 4
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Buzzwords
+BookmarkLevel: 4
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Caesar&#8217;s Due
+BookmarkLevel: 4
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Epiphany of the Muse
+BookmarkLevel: 4
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Games of Luck
+BookmarkLevel: 4
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Luck Be a Lady Tonight
+BookmarkLevel: 4
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Masquerade to Adulthood
+BookmarkLevel: 4
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Midwife's Blessing
+BookmarkLevel: 4
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Nobody Dies in Vegas
+BookmarkLevel: 4
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Reflecting Bane
+BookmarkLevel: 4
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Shishipat's Favor
+BookmarkLevel: 4
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Waiting to Exhale
+BookmarkLevel: 4
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Weeping for Tammuz
+BookmarkLevel: 4
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Wurnan Blessing
+BookmarkLevel: 4
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Curses
+BookmarkLevel: 3
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Ace of Diamonds
+BookmarkLevel: 4
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Actively Actuarial
+BookmarkLevel: 4
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Death Curse
+BookmarkLevel: 4
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Death Wish
+BookmarkLevel: 4
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Learn-It
+BookmarkLevel: 4
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Rival&#8217;s Curse
+BookmarkLevel: 4
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Sha'ir's Sentence
+BookmarkLevel: 4
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Spoiling
+BookmarkLevel: 4
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Statistical Mechanics
+BookmarkLevel: 4
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Vext
+BookmarkLevel: 4
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Computers
+BookmarkLevel: 2
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Digital Web
+BookmarkLevel: 3
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Brand (the Rawhide Rote)
+BookmarkLevel: 4
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Create Virtual Object/Create Daemon
+BookmarkLevel: 4
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Digital Disruption
+BookmarkLevel: 4
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Doe's Password
+BookmarkLevel: 4
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Encode
+BookmarkLevel: 4
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Energy Transformation
+BookmarkLevel: 4
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Feedback
+BookmarkLevel: 4
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: FIRP
+BookmarkLevel: 4
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Fractal Encryption
+BookmarkLevel: 4
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Hardware Entry
+BookmarkLevel: 4
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Information Superhighway
+BookmarkLevel: 4
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Instant Offline
+BookmarkLevel: 4
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Online Virus Transmitter Program
+BookmarkLevel: 4
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Overwrite
+BookmarkLevel: 4
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Parallax
+BookmarkLevel: 4
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Restrict Sector
+BookmarkLevel: 4
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: TechnoVision
+BookmarkLevel: 4
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Virtual Talisman Transmogrification
+BookmarkLevel: 4
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Webcrawlers
+BookmarkLevel: 4
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Electronics
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Boot Buzzer
+BookmarkLevel: 4
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Burn Out
+BookmarkLevel: 4
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: FOR NEXT Loop
+BookmarkLevel: 4
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Red Button
+BookmarkLevel: 4
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: System Crash
+BookmarkLevel: 4
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: System Havoc
+BookmarkLevel: 4
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: That Rascal Puff
+BookmarkLevel: 4
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Hacking and Information
+BookmarkLevel: 3
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Black Card/Little Black Box
+BookmarkLevel: 4
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Captain's Treasure
+BookmarkLevel: 4
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Core Dump
+BookmarkLevel: 4
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Disk-Doctor
+BookmarkLevel: 4
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: DRM
+BookmarkLevel: 4
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Encrypt
+BookmarkLevel: 4
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Graphic Transmission
+BookmarkLevel: 4
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Hacker's Glance
+BookmarkLevel: 4
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Intel
+BookmarkLevel: 4
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Mental Interface
+BookmarkLevel: 4
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Remote Access
+BookmarkLevel: 4
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Virtual Lockpick
+BookmarkLevel: 4
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Upgrades
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: AI (Artificial Intelligence)
+BookmarkLevel: 4
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Audience of Inanna
+BookmarkLevel: 4
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Personal Assistant Software
+BookmarkLevel: 4
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Psychic Interface
+BookmarkLevel: 4
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Remote Programming
+BookmarkLevel: 4
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Divination and Fate
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Espionage
+BookmarkLevel: 3
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Book of Whispers
+BookmarkLevel: 4
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Crowd Surfing
+BookmarkLevel: 4
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Eavesdropper
+BookmarkLevel: 4
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: High-Definition
+BookmarkLevel: 4
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Monitor Communications
+BookmarkLevel: 4
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Nearest and Dearest
+BookmarkLevel: 4
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Phone Tap
+BookmarkLevel: 4
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: PIN Drop
+BookmarkLevel: 4
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Squaring the Circle
+BookmarkLevel: 4
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Surveillance
+BookmarkLevel: 4
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Telescreen
+BookmarkLevel: 4
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Tracking Device
+BookmarkLevel: 4
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Fate
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Adad
+BookmarkLevel: 4
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Chaos Butterfly
+BookmarkLevel: 4
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Contemplation
+BookmarkLevel: 4
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: Dogon Divination
+BookmarkLevel: 4
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: Find the Lost
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Istar
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Laying on of Hands
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Lighting the Path
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Read the Lightning
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Samas
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Search Engine
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Silent Promise of the Spring Tortoise
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Sin
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Wyrd Visions
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Oaths
+BookmarkLevel: 3
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Binding Oath
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Fate Mark
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Geasa
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Major Geas
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Minor Geas
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Secret Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Sparrow&#8217;s Fall
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Prophecy
+BookmarkLevel: 3
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: All Tomorrow's Parties
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Anunnaku
+BookmarkLevel: 4
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Biometric Holographic Recreation
+BookmarkLevel: 4
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Celestial Prediction
+BookmarkLevel: 4
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Chronopathy
+BookmarkLevel: 4
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Crime and Consequence
+BookmarkLevel: 4
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Divinations
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Don't Cross the Streams
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Forecasting
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: The Geometry of Trade
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Hepatoscopy
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Jung's Trick
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Long-Range Eyes
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Manipulate Time Fragment
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Nonlinear Prediction
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Peeping Tom
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Planned Projection
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Play Back
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Postcognition
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Psychometry
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Quo Vadis? (Whither Goest Thou?)
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Reading the Umbral Skein
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Running Scenarios
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Salmon of Wisdom
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: The Scented Handkerchief
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Songs of Future Days
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Strategic Inefficiency Analysis
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Sugar Magnolias
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Turning the Wheel of Ages
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: View the Scattered Lotus Petals
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Scrying
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Area Scan
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Auric Trail
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Check the Corners
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Correspondence Sensing
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Distant Sight
+BookmarkLevel: 4
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Divided Sight
+BookmarkLevel: 4
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Filter All-Space
+BookmarkLevel: 4
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Geometric Jars
+BookmarkLevel: 4
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Heat Seeking
+BookmarkLevel: 4
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Heat Trace
+BookmarkLevel: 4
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Map the True Way
+BookmarkLevel: 4
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Open/Close Window
+BookmarkLevel: 4
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Scan Non-Local Universe
+BookmarkLevel: 4
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Scrying
+BookmarkLevel: 4
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Seizing the Forgotten
+BookmarkLevel: 4
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Stalking the Void
+BookmarkLevel: 4
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Elemental Magick
+BookmarkLevel: 2
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: General
+BookmarkLevel: 3
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Anger in the Land
+BookmarkLevel: 4
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Banish Elemental
+BookmarkLevel: 4
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Cycle of the Five Agents
+BookmarkLevel: 4
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Time Lock
+BookmarkLevel: 4
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: No Surrender
+BookmarkLevel: 4
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: Rouse the Dragon
+BookmarkLevel: 4
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: Yao Su Dragon Thunder
+BookmarkLevel: 4
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: Earth
+BookmarkLevel: 3
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Cuicuilco's Demise
+BookmarkLevel: 4
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Embracing the Earth Mother
+BookmarkLevel: 4
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Pele Wai'ula (Pele's Blood)
+BookmarkLevel: 4
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Pele's Wrath
+BookmarkLevel: 4
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: TWACI
+BookmarkLevel: 4
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Electricity
+BookmarkLevel: 3
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Arc
+BookmarkLevel: 4
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Call Lightning
+BookmarkLevel: 4
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Discharge Static
+BookmarkLevel: 4
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Electrical Chaos
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Lightning Gateway
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Pulse of the Electro-Stream
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Fire and Heat
+BookmarkLevel: 3
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Akua Kumu Haka (Guided Fireball)
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Awaken Flame
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Balefire
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Ball of Abysmal Flames
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Betrayal of the Burning Arrow
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Devouring Gullet of Flame
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Dragonstorm
+BookmarkLevel: 4
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Eternal Flame
+BookmarkLevel: 4
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Fire Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Friction Curse
+BookmarkLevel: 4
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Gabriel&#8217;s Embrace
+BookmarkLevel: 4
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Hermes&#8217; Brand
+BookmarkLevel: 4
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Ignis
+BookmarkLevel: 4
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Inferno
+BookmarkLevel: 4
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Lotus Bloom
+BookmarkLevel: 4
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Phlogiston Manipulation
+BookmarkLevel: 4
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Phlogiston Phlux
+BookmarkLevel: 4
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Pop Goes the Weasel
+BookmarkLevel: 4
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Possess Flame
+BookmarkLevel: 4
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Proof against Immolation
+BookmarkLevel: 4
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Shih-Huang-Ti's Marvelous Game
+BookmarkLevel: 4
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Wildfire
+BookmarkLevel: 4
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Wrath of Heaven
+BookmarkLevel: 4
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Light
+BookmarkLevel: 3
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Fiat Lux
+BookmarkLevel: 4
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Filter&#8217;d Lantern-Light
+BookmarkLevel: 4
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Flash
+BookmarkLevel: 4
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Glorious Sword of Heaven
+BookmarkLevel: 4
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Laser Enhancement
+BookmarkLevel: 4
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Laser Production
+BookmarkLevel: 4
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Tsuiho - The Fires of Heaven
+BookmarkLevel: 4
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Water and Weather
+BookmarkLevel: 3
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: 'Ahiu Nalu (Rogue Wave)
+BookmarkLevel: 4
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Calling the Wind Lords
+BookmarkLevel: 4
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Cloud Cover
+BookmarkLevel: 4
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Dousing
+BookmarkLevel: 4
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Dowsing
+BookmarkLevel: 4
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Heenalu (Wave Walking)
+BookmarkLevel: 4
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Mahu (Steam)
+BookmarkLevel: 4
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Sing Down the Rain
+BookmarkLevel: 4
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Storm Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Tempest in a Teapot
+BookmarkLevel: 4
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Waipuilani (Waterspout)
+BookmarkLevel: 4
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Weather Working
+BookmarkLevel: 4
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Energy-Work
+BookmarkLevel: 3
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: Meta-Magick
+BookmarkLevel: 4
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: Body of Light
+BookmarkLevel: 5
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: Cold Water's Blessing
+BookmarkLevel: 5
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: Contingent Effect
+BookmarkLevel: 5
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: Counterspell Rune
+BookmarkLevel: 5
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: Divert Prime Force
+BookmarkLevel: 5
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: Enchant Life
+BookmarkLevel: 5
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: Master's Enchantment
+BookmarkLevel: 5
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: Parma Magica
+BookmarkLevel: 5
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: Programmed Event
+BookmarkLevel: 5
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: Watch the Weaving
+BookmarkLevel: 5
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: Nodes
+BookmarkLevel: 4
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: Awaken the Sleeping Earth
+BookmarkLevel: 5
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: Drain Node
+BookmarkLevel: 5
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: Glorious Is the Temple
+BookmarkLevel: 5
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Leying of the Line
+BookmarkLevel: 5
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Locate Quintessence Flow
+BookmarkLevel: 5
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Node Raider
+BookmarkLevel: 5
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Primal Credit Rating
+BookmarkLevel: 5
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Prime Location
+BookmarkLevel: 5
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Sense Node
+BookmarkLevel: 5
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Tap Node
+BookmarkLevel: 5
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Terminal Sanitization
+BookmarkLevel: 5
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Wellspring
+BookmarkLevel: 5
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Quintessence and Tass
+BookmarkLevel: 4
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Bond of Blood
+BookmarkLevel: 5
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: The Burning Lotus
+BookmarkLevel: 5
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Convert Node to Tass
+BookmarkLevel: 5
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Cup of Joe
+BookmarkLevel: 5
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Drain Tass
+BookmarkLevel: 5
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Economic Warfare
+BookmarkLevel: 5
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: Footbind
+BookmarkLevel: 5
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: Fount of Paradise
+BookmarkLevel: 5
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: The Hand of the Siphoner
+BookmarkLevel: 5
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: Hymn of Beatific Harmony
+BookmarkLevel: 5
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: Primal Infusion
+BookmarkLevel: 5
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: Primal Net
+BookmarkLevel: 5
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Radiate Prime Energy
+BookmarkLevel: 5
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Recharge Device
+BookmarkLevel: 5
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Recharge Gift
+BookmarkLevel: 5
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: The Rush
+BookmarkLevel: 5
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Sense Quintessence
+BookmarkLevel: 5
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Spinning Thread
+BookmarkLevel: 5
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Reality Manipulation
+BookmarkLevel: 4
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Delay Paradox
+BookmarkLevel: 5
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Flames of Purification
+BookmarkLevel: 5
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Healthy Skepticism
+BookmarkLevel: 5
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Holy Stroke
+BookmarkLevel: 5
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Matter-Energy Converter
+BookmarkLevel: 5
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Paradox Ward
+BookmarkLevel: 5
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Penance for the Sicarii
+BookmarkLevel: 5
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Quintessence Blast
+BookmarkLevel: 5
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Spirit Pilgrimage
+BookmarkLevel: 5
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Resonance and Synergy
+BookmarkLevel: 4
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Balancing the Furies
+BookmarkLevel: 5
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Change the Resonance
+BookmarkLevel: 5
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Node Spike
+BookmarkLevel: 5
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Occlude the Seal of Power
+BookmarkLevel: 5
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Orgone Accumulator
+BookmarkLevel: 5
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Psychic Impression
+BookmarkLevel: 5
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Tag
+BookmarkLevel: 5
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Sacrifice
+BookmarkLevel: 4
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: The Ball Game
+BookmarkLevel: 5
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Blood for the Gods
+BookmarkLevel: 5
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Blood of the Sacred King
+BookmarkLevel: 5
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Cup of Itz
+BookmarkLevel: 5
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: Heart for Huitzilopochtli
+BookmarkLevel: 5
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: Heart&#8217;s Blood
+BookmarkLevel: 5
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: Kaumaha (Sacrifice)
+BookmarkLevel: 5
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: Lambs to the Slaughter
+BookmarkLevel: 5
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: Midnight Oil
+BookmarkLevel: 5
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: Self-Sacrifice
+BookmarkLevel: 5
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: Enchanced Combat
+BookmarkLevel: 2
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Utility
+BookmarkLevel: 3
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Arrest the Flight of Arrows
+BookmarkLevel: 4
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Crowdsourced Combat
+BookmarkLevel: 4
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Infidel's Laughter
+BookmarkLevel: 4
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Lucky Blow
+BookmarkLevel: 4
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Sense the Echo of the Dragon
+BookmarkLevel: 4
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: Spearcatcher Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: Strategy
+BookmarkLevel: 4
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: Targeting Computation
+BookmarkLevel: 4
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: Time-Motion Study
+BookmarkLevel: 4
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: Wearing the Bear Shirt
+BookmarkLevel: 4
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: Wrath of God
+BookmarkLevel: 4
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: Coordination
+BookmarkLevel: 3
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: Battle Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: Coordinated Fire
+BookmarkLevel: 4
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: Hail of Bullets
+BookmarkLevel: 4
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: Legion's Life
+BookmarkLevel: 4
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: Marching Orders
+BookmarkLevel: 4
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: Mind of the Ant Hill
+BookmarkLevel: 4
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: Martial Arts
+BookmarkLevel: 3
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: 108 Plum Blossoms
+BookmarkLevel: 4
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: Arashi-Waza
+BookmarkLevel: 4
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: Bullet Catch
+BookmarkLevel: 4
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: Dragon Fist
+BookmarkLevel: 4
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: Eight Drunken Hsien
+BookmarkLevel: 4
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: The Final Blow
+BookmarkLevel: 4
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: Flying Dragon Kick
+BookmarkLevel: 4
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: Focus of the Blow
+BookmarkLevel: 4
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: Hands of Death
+BookmarkLevel: 4
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: Long Fist
+BookmarkLevel: 4
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: Piercing Cry
+BookmarkLevel: 4
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: Purifying Step
+BookmarkLevel: 4
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: Repeating Blow
+BookmarkLevel: 4
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: Righteous Fist
+BookmarkLevel: 4
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: Rolling Hands
+BookmarkLevel: 4
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: Screech of the Owl
+BookmarkLevel: 4
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: Spirit Wounder
+BookmarkLevel: 4
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: Melee
+BookmarkLevel: 3
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: Blade Sense
+BookmarkLevel: 4
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: The Hero&#8217;s Challenge
+BookmarkLevel: 4
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: Iron Snake
+BookmarkLevel: 4
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: Jabarut (The Darwishim Battle Trance)
+BookmarkLevel: 4
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: Splitting a Cuirass
+BookmarkLevel: 4
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: Swordbreaker Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: Wind-Water Skein
+BookmarkLevel: 4
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: Ranged
+BookmarkLevel: 3
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: Deadaim
+BookmarkLevel: 4
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: Death Ray
+BookmarkLevel: 4
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: Emit Beam-Ray
+BookmarkLevel: 4
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: Golden Gunman
+BookmarkLevel: 4
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: Grand Salvo
+BookmarkLevel: 4
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: Holdout Weapon
+BookmarkLevel: 4
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: Hot-Shotting
+BookmarkLevel: 4
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: Laserblast
+BookmarkLevel: 4
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: Magic Bullet
+BookmarkLevel: 4
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: Ricochet
+BookmarkLevel: 4
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: Rudra's Bow
+BookmarkLevel: 4
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: The Swift Lock
+BookmarkLevel: 4
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: Tamping
+BookmarkLevel: 4
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: Tension
+BookmarkLevel: 4
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: Trickshot
+BookmarkLevel: 4
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: Healing and Harming
+BookmarkLevel: 2
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: Diagnostics
+BookmarkLevel: 3
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: Bloodsight
+BookmarkLevel: 4
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: Conclave Wellness Works
+BookmarkLevel: 4
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: Detect Mental Anomalies
+BookmarkLevel: 4
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: Examine Humors
+BookmarkLevel: 4
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: Prayer of Healing Revelation
+BookmarkLevel: 4
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: Drugs and Poisons
+BookmarkLevel: 3
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: Accidental Overdose
+BookmarkLevel: 4
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: Adaptive Chemistry
+BookmarkLevel: 4
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: Cinnabar Tears
+BookmarkLevel: 4
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: DMSO
+BookmarkLevel: 4
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: Drug Enhancement
+BookmarkLevel: 4
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: Experience Substance
+BookmarkLevel: 4
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: Good Eatin'/Cleanse the Clown
+BookmarkLevel: 4
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: Manufacture Enlightened Drugs
+BookmarkLevel: 4
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: Metabolic Mastery
+BookmarkLevel: 4
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: Persephone's Nectar
+BookmarkLevel: 4
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: The Poison Maiden
+BookmarkLevel: 4
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: Polysorbate
+BookmarkLevel: 4
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: Purge
+BookmarkLevel: 4
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: Purging the System
+BookmarkLevel: 4
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: Purify
+BookmarkLevel: 4
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: Sustenance Pill
+BookmarkLevel: 4
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: Taking Poison for the Enemy
+BookmarkLevel: 4
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: Tolerance
+BookmarkLevel: 4
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: Witch&#8217;s Diplomacy
+BookmarkLevel: 4
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: Harming
+BookmarkLevel: 3
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: Accelerated Aging
+BookmarkLevel: 4
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: Allergic Reaction
+BookmarkLevel: 4
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: Ana'ana (The Death Prayer)
+BookmarkLevel: 4
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: Blight of Aging
+BookmarkLevel: 4
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: Bone Twisting Palm
+BookmarkLevel: 4
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: The Branding Rote
+BookmarkLevel: 4
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: Curse of the Mayfly
+BookmarkLevel: 4
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: Destructive Genegineering
+BookmarkLevel: 4
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: Fluids of Death
+BookmarkLevel: 4
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: Fuck Off/Fuck Off and Die
+BookmarkLevel: 4
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: Gilgul
+BookmarkLevel: 4
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: Heart Murmurs
+BookmarkLevel: 4
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Little Good Death
+BookmarkLevel: 4
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Rip the Man-Body
+BookmarkLevel: 4
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Simulate Inborn Errors of Metabolism
+BookmarkLevel: 4
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Spy's Stigmata
+BookmarkLevel: 4
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Witch&#8217;s Vengeance
+BookmarkLevel: 4
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Healing
+BookmarkLevel: 3
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Aphrodite's Blessing
+BookmarkLevel: 4
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Chirurgeon
+BookmarkLevel: 4
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Distill the Azoth Elixir
+BookmarkLevel: 4
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Ease of Passage
+BookmarkLevel: 4
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: Hajjaj
+BookmarkLevel: 4
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: Heal Self
+BookmarkLevel: 4
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: Heal Simple Creature
+BookmarkLevel: 4
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: Healer Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: Healing Figurine
+BookmarkLevel: 4
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: Healing Slumber
+BookmarkLevel: 4
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: Massage Therapy
+BookmarkLevel: 4
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: Mukashuan
+BookmarkLevel: 4
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: Rapid Healing
+BookmarkLevel: 4
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: Serene Temple
+BookmarkLevel: 4
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: Stay the God's Hand
+BookmarkLevel: 4
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: Surpu
+BookmarkLevel: 4
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: Trauma
+BookmarkLevel: 4
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: Trauma Transmission
+BookmarkLevel: 4
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: Mental Health
+BookmarkLevel: 3
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: Adjust Major Anomalies
+BookmarkLevel: 4
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: Adjust Minor Anomalies
+BookmarkLevel: 4
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: Help Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: Physiological Rule
+BookmarkLevel: 4
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: Quietsong
+BookmarkLevel: 4
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: Pain
+BookmarkLevel: 3
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Branding the Heart
+BookmarkLevel: 4
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Buzz
+BookmarkLevel: 4
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Counter-Irritant
+BookmarkLevel: 4
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: The Curse of Consequences
+BookmarkLevel: 4
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Curse of Macha
+BookmarkLevel: 4
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Degree Absolute
+BookmarkLevel: 4
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Dukhamarana Moksa
+BookmarkLevel: 4
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Endless Parchment
+BookmarkLevel: 4
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: General Anesthesia
+BookmarkLevel: 4
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Knock Out
+BookmarkLevel: 4
+BookmarkPageNumber: 79
+BookmarkBegin
+BookmarkTitle: Prolong Pleasure/Pain
+BookmarkLevel: 4
+BookmarkPageNumber: 79
+BookmarkBegin
+BookmarkTitle: Rubbing of Bones
+BookmarkLevel: 4
+BookmarkPageNumber: 79
+BookmarkBegin
+BookmarkTitle: Turkey Basting
+BookmarkLevel: 4
+BookmarkPageNumber: 79
+BookmarkBegin
+BookmarkTitle: Resurrection
+BookmarkLevel: 3
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Stop-Gap Resurrection
+BookmarkLevel: 4
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Waters of the Well of Life
+BookmarkLevel: 4
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Temporary Health
+BookmarkLevel: 3
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Gift of Prana
+BookmarkLevel: 4
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Hua To's Cure
+BookmarkLevel: 4
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Inanimate Objects
+BookmarkLevel: 2
+BookmarkPageNumber: 82
+BookmarkBegin
+BookmarkTitle: Alterations
+BookmarkLevel: 3
+BookmarkPageNumber: 82
+BookmarkBegin
+BookmarkTitle: Alloy
+BookmarkLevel: 4
+BookmarkPageNumber: 82
+BookmarkBegin
+BookmarkTitle: Alter State
+BookmarkLevel: 4
+BookmarkPageNumber: 82
+BookmarkBegin
+BookmarkTitle: Alter Weight
+BookmarkLevel: 4
+BookmarkPageNumber: 82
+BookmarkBegin
+BookmarkTitle: Guncotton's Blessing
+BookmarkLevel: 4
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: Hidden Features
+BookmarkLevel: 4
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: The Incredible Shrunken Machine
+BookmarkLevel: 4
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: Matter Association
+BookmarkLevel: 4
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: Matter Pattern Disassociation
+BookmarkLevel: 4
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: Melt and Reform
+BookmarkLevel: 4
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle: Sculpture
+BookmarkLevel: 4
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle: Semi Auto CAD CAM
+BookmarkLevel: 4
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle: Tapping the Signal
+BookmarkLevel: 4
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle: Transephemeration Ray Projector
+BookmarkLevel: 4
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle: Transformers
+BookmarkLevel: 4
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Analysis
+BookmarkLevel: 3
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Analyze Substance
+BookmarkLevel: 4
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Evaluation
+BookmarkLevel: 4
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Machine God
+BookmarkLevel: 4
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Perfection of the Tools
+BookmarkLevel: 4
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Conjuration
+BookmarkLevel: 3
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Abundance
+BookmarkLevel: 4
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Apportation
+BookmarkLevel: 4
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Kiss of the Virtuous Maiden
+BookmarkLevel: 4
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Pickpocket
+BookmarkLevel: 4
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Ripple Through Space
+BookmarkLevel: 4
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Spatial Sheath
+BookmarkLevel: 4
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Summon Weapon
+BookmarkLevel: 4
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Creation
+BookmarkLevel: 3
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Dash and a Pinch
+BookmarkLevel: 4
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Exotic Matter
+BookmarkLevel: 4
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Exotic Matter - Antimatter
+BookmarkLevel: 4
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Exotic Matter - Primium
+BookmarkLevel: 4
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Industry
+BookmarkLevel: 4
+BookmarkPageNumber: 87
+BookmarkBegin
+BookmarkTitle: Inscribe Amulet
+BookmarkLevel: 4
+BookmarkPageNumber: 87
+BookmarkBegin
+BookmarkTitle: Jury Rig
+BookmarkLevel: 4
+BookmarkPageNumber: 87
+BookmarkBegin
+BookmarkTitle: Na Kua's Gift
+BookmarkLevel: 4
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: O&#8217;Doul&#8217;s Ingeniae
+BookmarkLevel: 4
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Psychiatric Compounds
+BookmarkLevel: 4
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Spear of my Fathers
+BookmarkLevel: 4
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Spontaneous Material Construction
+BookmarkLevel: 4
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Temple Pillars
+BookmarkLevel: 4
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Destruction
+BookmarkLevel: 3
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Burn-Out
+BookmarkLevel: 4
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Chainbreaker Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Erode Matter
+BookmarkLevel: 4
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Sabotage
+BookmarkLevel: 4
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Sanitize Evidence
+BookmarkLevel: 4
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Slay Machine
+BookmarkLevel: 4
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Tulugaak's Harpoon
+BookmarkLevel: 4
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Enhanced Objects
+BookmarkLevel: 3
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Beads on a String
+BookmarkLevel: 4
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Bottle of Smoke
+BookmarkLevel: 4
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Craft Biomechanism
+BookmarkLevel: 4
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Create Fetish
+BookmarkLevel: 4
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Create Talen
+BookmarkLevel: 4
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: Create Talismans and Artifacts
+BookmarkLevel: 4
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: Enchant Weapon
+BookmarkLevel: 4
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: Fits Like a Glove
+BookmarkLevel: 4
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: Gorningstakkr
+BookmarkLevel: 4
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: Memento Mori
+BookmarkLevel: 4
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Pretty-Shinies
+BookmarkLevel: 4
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Talisman Tattoos
+BookmarkLevel: 4
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Talisman Transmogrification
+BookmarkLevel: 4
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Walking Chair
+BookmarkLevel: 4
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Watchdog
+BookmarkLevel: 4
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Repair and Reinforcement
+BookmarkLevel: 3
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Antiquing
+BookmarkLevel: 4
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: The Aura Adamantium
+BookmarkLevel: 4
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Awaken the Inanimate
+BookmarkLevel: 4
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Bambolai
+BookmarkLevel: 4
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: Berate the Demon
+BookmarkLevel: 4
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: Caffeine Plus
+BookmarkLevel: 4
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: Like Clockwork
+BookmarkLevel: 4
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: Maintain Device
+BookmarkLevel: 4
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: Obsidian Steel
+BookmarkLevel: 4
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: Penny Dreadful's Bright New Penny
+BookmarkLevel: 4
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: Perfection of the True Form
+BookmarkLevel: 4
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Perpetual Motion
+BookmarkLevel: 4
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Shaman's Craft
+BookmarkLevel: 4
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Vitality
+BookmarkLevel: 4
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Transmutation
+BookmarkLevel: 3
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Back to the Earth
+BookmarkLevel: 4
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Back to the Earth
+BookmarkLevel: 4
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: The Golden Lion
+BookmarkLevel: 4
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Luster
+BookmarkLevel: 4
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Seeds of Gold
+BookmarkLevel: 4
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Simple Transmutation
+BookmarkLevel: 4
+BookmarkPageNumber: 94
+BookmarkBegin
+BookmarkTitle: Straw into Gold
+BookmarkLevel: 4
+BookmarkPageNumber: 94
+BookmarkBegin
+BookmarkTitle: Transmutation
+BookmarkLevel: 4
+BookmarkPageNumber: 94
+BookmarkBegin
+BookmarkTitle: Miscellaneous
+BookmarkLevel: 2
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Checklist
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Confusing Apishtiss
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Degrade Order
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Destroy Structures
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Disintegrator
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Ebon Dragon's Tide
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Jolt
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Kinetic Push
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Lobotomize
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Mershakushtu Qurdu
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Mutate Ephemera
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Night Battle
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Shango's Grave
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Sneaking Shadow
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Telekinesis
+BookmarkLevel: 3
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: Unleash Nanotech Destruction
+BookmarkLevel: 3
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: Unseen Arm
+BookmarkLevel: 3
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: Movement and Communication
+BookmarkLevel: 2
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: Utility
+BookmarkLevel: 3
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: Consecration
+BookmarkLevel: 4
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: Joyride
+BookmarkLevel: 4
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: Pathfinding
+BookmarkLevel: 4
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: Pixie Lead
+BookmarkLevel: 4
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: Remembrance
+BookmarkLevel: 4
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: Remote Piloting Override
+BookmarkLevel: 4
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: Teleoperate
+BookmarkLevel: 4
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: Wayfarer&#8217;s Reckoning
+BookmarkLevel: 4
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: We'll Get There
+BookmarkLevel: 4
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: Alter Distance
+BookmarkLevel: 3
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: Ala Wai (Short Waters)
+BookmarkLevel: 4
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: Merlin's Ride
+BookmarkLevel: 4
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: The Seven-League Stride
+BookmarkLevel: 4
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: Shortcut
+BookmarkLevel: 4
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: Astral Travel
+BookmarkLevel: 3
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: Astral Projection
+BookmarkLevel: 4
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: Internalize Ephemeral Object
+BookmarkLevel: 4
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle: Leap Beyond
+BookmarkLevel: 4
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle: Untether
+BookmarkLevel: 4
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle: Breaking In
+BookmarkLevel: 3
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle: Amon Maat, &quot;Hidden Justice&quot;
+BookmarkLevel: 4
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle: Dingo's Touch
+BookmarkLevel: 4
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle: Infiltration
+BookmarkLevel: 4
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle: Pass the Key
+BookmarkLevel: 4
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle: Safecracker
+BookmarkLevel: 4
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle: Thief in the Night
+BookmarkLevel: 4
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: Broadcast
+BookmarkLevel: 3
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: Chain of Whispers
+BookmarkLevel: 4
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: Cry of Distress
+BookmarkLevel: 4
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: Death Song
+BookmarkLevel: 4
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: Dreamcry
+BookmarkLevel: 4
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: Dreamline
+BookmarkLevel: 4
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: Flower Gesture
+BookmarkLevel: 4
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: Override Signal
+BookmarkLevel: 4
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: Pirated Media Blitz
+BookmarkLevel: 4
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: Point-to-Point Narrow-Band Transmission
+BookmarkLevel: 4
+BookmarkPageNumber: 105
+BookmarkBegin
+BookmarkTitle: Public Posting
+BookmarkLevel: 4
+BookmarkPageNumber: 105
+BookmarkBegin
+BookmarkTitle: Sound/Thought Transfer
+BookmarkLevel: 4
+BookmarkPageNumber: 105
+BookmarkBegin
+BookmarkTitle: Subliminal Impulse
+BookmarkLevel: 4
+BookmarkPageNumber: 105
+BookmarkBegin
+BookmarkTitle: Subliminal Transmission
+BookmarkLevel: 4
+BookmarkPageNumber: 105
+BookmarkBegin
+BookmarkTitle: Telepathy
+BookmarkLevel: 4
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: Temper Viasilicos
+BookmarkLevel: 4
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: Thunder&#8217;s Gauntlet
+BookmarkLevel: 4
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: Language
+BookmarkLevel: 3
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: Adder&#8217;s Tongue
+BookmarkLevel: 4
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: Auspicious Dialogues
+BookmarkLevel: 4
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: Babel
+BookmarkLevel: 4
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: Ravensong
+BookmarkLevel: 4
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: Semiotic Communication
+BookmarkLevel: 4
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: Speaking in Tongues
+BookmarkLevel: 4
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: Time&#8217;s Tongue
+BookmarkLevel: 4
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Tower of Babel/Speak in Tongues
+BookmarkLevel: 4
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: What Did You Say?
+BookmarkLevel: 4
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Realms
+BookmarkLevel: 3
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Breach Alien Gauntlet
+BookmarkLevel: 4
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Create Gauntlet
+BookmarkLevel: 4
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Create Horizon Realm Construct
+BookmarkLevel: 4
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Secret Messages
+BookmarkLevel: 3
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Corrupt Text
+BookmarkLevel: 4
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Craft Tome
+BookmarkLevel: 4
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Cypher Wheel
+BookmarkLevel: 4
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: Neon-Mail
+BookmarkLevel: 4
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: Unraveling the Text
+BookmarkLevel: 4
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: Unseen Nomenclature
+BookmarkLevel: 4
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: Writing on the Wall
+BookmarkLevel: 4
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: Shadowlands Travel
+BookmarkLevel: 3
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: Agama Re Sojourn/Agama Te Sojourn
+BookmarkLevel: 4
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: Death&#8217;s Passage
+BookmarkLevel: 4
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: The Gate of Culsu
+BookmarkLevel: 4
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Going Under the Cloak
+BookmarkLevel: 4
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Wings of the Lasa
+BookmarkLevel: 4
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Sleeping Land
+BookmarkLevel: 3
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Liquor's Calling
+BookmarkLevel: 4
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Presentation of the Passage Stick
+BookmarkLevel: 4
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Sense the Dreamsong
+BookmarkLevel: 4
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Sing the Dreaming Earth
+BookmarkLevel: 4
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Songline Soaring
+BookmarkLevel: 4
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Songline Walking
+BookmarkLevel: 4
+BookmarkPageNumber: 111
+BookmarkBegin
+BookmarkTitle: Teleportation
+BookmarkLevel: 3
+BookmarkPageNumber: 111
+BookmarkBegin
+BookmarkTitle: Alley Vanish
+BookmarkLevel: 4
+BookmarkPageNumber: 111
+BookmarkBegin
+BookmarkTitle: Daedalus Gateway
+BookmarkLevel: 4
+BookmarkPageNumber: 111
+BookmarkBegin
+BookmarkTitle: The Endless Pool
+BookmarkLevel: 4
+BookmarkPageNumber: 111
+BookmarkBegin
+BookmarkTitle: Free Conjunction
+BookmarkLevel: 4
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: Heaven's Tumbling Pebbles
+BookmarkLevel: 4
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: Hermes Portal
+BookmarkLevel: 4
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: Mercury&#8217;s Bridge
+BookmarkLevel: 4
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: Riding the Railroad
+BookmarkLevel: 4
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: Shuttle
+BookmarkLevel: 4
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: Voidcast
+BookmarkLevel: 4
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: Umbral Travel
+BookmarkLevel: 3
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: Breach Gauntlet Undetectably
+BookmarkLevel: 4
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: Breach the Gauntlet
+BookmarkLevel: 4
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle: Break the Dreamshell
+BookmarkLevel: 4
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle: Bridge of Blood
+BookmarkLevel: 4
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle: Deep Umbra Travel
+BookmarkLevel: 4
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: Deep Universe Survival
+BookmarkLevel: 4
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: Detect the Dream Gateway
+BookmarkLevel: 4
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: Dream Locus
+BookmarkLevel: 4
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: Dreamquest
+BookmarkLevel: 4
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: Gateway Transport
+BookmarkLevel: 4
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: Holopuni'au'nei
+BookmarkLevel: 4
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: Karmic Inversion
+BookmarkLevel: 4
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: Leap Sideways
+BookmarkLevel: 4
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: Long-Distance Universal Travel
+BookmarkLevel: 4
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: Moving the World Walls
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: Reverie
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: Schedule of Heaven
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: Shield of the Soul
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: Spirit Cloak
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: Spirit Journey
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: Stepping Sideways
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: Storm Watch
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: Sucking Gate
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: Trailblazing
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: Umbral Visions
+BookmarkLevel: 4
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: Universal Travel
+BookmarkLevel: 4
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: Walking the Open Path
+BookmarkLevel: 4
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: Unusual Environments
+BookmarkLevel: 3
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: Aquatic Survival
+BookmarkLevel: 4
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: The Barrel of Iskander
+BookmarkLevel: 4
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: Format Space
+BookmarkLevel: 4
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: Liftoff
+BookmarkLevel: 4
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: Nitrogen Narcosis
+BookmarkLevel: 4
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: VAR
+BookmarkLevel: 4
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Unusual Modes
+BookmarkLevel: 3
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Body of the Spirit
+BookmarkLevel: 4
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Daedalus&#8217;s Wings
+BookmarkLevel: 4
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Levitation Walk
+BookmarkLevel: 4
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Navigation
+BookmarkLevel: 4
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Pilot Skyrigger
+BookmarkLevel: 4
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Rooftop Leap
+BookmarkLevel: 4
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Sure Footing
+BookmarkLevel: 4
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Thunder Bridge
+BookmarkLevel: 4
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Traffic Pulse
+BookmarkLevel: 4
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Walking on Water
+BookmarkLevel: 4
+BookmarkPageNumber: 118
+BookmarkBegin
+BookmarkTitle: Wings of Icarus
+BookmarkLevel: 4
+BookmarkPageNumber: 118
+BookmarkBegin
+BookmarkTitle: Mystic Perception
+BookmarkLevel: 2
+BookmarkPageNumber: 120
+BookmarkBegin
+BookmarkTitle: Correspondence/Data
+BookmarkLevel: 3
+BookmarkPageNumber: 120
+BookmarkBegin
+BookmarkTitle: Calculate Kinematics
+BookmarkLevel: 4
+BookmarkPageNumber: 120
+BookmarkBegin
+BookmarkTitle: Eagle Eye
+BookmarkLevel: 4
+BookmarkPageNumber: 120
+BookmarkBegin
+BookmarkTitle: Find the Sun
+BookmarkLevel: 4
+BookmarkPageNumber: 120
+BookmarkBegin
+BookmarkTitle: Information Glut
+BookmarkLevel: 4
+BookmarkPageNumber: 120
+BookmarkBegin
+BookmarkTitle: Information Overload
+BookmarkLevel: 4
+BookmarkPageNumber: 120
+BookmarkBegin
+BookmarkTitle: Landscape of the Mind
+BookmarkLevel: 4
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: Lay of the Land
+BookmarkLevel: 4
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: Sense Connection
+BookmarkLevel: 4
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: Sousveillance
+BookmarkLevel: 4
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: Whereami?
+BookmarkLevel: 4
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: Entropy
+BookmarkLevel: 3
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: Cynical Eye
+BookmarkLevel: 4
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: Danse Macabre
+BookmarkLevel: 4
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: Detect Lie
+BookmarkLevel: 4
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: Dim Mak
+BookmarkLevel: 4
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: Idealism
+BookmarkLevel: 4
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: Locate Disorder and Weakness
+BookmarkLevel: 4
+BookmarkPageNumber: 122
+BookmarkBegin
+BookmarkTitle: Oathbreaker&#8217;s Lash
+BookmarkLevel: 4
+BookmarkPageNumber: 122
+BookmarkBegin
+BookmarkTitle: Organize
+BookmarkLevel: 4
+BookmarkPageNumber: 122
+BookmarkBegin
+BookmarkTitle: Ring of Truth
+BookmarkLevel: 4
+BookmarkPageNumber: 122
+BookmarkBegin
+BookmarkTitle: See the Soul's Burn
+BookmarkLevel: 4
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: Sense Corruption
+BookmarkLevel: 4
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: Forces
+BookmarkLevel: 3
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: Audio Tap
+BookmarkLevel: 4
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: Current Metering
+BookmarkLevel: 4
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: Darksight
+BookmarkLevel: 4
+BookmarkPageNumber: 123
+BookmarkBegin
+BookmarkTitle: Ear of Dionysus
+BookmarkLevel: 4
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: Quantify Energy
+BookmarkLevel: 4
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: Tune Psychic Radio
+BookmarkLevel: 4
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: Life
+BookmarkLevel: 3
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: Alarm System
+BookmarkLevel: 4
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: Gene Scan
+BookmarkLevel: 4
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: Genetics Scan
+BookmarkLevel: 4
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: Genome Mapping
+BookmarkLevel: 4
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: Life Scan
+BookmarkLevel: 4
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: Life Sense
+BookmarkLevel: 4
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: Pattern Store
+BookmarkLevel: 4
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: Scan Life Signs
+BookmarkLevel: 4
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Sequencing
+BookmarkLevel: 4
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Matter
+BookmarkLevel: 3
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Assess Affinity
+BookmarkLevel: 4
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Fragments of Dream
+BookmarkLevel: 4
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Hidden Switch
+BookmarkLevel: 4
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Holes in the Desert
+BookmarkLevel: 4
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Instant Measurement
+BookmarkLevel: 4
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Monarch&#8217;s Friend
+BookmarkLevel: 4
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Mind
+BookmarkLevel: 3
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Aai-ab, &quot;Washing the Heart&quot;
+BookmarkLevel: 4
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Cram Session
+BookmarkLevel: 4
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: Deduction
+BookmarkLevel: 4
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: Find the Guilty
+BookmarkLevel: 4
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: Followme
+BookmarkLevel: 4
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: I Know Your Cousin
+BookmarkLevel: 4
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: Ishin Den Shin
+BookmarkLevel: 4
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: Lip Reading
+BookmarkLevel: 4
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: Mind Empowerment
+BookmarkLevel: 4
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: Mindfulness of Wrong Thought
+BookmarkLevel: 4
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: No-Mind
+BookmarkLevel: 4
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: Pathos
+BookmarkLevel: 4
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: Positive Thinking
+BookmarkLevel: 4
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: Psychological Breaking Point
+BookmarkLevel: 4
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: Read the Soul
+BookmarkLevel: 4
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: Right-Click
+BookmarkLevel: 4
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: True Form
+BookmarkLevel: 4
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: Prime/Primal Utility
+BookmarkLevel: 3
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: Detect Reality Deviation
+BookmarkLevel: 4
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: Dialectic
+BookmarkLevel: 4
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: Find Reality Flaws
+BookmarkLevel: 4
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: Hallmark
+BookmarkLevel: 4
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: Inquisitor
+BookmarkLevel: 4
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: Lore Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: Patterns of the Long Count
+BookmarkLevel: 4
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: Spot the Man
+BookmarkLevel: 4
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: Spirit/Dimensional Science
+BookmarkLevel: 3
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: Hersh, &quot;To be Patient&quot;
+BookmarkLevel: 4
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: Mirrorshades
+BookmarkLevel: 4
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: See no Evil
+BookmarkLevel: 4
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: Spirit Sight
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Utchatti, &quot;The Two Divine Eyes&quot;
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Time
+BookmarkLevel: 3
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Cram
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Download Specialization
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Evaluate Fourth Dimensional Fabric
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Internal Clock
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Perfect Time
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Perfect Timing
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Sense the Fleeting Moment
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Time Sense
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Complex
+BookmarkLevel: 3
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: The Gutter View
+BookmarkLevel: 4
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: Kohl Sight
+BookmarkLevel: 4
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: Mark of the Beast
+BookmarkLevel: 4
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: No-Doz
+BookmarkLevel: 4
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: Smart Drink
+BookmarkLevel: 4
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: Necromancy
+BookmarkLevel: 2
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: Fetters
+BookmarkLevel: 3
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: Blood from a Stone
+BookmarkLevel: 4
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: Coffin for a Fisher
+BookmarkLevel: 4
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: Danse Macabre
+BookmarkLevel: 4
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: Fetter Ball
+BookmarkLevel: 4
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: Voice Across the Void
+BookmarkLevel: 4
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: Voice of the Jade Ancestors
+BookmarkLevel: 4
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: Ghosts and the Shadowlands
+BookmarkLevel: 3
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: Ghost-Burning
+BookmarkLevel: 4
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: Shadow Sight
+BookmarkLevel: 4
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: Shelter from the Storm
+BookmarkLevel: 4
+BookmarkPageNumber: 134
+BookmarkBegin
+BookmarkTitle: Soothe the Dead
+BookmarkLevel: 4
+BookmarkPageNumber: 134
+BookmarkBegin
+BookmarkTitle: Soul-Forging
+BookmarkLevel: 4
+BookmarkPageNumber: 134
+BookmarkBegin
+BookmarkTitle: Rebirth
+BookmarkLevel: 3
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: Atitsiak
+BookmarkLevel: 4
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: Kispu
+BookmarkLevel: 4
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: Lichedom
+BookmarkLevel: 4
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: Song of Orpheus
+BookmarkLevel: 4
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: Walk to Too'ga
+BookmarkLevel: 4
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: Servants
+BookmarkLevel: 3
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: Eternal Discipline of the Family
+BookmarkLevel: 4
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: Ghost Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: Hear and Obey
+BookmarkLevel: 4
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: The Key of Vanth
+BookmarkLevel: 4
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: Reanimation
+BookmarkLevel: 4
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: Summon Volva
+BookmarkLevel: 4
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: Obfuscation
+BookmarkLevel: 2
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle: Blending In
+BookmarkLevel: 3
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle: Field of Yin
+BookmarkLevel: 4
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle: Goanna's Hiding
+BookmarkLevel: 4
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle: Mindscreen
+BookmarkLevel: 4
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle: Passing
+BookmarkLevel: 4
+BookmarkPageNumber: 138
+BookmarkBegin
+BookmarkTitle: Disappearing
+BookmarkLevel: 3
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: Downvote
+BookmarkLevel: 4
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: Encrypt Thoughts
+BookmarkLevel: 4
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: Move Along
+BookmarkLevel: 4
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: Secure the Scene
+BookmarkLevel: 4
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: Shield
+BookmarkLevel: 4
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: Soul Cloak
+BookmarkLevel: 4
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: Unnoticed
+BookmarkLevel: 3
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: At Ease
+BookmarkLevel: 4
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: Dontcme
+BookmarkLevel: 4
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: Ghayba (Occultation or &quot;Unbeingness&quot;)
+BookmarkLevel: 4
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: Non-Descript
+BookmarkLevel: 4
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: Pass for Normal
+BookmarkLevel: 4
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: Selective Edit
+BookmarkLevel: 4
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: Sjonhverfing (&quot;Deceiving of the Sight&quot;)
+BookmarkLevel: 4
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: Well, It Is Vegas
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Unseen
+BookmarkLevel: 3
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Antinoise
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Being Invisible
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Cloak of Shadows
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Dark Streets
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Dreamer's Shroud from Day
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Energy Shield
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Huli Shjalmr (&quot;Helmet of Hiding&quot;)
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Return to Darkness
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Shadow Project
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Shinobijutsu
+BookmarkLevel: 4
+BookmarkPageNumber: 142
+BookmarkBegin
+BookmarkTitle: The Silent Circle
+BookmarkLevel: 4
+BookmarkPageNumber: 142
+BookmarkBegin
+BookmarkTitle: Smoke Screen
+BookmarkLevel: 4
+BookmarkPageNumber: 142
+BookmarkBegin
+BookmarkTitle: Smoke-bomb Trick
+BookmarkLevel: 4
+BookmarkPageNumber: 142
+BookmarkBegin
+BookmarkTitle: Sulfurous Darkness
+BookmarkLevel: 4
+BookmarkPageNumber: 142
+BookmarkBegin
+BookmarkTitle: Summon Fog
+BookmarkLevel: 4
+BookmarkPageNumber: 142
+BookmarkBegin
+BookmarkTitle: Veil of Invisibility
+BookmarkLevel: 4
+BookmarkPageNumber: 142
+BookmarkBegin
+BookmarkTitle: Space-Time Management
+BookmarkLevel: 2
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: Knowledge
+BookmarkLevel: 3
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: Ariadne's Thread
+BookmarkLevel: 4
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: Chain
+BookmarkLevel: 4
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: Perfect Fuse
+BookmarkLevel: 4
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: Smoker's Timing
+BookmarkLevel: 4
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: Synchronize Watches
+BookmarkLevel: 4
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: Many Places
+BookmarkLevel: 3
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: Co-Location
+BookmarkLevel: 4
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: Conference Call
+BookmarkLevel: 4
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: Polyappearance
+BookmarkLevel: 4
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: Simon&#8217;s Petition
+BookmarkLevel: 4
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: Time Manipulation
+BookmarkLevel: 3
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: Accelerate Time
+BookmarkLevel: 4
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: An Hour in Hellfire
+BookmarkLevel: 4
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: Distort Time
+BookmarkLevel: 4
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: Establish and Exchange Temporal Event Fields
+BookmarkLevel: 4
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: Establish Local Temporal Event Field
+BookmarkLevel: 4
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: The Frenzy of the Spinning Wheels
+BookmarkLevel: 4
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: The Moment that Stretches
+BookmarkLevel: 4
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: Nick of Time
+BookmarkLevel: 4
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: Quantum Temporal Travel
+BookmarkLevel: 4
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: Serenity of the Stone
+BookmarkLevel: 4
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: Shed the Years
+BookmarkLevel: 4
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: Sidestep Time
+BookmarkLevel: 4
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: Slow Time
+BookmarkLevel: 4
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: St. Vitus&#8217;s Kiss
+BookmarkLevel: 4
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: Symphony of the Soul
+BookmarkLevel: 4
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: Time Travel
+BookmarkLevel: 4
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: Time Warp
+BookmarkLevel: 4
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: Tune In, Turn On, Drop Out
+BookmarkLevel: 4
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: Zen and the Art of Panhandling
+BookmarkLevel: 4
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: Warping Space
+BookmarkLevel: 3
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: Blindside
+BookmarkLevel: 4
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: Bubble of Reality
+BookmarkLevel: 4
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: Daedalean Labyrinth
+BookmarkLevel: 4
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: Maze of the Minotaur
+BookmarkLevel: 4
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: Singularity
+BookmarkLevel: 4
+BookmarkPageNumber: 150
+BookmarkBegin
+BookmarkTitle: Spatial Mutations
+BookmarkLevel: 4
+BookmarkPageNumber: 150
+BookmarkBegin
+BookmarkTitle: Summoning, Binding and Warding
+BookmarkLevel: 2
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: Basic Interactions
+BookmarkLevel: 3
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: Chiminage Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: Dimension Bomb
+BookmarkLevel: 4
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: Hellfire
+BookmarkLevel: 4
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: Sharing the Outsider&#8217;s Gaze
+BookmarkLevel: 4
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: Spirit Eating
+BookmarkLevel: 4
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: Spirit Slaying
+BookmarkLevel: 4
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: Spirit Wounding
+BookmarkLevel: 4
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: The Spirit's Caress
+BookmarkLevel: 4
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: Spiritual Persuasion
+BookmarkLevel: 4
+BookmarkPageNumber: 154
+BookmarkBegin
+BookmarkTitle: Binding
+BookmarkLevel: 3
+BookmarkPageNumber: 154
+BookmarkBegin
+BookmarkTitle: Binding Song
+BookmarkLevel: 4
+BookmarkPageNumber: 154
+BookmarkBegin
+BookmarkTitle: Bottle of Djinn
+BookmarkLevel: 4
+BookmarkPageNumber: 154
+BookmarkBegin
+BookmarkTitle: Circle of Binding
+BookmarkLevel: 4
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: Coerce Spirit
+BookmarkLevel: 4
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: Compel the Unseen
+BookmarkLevel: 4
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: Drahma Protector
+BookmarkLevel: 4
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: Ensure the Endless Sleep
+BookmarkLevel: 4
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: Exorcism
+BookmarkLevel: 4
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: Exorcism Song
+BookmarkLevel: 4
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: Gauntlet Prison
+BookmarkLevel: 4
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: Halt the Nagloper
+BookmarkLevel: 4
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: The Holy Pentacles
+BookmarkLevel: 4
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: Imbue Flesh
+BookmarkLevel: 4
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: Lesser Binding of Spirits
+BookmarkLevel: 4
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Living Bridge
+BookmarkLevel: 4
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Lull the Waking Dreamborn
+BookmarkLevel: 4
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Physical Exorcism
+BookmarkLevel: 4
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Weaver's Retribution
+BookmarkLevel: 4
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Perception
+BookmarkLevel: 3
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Detect Possession
+BookmarkLevel: 4
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Evaluate Gauntlet/Scan Locality
+BookmarkLevel: 4
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Sense the Demon's Weakness
+BookmarkLevel: 4
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Sense the Nagloper
+BookmarkLevel: 4
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: Shadows in the Mist
+BookmarkLevel: 4
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: Summoning
+BookmarkLevel: 3
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: Ap-Sobk, &quot;Last Judgment of Sobk&quot;
+BookmarkLevel: 4
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: Call Forth the Forgotten
+BookmarkLevel: 4
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: Call Spirit
+BookmarkLevel: 4
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: Call the Dreamborn Sibling
+BookmarkLevel: 4
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: Conjure the Jade Warrior
+BookmarkLevel: 4
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: Dreamborn Rising
+BookmarkLevel: 4
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: Drums of Elemental Fire
+BookmarkLevel: 4
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: Enter the Sauna
+BookmarkLevel: 4
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: Free the Mad Howlers
+BookmarkLevel: 4
+BookmarkPageNumber: 159
+BookmarkBegin
+BookmarkTitle: Gremlins
+BookmarkLevel: 4
+BookmarkPageNumber: 159
+BookmarkBegin
+BookmarkTitle: Here Kitty, Kitty
+BookmarkLevel: 4
+BookmarkPageNumber: 159
+BookmarkBegin
+BookmarkTitle: Jack in the Green
+BookmarkLevel: 4
+BookmarkPageNumber: 159
+BookmarkBegin
+BookmarkTitle: Loving Scar
+BookmarkLevel: 4
+BookmarkPageNumber: 159
+BookmarkBegin
+BookmarkTitle: Nuzzlings
+BookmarkLevel: 4
+BookmarkPageNumber: 160
+BookmarkBegin
+BookmarkTitle: Protection of the Golden Race
+BookmarkLevel: 4
+BookmarkPageNumber: 160
+BookmarkBegin
+BookmarkTitle: Pygmalion's Paradigm
+BookmarkLevel: 4
+BookmarkPageNumber: 160
+BookmarkBegin
+BookmarkTitle: Satan&#8217;s Song
+BookmarkLevel: 4
+BookmarkPageNumber: 160
+BookmarkBegin
+BookmarkTitle: Shaking Tent
+BookmarkLevel: 4
+BookmarkPageNumber: 160
+BookmarkBegin
+BookmarkTitle: Spirit Roster
+BookmarkLevel: 4
+BookmarkPageNumber: 160
+BookmarkBegin
+BookmarkTitle: Summon Paradox Spirit
+BookmarkLevel: 4
+BookmarkPageNumber: 160
+BookmarkBegin
+BookmarkTitle: Summon the Earthly Gods
+BookmarkLevel: 4
+BookmarkPageNumber: 160
+BookmarkBegin
+BookmarkTitle: Visionary Bloodletting
+BookmarkLevel: 4
+BookmarkPageNumber: 160
+BookmarkBegin
+BookmarkTitle: Zeitgeist
+BookmarkLevel: 4
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: Warding
+BookmarkLevel: 3
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: Affix Gauntlet
+BookmarkLevel: 4
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: Circle Ward
+BookmarkLevel: 4
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: Counterintelligence
+BookmarkLevel: 4
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: Defense Screen Versus Higher Lifeforms
+BookmarkLevel: 4
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: Defense Screen Versus Lower Lifeforms
+BookmarkLevel: 4
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: Etheric Shielding
+BookmarkLevel: 4
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: Fortify Gauntlet
+BookmarkLevel: 4
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: Magic Circle
+BookmarkLevel: 4
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: The Master's Hand
+BookmarkLevel: 4
+BookmarkPageNumber: 162
+BookmarkBegin
+BookmarkTitle: Protection Song
+BookmarkLevel: 4
+BookmarkPageNumber: 162
+BookmarkBegin
+BookmarkTitle: Psychic Sterilization
+BookmarkLevel: 4
+BookmarkPageNumber: 162
+BookmarkBegin
+BookmarkTitle: Quahuitl
+BookmarkLevel: 4
+BookmarkPageNumber: 162
+BookmarkBegin
+BookmarkTitle: Quantum Interference Shielding
+BookmarkLevel: 4
+BookmarkPageNumber: 162
+BookmarkBegin
+BookmarkTitle: Reconstruct Gauntlet
+BookmarkLevel: 4
+BookmarkPageNumber: 162
+BookmarkBegin
+BookmarkTitle: Repel the Hungry Dead
+BookmarkLevel: 4
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: Repel the Kuei
+BookmarkLevel: 4
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: Safe Little World
+BookmarkLevel: 4
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: Salt on the Earth
+BookmarkLevel: 4
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: Secret Labyrinth
+BookmarkLevel: 4
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: The Seven Golden Swords of the Tiger
+BookmarkLevel: 4
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: Spirit Wall
+BookmarkLevel: 4
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: Spirit Warding
+BookmarkLevel: 4
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: Telltale
+BookmarkLevel: 4
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: Time Wards
+BookmarkLevel: 4
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: Twisted Yarrow Stalks
+BookmarkLevel: 4
+BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: Wall of Mirrors
+BookmarkLevel: 4
+BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: War the Inner Sanctum
+BookmarkLevel: 4
+BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: Ward
+BookmarkLevel: 4
+BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: Ward Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: Warding Heads
+BookmarkLevel: 4
+BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: Zisurru
+BookmarkLevel: 4
+BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: Transformations
+BookmarkLevel: 2
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: Alter Appearance
+BookmarkLevel: 3
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: Back Door Parole
+BookmarkLevel: 4
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: Deceive the Eyes
+BookmarkLevel: 4
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: Jivitamarana (Death in Life) Yoga
+BookmarkLevel: 4
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: Love Me, Love Me
+BookmarkLevel: 4
+BookmarkPageNumber: 167
+BookmarkBegin
+BookmarkTitle: Persona
+BookmarkLevel: 4
+BookmarkPageNumber: 167
+BookmarkBegin
+BookmarkTitle: Rouge
+BookmarkLevel: 4
+BookmarkPageNumber: 167
+BookmarkBegin
+BookmarkTitle: Uther's Butchered Visage
+BookmarkLevel: 4
+BookmarkPageNumber: 167
+BookmarkBegin
+BookmarkTitle: Alteration
+BookmarkLevel: 3
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: Agrivelopment
+BookmarkLevel: 4
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: Alter Simple Creature
+BookmarkLevel: 4
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: Alter Small Sequence
+BookmarkLevel: 4
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: Attach Biomechanism
+BookmarkLevel: 4
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: Augment Simple Lifeform
+BookmarkLevel: 4
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: Brittle Bones
+BookmarkLevel: 4
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: Genetic Pattern Matching
+BookmarkLevel: 4
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: Graft Alien Bio-Matter Between Animals
+BookmarkLevel: 4
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: Graft Alien Bio-Matter to Humans
+BookmarkLevel: 4
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: Green Thumb
+BookmarkLevel: 4
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: Higher Lifeform Grafting and Recombination
+BookmarkLevel: 4
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: Limited Grafting and Recombination
+BookmarkLevel: 4
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: Lower Lifeform Manipulation
+BookmarkLevel: 4
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: Major Environmental Alteration
+BookmarkLevel: 4
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: Minor Environmental Alteration
+BookmarkLevel: 4
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: Mokupuni Palahalaha Wiki
+BookmarkLevel: 4
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: Mold Tree
+BookmarkLevel: 4
+BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: Personal Compression
+BookmarkLevel: 4
+BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: Phosphoric Marker
+BookmarkLevel: 4
+BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: Creation
+BookmarkLevel: 3
+BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: Clone
+BookmarkLevel: 4
+BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: Cloning
+BookmarkLevel: 4
+BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: Courtesan&#8217;s Draught/Blessed Heir
+BookmarkLevel: 4
+BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: Fatherless Birth
+BookmarkLevel: 4
+BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: Flesh Toys
+BookmarkLevel: 4
+BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: The Foundling
+BookmarkLevel: 4
+BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: Genetic Mastery
+BookmarkLevel: 4
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle: Oak of Sanguine Root
+BookmarkLevel: 4
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle: Spontaneous Generation
+BookmarkLevel: 4
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle: Supporting the Brain
+BookmarkLevel: 4
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle: Thorn Wall
+BookmarkLevel: 4
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: Metamorphosis
+BookmarkLevel: 3
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: Animal Form
+BookmarkLevel: 4
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: Animal Shift
+BookmarkLevel: 4
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: Avatar Form
+BookmarkLevel: 4
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: Circe's Enchantment
+BookmarkLevel: 4
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: Deity Form
+BookmarkLevel: 4
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: Dionysus's Gift
+BookmarkLevel: 4
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: Eagle Form
+BookmarkLevel: 4
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: Holy Union
+BookmarkLevel: 4
+BookmarkPageNumber: 173
+BookmarkBegin
+BookmarkTitle: Iron Avatar
+BookmarkLevel: 4
+BookmarkPageNumber: 173
+BookmarkBegin
+BookmarkTitle: Jaguar Cloak
+BookmarkLevel: 4
+BookmarkPageNumber: 174
+BookmarkBegin
+BookmarkTitle: LERMUization
+BookmarkLevel: 4
+BookmarkPageNumber: 174
+BookmarkBegin
+BookmarkTitle: Lesser Shapechanging
+BookmarkLevel: 4
+BookmarkPageNumber: 174
+BookmarkBegin
+BookmarkTitle: Mutate Form
+BookmarkLevel: 4
+BookmarkPageNumber: 175
+BookmarkBegin
+BookmarkTitle: The Notorious Vampiric Lawn Chair
+BookmarkLevel: 4
+BookmarkPageNumber: 175
+BookmarkBegin
+BookmarkTitle: One with Beasts
+BookmarkLevel: 4
+BookmarkPageNumber: 175
+BookmarkBegin
+BookmarkTitle: Perfect Metamorphosis
+BookmarkLevel: 4
+BookmarkPageNumber: 175
+BookmarkBegin
+BookmarkTitle: Qayaq's Fish
+BookmarkLevel: 4
+BookmarkPageNumber: 175
+BookmarkBegin
+BookmarkTitle: Rokea'ole
+BookmarkLevel: 4
+BookmarkPageNumber: 175
+BookmarkBegin
+BookmarkTitle: Shapechange Curse
+BookmarkLevel: 4
+BookmarkPageNumber: 175
+BookmarkBegin
+BookmarkTitle: Shapeshifter Prison
+BookmarkLevel: 4
+BookmarkPageNumber: 175
+BookmarkBegin
+BookmarkTitle: Shapeshifting
+BookmarkLevel: 4
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: Storm of Crows
+BookmarkLevel: 4
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: Vulcan&#8217;s Hammer
+BookmarkLevel: 4
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: Warp-Spasm
+BookmarkLevel: 4
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: The Weeping Willow
+BookmarkLevel: 4
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: Wolf Form
+BookmarkLevel: 4
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: Self Improvement
+BookmarkLevel: 3
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: Adaptation
+BookmarkLevel: 4
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: Adrenal Rush
+BookmarkLevel: 4
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: Advanced Therapies
+BookmarkLevel: 4
+BookmarkPageNumber: 177
+BookmarkBegin
+BookmarkTitle: Battery Man
+BookmarkLevel: 4
+BookmarkPageNumber: 177
+BookmarkBegin
+BookmarkTitle: Better Body
+BookmarkLevel: 4
+BookmarkPageNumber: 177
+BookmarkBegin
+BookmarkTitle: Biochemical Regulation
+BookmarkLevel: 4
+BookmarkPageNumber: 177
+BookmarkBegin
+BookmarkTitle: Bio-Luminescence
+BookmarkLevel: 4
+BookmarkPageNumber: 178
+BookmarkBegin
+BookmarkTitle: Brain Boost
+BookmarkLevel: 4
+BookmarkPageNumber: 178
+BookmarkBegin
+BookmarkTitle: Chakra Influence
+BookmarkLevel: 4
+BookmarkPageNumber: 178
+BookmarkBegin
+BookmarkTitle: Crocodile Blood
+BookmarkLevel: 4
+BookmarkPageNumber: 178
+BookmarkBegin
+BookmarkTitle: Go Ti Ta
+BookmarkLevel: 4
+BookmarkPageNumber: 178
+BookmarkBegin
+BookmarkTitle: Mele Lapa'au
+BookmarkLevel: 4
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: Multi-tasking
+BookmarkLevel: 4
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: Nanotech Integration
+BookmarkLevel: 4
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: Our Enemies are Delicious
+BookmarkLevel: 4
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: Positronic Brain
+BookmarkLevel: 4
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: Simple Biochemical Manipulation
+BookmarkLevel: 4
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: Strength of the Earth
+BookmarkLevel: 4
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: Survivor&#8217;s Charm
+BookmarkLevel: 4
+BookmarkPageNumber: 180
+BookmarkBegin
+BookmarkTitle: Talons
+BookmarkLevel: 4
+BookmarkPageNumber: 180
+BookmarkBegin
+BookmarkTitle: Thick Skin
+BookmarkLevel: 4
+BookmarkPageNumber: 180
+BookmarkBegin
+BookmarkTitle: Titan&#8217;s Power
+BookmarkLevel: 4
+BookmarkPageNumber: 180
+BookmarkBegin
+BookmarkTitle: Tumo
+BookmarkLevel: 4
+BookmarkPageNumber: 180
+BookmarkBegin
+BookmarkTitle: Uncanny Influence
+BookmarkLevel: 2
+BookmarkPageNumber: 182
+BookmarkBegin
+BookmarkTitle: Anger and Calm
+BookmarkLevel: 3
+BookmarkPageNumber: 182
+BookmarkBegin
+BookmarkTitle: Apathy
+BookmarkLevel: 4
+BookmarkPageNumber: 182
+BookmarkBegin
+BookmarkTitle: Olive Branch
+BookmarkLevel: 4
+BookmarkPageNumber: 182
+BookmarkBegin
+BookmarkTitle: Pass Calmly
+BookmarkLevel: 4
+BookmarkPageNumber: 182
+BookmarkBegin
+BookmarkTitle: Peace of Buddha
+BookmarkLevel: 4
+BookmarkPageNumber: 182
+BookmarkBegin
+BookmarkTitle: Peace Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 183
+BookmarkBegin
+BookmarkTitle: Rat&#8217;s Rage/Lost Cousin
+BookmarkLevel: 4
+BookmarkPageNumber: 183
+BookmarkBegin
+BookmarkTitle: Stoicism
+BookmarkLevel: 4
+BookmarkPageNumber: 183
+BookmarkBegin
+BookmarkTitle: Fear and Intimidation
+BookmarkLevel: 3
+BookmarkPageNumber: 183
+BookmarkBegin
+BookmarkTitle: Abh-t-ab, &quot;Biting the Heart&quot;
+BookmarkLevel: 4
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: The Argument of Princes
+BookmarkLevel: 4
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: Capiche?
+BookmarkLevel: 4
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: Hoodoo Man's Heartbeat
+BookmarkLevel: 4
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: Primal Dread
+BookmarkLevel: 4
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: Show of Force
+BookmarkLevel: 4
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: Seduction
+BookmarkLevel: 3
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: Bewitchment
+BookmarkLevel: 4
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: Charm Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: Exalted Desire
+BookmarkLevel: 4
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: Kuoha (The Passion Prayer)
+BookmarkLevel: 4
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: Lecherous Kiss
+BookmarkLevel: 4
+BookmarkPageNumber: 185
+BookmarkBegin
+BookmarkTitle: Romance
+BookmarkLevel: 4
+BookmarkPageNumber: 185
+BookmarkBegin
+BookmarkTitle: Taliesin's Song
+BookmarkLevel: 4
+BookmarkPageNumber: 185
+BookmarkBegin
+BookmarkTitle: Other Emotions
+BookmarkLevel: 3
+BookmarkPageNumber: 185
+BookmarkBegin
+BookmarkTitle: Be Cool
+BookmarkLevel: 4
+BookmarkPageNumber: 185
+BookmarkBegin
+BookmarkTitle: Branding
+BookmarkLevel: 4
+BookmarkPageNumber: 185
+BookmarkBegin
+BookmarkTitle: Comp Me
+BookmarkLevel: 4
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: Cool Glamour
+BookmarkLevel: 4
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: Empathic Projection
+BookmarkLevel: 4
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: Gatha
+BookmarkLevel: 4
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: The Golden Apple
+BookmarkLevel: 4
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: Grand Style
+BookmarkLevel: 4
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: High Rhetoric
+BookmarkLevel: 4
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: Hope&#8217;s Birth
+BookmarkLevel: 4
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: Incitation
+BookmarkLevel: 4
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: Initiation
+BookmarkLevel: 4
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: The Look/The Word
+BookmarkLevel: 4
+BookmarkPageNumber: 187
+BookmarkBegin
+BookmarkTitle: Loving Cup
+BookmarkLevel: 4
+BookmarkPageNumber: 187
+BookmarkBegin
+BookmarkTitle: Mood Swing/Communion
+BookmarkLevel: 4
+BookmarkPageNumber: 187
+BookmarkBegin
+BookmarkTitle: Motivational Speaking
+BookmarkLevel: 4
+BookmarkPageNumber: 187
+BookmarkBegin
+BookmarkTitle: Petals of Love
+BookmarkLevel: 4
+BookmarkPageNumber: 187
+BookmarkBegin
+BookmarkTitle: Physiological Emotion Control
+BookmarkLevel: 4
+BookmarkPageNumber: 187
+BookmarkBegin
+BookmarkTitle: Scent of Control
+BookmarkLevel: 4
+BookmarkPageNumber: 188
+BookmarkBegin
+BookmarkTitle: Shameful Outburst
+BookmarkLevel: 4
+BookmarkPageNumber: 188
+BookmarkBegin
+BookmarkTitle: Social Science
+BookmarkLevel: 4
+BookmarkPageNumber: 188
+BookmarkBegin
+BookmarkTitle: Strains of Laughter, Sleep and Sorrow
+BookmarkLevel: 4
+BookmarkPageNumber: 188
+BookmarkBegin
+BookmarkTitle: Subtle Persuasion
+BookmarkLevel: 4
+BookmarkPageNumber: 188
+BookmarkBegin
+BookmarkTitle: Witchwind
+BookmarkLevel: 4
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Animal Control
+BookmarkLevel: 3
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Animal Possession
+BookmarkLevel: 4
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Animal Riding
+BookmarkLevel: 4
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Bug Off
+BookmarkLevel: 4
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Horsemaster&#8217;s Bidding
+BookmarkLevel: 4
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Mono Kahea 'Ai (Shark Call)
+BookmarkLevel: 4
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Ratstorm
+BookmarkLevel: 4
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Sedna's Blessing
+BookmarkLevel: 4
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Sing to the Whales
+BookmarkLevel: 4
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Attention
+BookmarkLevel: 3
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: Divine Aura
+BookmarkLevel: 4
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: Fifteen Minutes
+BookmarkLevel: 4
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: Going Viral
+BookmarkLevel: 4
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: Cooperation
+BookmarkLevel: 3
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: An Uncompromising Commitment to Excellence
+BookmarkLevel: 4
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: Coordination
+BookmarkLevel: 4
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: Karoshi
+BookmarkLevel: 4
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: Workflow
+BookmarkLevel: 4
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: Disruption
+BookmarkLevel: 3
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: Delion's Haze
+BookmarkLevel: 4
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: Destroy Thought
+BookmarkLevel: 4
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: Downward Spiral
+BookmarkLevel: 4
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: Magdeline's Dynamic Mind
+BookmarkLevel: 4
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: The Trip
+BookmarkLevel: 4
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: Dreams
+BookmarkLevel: 3
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: Dream Drama
+BookmarkLevel: 4
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: Dream Play
+BookmarkLevel: 4
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: Nightmare Dance
+BookmarkLevel: 4
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: Illusions
+BookmarkLevel: 3
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: Delirium
+BookmarkLevel: 4
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: Frame Up
+BookmarkLevel: 4
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: Holographic Projector
+BookmarkLevel: 4
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: IFF
+BookmarkLevel: 4
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: Imaginary Friend
+BookmarkLevel: 4
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: Painting the War Dance
+BookmarkLevel: 4
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: Memory
+BookmarkLevel: 3
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: Behavior Modification Device
+BookmarkLevel: 4
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: False Witness
+BookmarkLevel: 4
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: High Memory
+BookmarkLevel: 4
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: Manipulate Memories
+BookmarkLevel: 4
+BookmarkPageNumber: 193
+BookmarkBegin
+BookmarkTitle: Manipulate Memory
+BookmarkLevel: 4
+BookmarkPageNumber: 193
+BookmarkBegin
+BookmarkTitle: Move to Clone
+BookmarkLevel: 4
+BookmarkPageNumber: 193
+BookmarkBegin
+BookmarkTitle: Nostalgia
+BookmarkLevel: 4
+BookmarkPageNumber: 193
+BookmarkBegin
+BookmarkTitle: Plausible Denial
+BookmarkLevel: 4
+BookmarkPageNumber: 193
+BookmarkBegin
+BookmarkTitle: Probe Thoughts
+BookmarkLevel: 4
+BookmarkPageNumber: 194
+BookmarkBegin
+BookmarkTitle: Scan Memories
+BookmarkLevel: 4
+BookmarkPageNumber: 194
+BookmarkBegin
+BookmarkTitle: Transfer Memories
+BookmarkLevel: 4
+BookmarkPageNumber: 194
+BookmarkBegin
+BookmarkTitle: Worm
+BookmarkLevel: 4
+BookmarkPageNumber: 194
+BookmarkBegin
+BookmarkTitle: Mind Control
+BookmarkLevel: 3
+BookmarkPageNumber: 194
+BookmarkBegin
+BookmarkTitle: Alter Paradigm
+BookmarkLevel: 4
+BookmarkPageNumber: 194
+BookmarkBegin
+BookmarkTitle: The Blissful Disciple
+BookmarkLevel: 4
+BookmarkPageNumber: 194
+BookmarkBegin
+BookmarkTitle: Consuming Thought
+BookmarkLevel: 4
+BookmarkPageNumber: 194
+BookmarkBegin
+BookmarkTitle: Create Drone
+BookmarkLevel: 4
+BookmarkPageNumber: 194
+BookmarkBegin
+BookmarkTitle: Create Mind
+BookmarkLevel: 4
+BookmarkPageNumber: 194
+BookmarkBegin
+BookmarkTitle: Deprocessing
+BookmarkLevel: 4
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: Destructive Paranoia
+BookmarkLevel: 4
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: Hypernarrative Influence
+BookmarkLevel: 4
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: Impulse Purchase
+BookmarkLevel: 4
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: Internal Obligation
+BookmarkLevel: 4
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: Maikai (The Seaward Pull)
+BookmarkLevel: 4
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: Manchurian Candidate
+BookmarkLevel: 4
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: Mind Rune
+BookmarkLevel: 4
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: Morpheus&#8217;s Kiss
+BookmarkLevel: 4
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: Nervous Control
+BookmarkLevel: 4
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: Possession
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: Processing
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: Programming
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: Psychic Intrusion
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: Purge Thought Crime
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: Random Impulse
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: Recant
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: Re-education Mode
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: See the Light
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: Self Possession
+BookmarkLevel: 4
+BookmarkPageNumber: 197
+BookmarkBegin
+BookmarkTitle: Sinner&#8217;s Redemption
+BookmarkLevel: 4
+BookmarkPageNumber: 197
+BookmarkBegin
+BookmarkTitle: Social Conditioning
+BookmarkLevel: 4
+BookmarkPageNumber: 197
+BookmarkBegin
+BookmarkTitle: Soul Shaping
+BookmarkLevel: 4
+BookmarkPageNumber: 197
+BookmarkBegin
+BookmarkTitle: Temple Gongs
+BookmarkLevel: 4
+BookmarkPageNumber: 198
+BookmarkBegin
+BookmarkTitle: Ultimate Argument
+BookmarkLevel: 4
+BookmarkPageNumber: 198
+BookmarkBegin
+BookmarkTitle: Welcoming the Jester
+BookmarkLevel: 4
+BookmarkPageNumber: 198
+BookmarkBegin
+BookmarkTitle: Willful Binding
+BookmarkLevel: 4
+BookmarkPageNumber: 198
+BookmarkBegin
+BookmarkTitle: Appendix: Expanded Rules
+BookmarkLevel: 2
+BookmarkPageNumber: 200
+BookmarkBegin
+BookmarkTitle: Dramatic Tension
+BookmarkLevel: 3
+BookmarkPageNumber: 200
+BookmarkBegin
+BookmarkTitle: Rules
+BookmarkLevel: 4
+BookmarkPageNumber: 200
+BookmarkBegin
+BookmarkTitle: Rote-Only Effects
+BookmarkLevel: 4
+BookmarkPageNumber: 201
+BookmarkBegin
+BookmarkTitle: Example
+BookmarkLevel: 4
+BookmarkPageNumber: 202
+BookmarkBegin
+BookmarkTitle: Index of Rotes
+BookmarkLevel: 2
+BookmarkPageNumber: 204
+BookmarkBegin
+BookmarkTitle: Back Cover
+BookmarkLevel: 2
+BookmarkPageNumber: 213

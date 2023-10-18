@@ -1,262 +1,5 @@
-A Guide for Mage 20th Anniversary Edition
-
-2 Enlightened Grimoire
-Credits
-Written By: Charles Siegel
-Developed By: Charles Siegel
-Edited By: Charles Siegel
-Art: Mage art packs and Creative Commons
-Commercial Use license (with specific images listed as
-no attribution necessary)
-Special Thanks
-I'd like to thank Secrets of the Masquerade for
-suggesting that I do this project, Shane DeFreest for all
-his support getting the templates working and
-everything ready for release day. I'd also like to thank
-my old gaming group, Liz Ruifrok, Jayne Sweet, and
-Cori Taylor, for whom I prepared the original version
-of this (as a spreadsheet!) to help our games run more
-smoothly.
-But most of all, I'd like to thank my wife, Celia Rae, for
-putting up with me disappearing into this project, and
-for all her help and encouragement
-© 2018 White Wolf Entertainment AB. All rights reserved. Vampire:
-The Masquerade®, World of Darkness®, Storytelling System™, and
-Storytellers Vault™ are trademarks and/or registered trademarks of
-White Wolf Entertainment AB. All rights reserved.
-For additional information on White Wolf and the World of Darkness,
-please, visit: www.white-wolf.com, www.worldofdarkness.com
-and www.storytellersvault.com.
-Table of Contents 3
-Introduction 4
-Blessings and Curses 8
-Computers 16
-Divination and Fate 24
-Elemental Magick 36
-Energy-Work 46
-Enhanced Combat 56
-Healing and Harming 66
-Inanimate Objects 80
-Miscellaneous 94
-Movement and Communication 98
-Mystic Perception 118
-Necromancy 130
-Obfuscation 136
-Space-Time Management 142
-Summoning, Binding and Warding 150
-Transformations 164
-Uncanny Influence 180
-Appendix: Expanded Rules 198
-Index of Rotes 202
-Introduction
-Introduction 5
-What is this book?
-This is a book that I've felt has been a long time
-coming in the World of Darkness. Mage: The Ascension
-has always had one of the most flexible magickal systems
-in the entire RPG industry. Unfortunately, when
-everything is possible, everything is difficult. The system
-has always needed more explanation and has often been
-supported by complex networks of house rules, internet
-lore, and examples.
-The 20th Anniversary Edition has gone a long way to
-clarify the magical system. It has both written up the
-spheres as clearly as possible and included a book How
-Do You Do That? about how to do sphere magick. How
-Do You Do That? is a very effective book, and has many
-examples contained in it. But this is only a small
-fraction of the example rotes that have appeared in
-Mage books over the last 25 years. The purpose of this
-volume is to collect as many of those rotes as possible (if
-I have missed any that you spot, let me know and I will
-update) and update their mechanics to match with what
-is presented in Mage: The Ascension 20th Anniversary
-Edition and How Do You Do That?
-Differences Between Editions
-We're going to ignore many of the differences with
-how magick works between editions. The main thing
-we're concerned with is which spheres are necessary for
-various effects. This section will describe how the
-various editions relate to Mage: The Ascension 20th
-Anniversary Edition, to give context to the rest of the
-book and to help update old rotes of your own.
-First Edition
-The system of the Spheres changed drastically
-between First and Second Edition, as have the
-mechanics surrounding Magick. Although the changes
-from First Edition are too numerous to list exhaustively,
-several of the more notable ones are:
-• Astral Projection now requires Mind 4, not 5
-• Crafting Realms now requires Spirit 5, not 4
-• Warding now requires Correspondence 4, not 2
-These are changes in the flagship powers for each level
-of the spheres. There are many, many smaller
-adjustments, such as what constitutes a "major" force
-and what constitutes a "minor" one or what
-"controlling" means vs. "affecting."
-Rotes from First Edition need to be handled with care
-also because paradigm was a new concept at the time
-and the Technocracy was particularly underdeveloped
-6 Enlightened Grimoire
-compared to now, when there is Guide to the
-Technocracy, the Revised Convention Books and the
-upcoming Technocracy Reloaded. Many of the
-paradigmatic aspects of procedures from the first set of
-Convention books need to be modified to work with
-the current view of the Union itself. Smaller changes
-have happened to the Traditions as well, although their
-systems were more detailed from the beginning and
-have benefitted from more expansion.
-However, these barely cover the differences, as much
-of the language within the game has changed in subtle
-ways. Rotes from First Edition should only be used after
-being updated carefully, with the mechanical results
-largely determined by the ST rather than the original
-descriptions, which include such things as Forces doing
-three damage per success. Many of them have been
-updated in more recent books, and both references are
-given when the rote is the same and given with the most
-recent mechanics.
-Second Edition
-Second Edition rules are very close to 20th
-Anniversary Edition rules. The changes mostly effect
-specific rotes, such as that Polyappearance was a
-Correspondence 5 rote up to Second Edition but has
-been Correspondence 4 since then.
-Second Edition is when the magick rules started to
-approach their current form, with smaller modifications
-going to Sorcerer's Crusade (which is essentially a
-Second Edition spinoff), Revised and then 20th
-Anniversary Edition.
-Here, the basic descriptions of the Spheres and the
-flagship abilities are approaching their current forms,
-with no major changes in the flagship abilities, only in
-what falls under which one from here on out.
-Sorcerer's Crusade
-Though the background and setting differ, Sorcerer's
-Crusade has Spheres almost identical to 20th
-Anniversary Edition. The list of common effects on
-pages 508-510 of Mage: The Ascension 20th
-Anniversary Edition are almost precisely an expansion
-of the list on page 241 of Mage: The Sorcerer's
-Crusade.
-The most notable exceptions are:
-Introduction 7
-• sharing perceptions now requires Mind 2, rather
-than being free
-• shielding a mind only requires Mind 1
-• Creating a Node is now Prime 5 whereas creating a
-Cray was Prime 3/Matter 3
-• refining Tass has increased from Prime 3 to 4.
-Revised Edition
-Most spheres are virtually identical between Revised
-and 20th Anniversary Edition. There are three major
-exceptions, however:
-• Warding has moved from Correspondence 2 to Correspondence
-4, making it much harder to prevent
-access to locations
-• Verbena Revised makes statements about healing
-others being Life 4, which are seen nowhere else in
-Mage and we'll disregard entirely
-• viewing Avatars is Spirit 5 in Mage: The Ascension
-Revised, but Spirit 1, Mind 3, Prime 2 in Mage: The
-Ascension 20th Anniversary Edition.
-How to Use This
-Book
-This book is not a definitive guide to rotes and mechanics
-for magick in Mage: The Ascension 20th Anniversary
-Edition. Instead, this is a book of examples,
-pulling from the 25 years since Mage: The Ascension
-First Edition was published. Here, rotes, spells and procedures
-are all provided, updated to what spheres are
-currently needed to use them. Some of them have paradigm
-bits attached to them, but the simplest ones are
-just descriptions of what they do.
-An attempt has been made to organize all these rotes.
-However, many of them fall into multiple categories, so
-organizing them involves many judgment calls, and so a
-specific rote may not always be in the first place you
-would expect it.
-In this book, you'll find:
-• Whenever magick results in something vague, but
-certain, it falls into Blessings and Curses. These
-effects tend to alter probabilities to make something
-happen, rather than require things to go exactly
-a particular way.
-• Just as Computers have touched every aspect of
-mundane life, they have also become powerful
-mystical tools, and even opened new realms for
-Mages to explore.
-• One of the oldest types of magick deals in Divination
-and Fate. Mages have always been interested
-in seeing places and times other than their
-own, and in manipulating and understanding
-their fate.
-• Elemental Magick is one of the flashiest areas of
-magick. Often vulgar, but almost always impressive,
-few Mages interested in the Matter and
-Forces spheres can afford to ignore it.
-• Reality itself falls under the power of a Mage who
-does Energy-Work. The ability to manipulate
-Quintessence leads to the ability to directly alter
-reality, and even to interfere with Paradox.
-• Enhanced Combat consists of techniques for improving
-upon mundane combat. Whether a martial
-artist or a sharpshooter, any Mage who
-doesn't rely entirely on magick in a fight will still
-get a boost from it.
-• The line between Healing and Harming is very
-thing, so much so that doctors must swear to
-"First, do no harm." This covers such things as direct
-harm, torture, and diagnostics as well.
-• Inanimate Objects are the subject of quite a bit of
-magick. Alchemists have been studying transmutation
-for centuries, and conjuration is just as ancient.
-• Some effects don't fit nicely into other categories,
-so we create a category, Miscellaneous, for them.
-• Quick and instantaneous, as well as unusual
-Movement and Communication are bundled together.
-• When Mystic Perception is specifically to aid
-something else, it is sorted with that, but a chapter
-is devoted to those effects that do not.
-• Necromancy contains rotes involving ghosts and
-the dead, and particularly includes the infamous
-Lichedom rote.
-• Obfuscation is all about hiding things, most often
-the Mage, through various means.
-• Aside from travel and communication, Space-
-Time Management contains rotes about bending
-the structure of reality itself to a Mage's Will.
-• Spirits and mystical defenses are handled in Summoning,
-Binding and Warding
-• The most fundamental thing that living things do
-is change, so Transformations covers the many
-ways that they can do so.
-• Uncanny Influence contains rotes detailing the
-various ways that a person or animal can be in the
-power of a Mage.
-• In the Appendix: Expanded are expanded rules
-for rotes to give mechanical benefits and costs for
-using them, and to drive story possibilities.
-• Finally, we finish with an Index of Rotes, listing
-every rote contained in this volume.
-8 Enlightened Grimoire
-Blessings and Curses
-Any effect that causes an effect without specifying
-HOW that effect is to be called is a blessing or a curse,
-depending on whether the goal is positive or negative
-for the target. These rotes almost all use Entropy in
-some way, to cause circumstances to work out, often in
-improbably ways, to bring about their ends.
-This chapter is divided into three parts: Flexible Use
-rotes which can either bless or curse depending on the
-decisions of the Mage using them, Blessings and Curses.
+=== Blessings and Curses
 Flexible Use
-Sometimes, the same techniques than can bring blessings
-and good luck can also take them away, or worse,
-give bad luck. These rotes are flexible and leave the Mag
-capable of deciding when used whether they will help or
-hinder their target.
 Balance the Scales
 Tradition Book: Euthanatos (First Edition) page 67
 Entropy 2 or 3, Life 2 or Matter 2 or Forces 2
@@ -315,12 +58,7 @@ Threefold Return on those they interact with. When
 expended, the person who acted towards the Mage will
 receive a benefit or harm proportional to the number of
 successes on this effect.
-Blessings
-These rotes bring about good fortune in those whom
-they target, and range from immediate luck on a single
-action, to preventing minor misfortunes in an infant's
-childhood through causing money and inspiration to
-fall into the hands of the target by chance.
+== Blessings
 Ansu Ishten
 Dead Magic page 56
 Entropy 3, Matter 3, optional Life 3
@@ -364,7 +102,6 @@ ghost. Once they have bloomed sufficiently, that family
 will give birth to a baby for whom that ghost will act as
 a guardian. In extreme cases, that baby will in fact be
 that ghost reborn.
-Blessings and Curses 11
 Bum a Dollar from the Universe
 Tradition Book: Hollow Ones (Revised) page 61
 Entropy 2, Matter 2
@@ -404,7 +141,6 @@ Prime 1 helps create a thought from nothing, and with
 Entropy the Mage lucks into it.
 Games of Luck
 Mage: The Ascension First Edition page 192
-12 Enlightened Grimoire
 Technocracy: Syndicate page 47 (as Stacking the Deck)
 Mage: The Ascension Second Edition page 194
 Mage: The Ascension Revised page 163
@@ -444,7 +180,6 @@ line or the state of Nevada.
 Reflecting Bane
 Dead Magic page 30
 Spirit 3 or Mind 1, optional Life 3
-Blessings and Curses 13
 With a proper reflective surface, a malevolent spirit
 can be tricked into looking at its reflection and scaring
 it off. This effect can also reflect malignant thoughts
@@ -488,10 +223,7 @@ tribe on a new baby. It briefly connects the child to the
 inter-relationship between all members of the tribe and
 ensures that minor accidents are avoided during the
 first days of the baby's life.
-Curses
-Curses are a class of rotes that bring misfortune onto
-their targets through chance. They may be merely annoying,
-or they may be life-threatening.
+== Curses
 Ace of Diamonds
 Guide to the Technocracy page 209
 Entropy 3, Prime 1
@@ -525,7 +257,6 @@ Correspondence 2, Life 2 or 3, optional Entropy 3;
 Forces 3, Correspondence 2, Prime 2, Life 2
 The most basic version causes things to go wrong,
 giving the victim bad luck. The second version is much
-14 Enlightened Grimoire
 deadlier and causes aggravated damage via Life to the
 target according to what is most appropriate for the
 caster. The Correspondence 2/Life 3/Entropy 3 variant
@@ -572,7 +303,6 @@ old one.
 Spoiling
 Dead Magic 2 page 128
 Entropy 2, Life 2
-Blessings and Curses 15
 This rote brings bad luck to a target, and with Life
 that bad luck extends to their crops and livestock.
 Statistical Mechanics
@@ -589,26 +319,8 @@ Used on enemies of the Hollow Ones (and NEVER
 on another Hollow One), this causes that target to have
 a series of minor setbacks and annoyances, just bad luck,
 for a number of days equal to the successes.
-16 Enlightened Grimoire
-Computers
-The computer is quite possibly the most influential
-invention in the modern world. This influence has extended
-to the realm of magick. In addition to being a
-particularly potent magickal tool, the computer has
-opened up new avenues for both old techniques and
-new ones.
-This chapter is divided into rotes regarding the Digital
-Web, those involving Electronics (mostly their interaction
-with electricity), then Hacking and Information
-and finally Upgrades, because every computer can be
-improved.
+=== Computers
 Digital Web
-The Digital Web is a virtual reality that was supposedly
-created by Alan Turing right before his death.
-Though it was a Mage-only playground in the 90s, it is
-now a lot more accepted and some Sleepers can enter.
-For more information, see pages 103-109 and 466-473
-of Mage: The Ascension 20th Anniversary Edition.
 Brand (the Rawhide Rote)
 Digital Web 2.0 page 112
 Entropy 2, Forces 2, Prime 2, optional Time 4
@@ -632,7 +344,6 @@ A basic online attack rote. With just Forces and
 Prime, it will soft de-rez the target, with Entropy it will
 inflict a hard de-rez.
 Doe's Password
-18 Enlightened Grimoire
 Digital Web page 98
 Mind 3, Entropy 2
 This rote uses Mind to link to a Restricted program
@@ -673,7 +384,6 @@ causes a Chaos Dump, splitting the target's
 consciousness between their body and their broken
 icon, and largely considered a fate worse than death.
 Fractal Encryption
-Computers 19
 Digital Web 2.0 page 115
 Entropy 3, Forces 2, Prime 2
 This rote encrypts data as a three-dimensional fractal
@@ -712,7 +422,6 @@ infect the user with a disease.
 Overwrite
 Digital Web page 99
 Prime 4, Entropy 3, Forces 3
-20 Enlightened Grimoire
 The rote permits the Mage to alter parameters and is
 always vulgar as it involves pushing against the nature of
 the Digital Web itself. Five successes are necessary to
@@ -790,7 +499,6 @@ to escape.
 Red Button
 Technocracy: New World Order page 49
 Entropy 3, Forces 3, Prime 2
-Computers 21
 When raiding the laboratories of rogue
 Technomages, such as Etherites, this allows the New
 World Order to find the weaknesses in their machinery
@@ -831,7 +539,6 @@ it.
 Black Card/Little Black Box
 Mage: The Ascension 20th Anniversary Edition page 601
 Correspondence 2, Forces 2, Mind 2
-22 Enlightened Grimoire
 Using some kind of black box or security card, the
 Mage can attempt to hack a system that they normally
 could never reach.
@@ -913,7 +620,6 @@ computer to see what is being actively done on another.
 Remote Access
 Digital Web 2.0 page 113
 Correspondence 2, Forces 2
-Computers 23
 Allows the Mage to access a network from a distance.
 Virtual Lockpick
 Digital Web page 99
@@ -967,22 +673,7 @@ with mental implants can use this procedure to directly
 connect their implants to the target and program it
 directly. To do so from far away, however, requires
 Correspondence.
-24 Enlightened Grimoire
-Divination and Fate
-Fate has always been known to be something that
-mankind was not meant to meddle with. So of course,
-from the earliest legends, we have heroes and wizards
-attempting to divine their fate, to see things that are far
-away, things they aren't supposed to know, and of
-course, change their fate.
-This chapter is divided into sections about Espionage,
-Fate, Oaths, Prophecy and Scrying. Espionage, Prophecy
-and Scrying are all ways to find out what's going on
-or what has or will happen, and Fate is the things that
-are set in stone (for most people, nothing is set in stone
-for a Mage). Oaths are how a person can bind their fates
-and gain power from them, as well as penalties for breaking
-them.
+=== Divination and Fate
 Espionage
 Espionage is the art of discovering things that others
 don't want you to know. These rotes are designed to
@@ -1011,7 +702,6 @@ A Technomage using this rote picks up a phone, dials
 a long sequence of digits, and can listen in on anything
 said near another working telephone.
 High-Definition
-26 Enlightened Grimoire
 Convention Book: New World Order (Revised) page 85
 Data 2, Mind 2
 By accessing a communication line, generally cable
@@ -1089,7 +779,6 @@ impossible with this rote, but general things like
 event can be determined with varying numbers of
 successes.
 Chaos Butterfly
-Divination and Fate 27
 Blood Treachery page 91
 Entropy 2, Prime 2, Spirit 2
 Houses Thig and Fortunae use this rote by inscribing
@@ -1114,7 +803,6 @@ Dead Magic page 27
 Time 2, Entropy 1
 Like other forms of Time Sight, this variant allows the
 Mage to perceive the patterns that are emerging, and
-28 Enlightened Grimoire
 which actions might prevent bad fates in the future,
 rather than seeing the future itself.
 Find the Lost
@@ -1194,7 +882,6 @@ Correspondence 2, Entropy 1, Time 2
 The Mage attunes themselves to the threads of fate,
 seeking an understanding of the past, present and
 future.
-Divination and Fate 29
 Oaths
 There is a power in voluntarily restricting yourself in
 some way, there's a reason why so many religions include
@@ -1269,7 +956,6 @@ or viewing the past.
 All Tomorrow's Parties
 Orphan's Survival Guide page 127
 Mind 3, Time 2
-30 Enlightened Grimoire
 By asking the right questions of the right people, the
 Mage can find out about upcoming events, scanning
 nearby minds to determine if there's something being
@@ -1307,7 +993,6 @@ Mage can experience the past or future from the
 perspective of a denizen of that time. With Time 4, they
 can even send brief thoughts and impulses to the target.
 Crime and Consequence
-Divination and Fate 31
 Tradition Book: Cult of Ecstasy (Revised) page 72
 Mind 2, Time 2
 The Cultist looks forward in time and causes the
@@ -1441,7 +1126,6 @@ Mind 3, Time 2, optional Spirit 2
 The Mage enters a dreamlike trance that reveals a
 portion of the future. Mind ensures that the Mage can
 enter the trance while awake and remember what
-Divination and Fate 33
 occurs. Spirit allows the Mage to contact the salmon of
 wisdom themselves and speak to them.
 The Scented Handkerchief
@@ -1517,7 +1201,6 @@ Mage: The Ascension Revised page 159
 Correspondence 2
 This rote allows the Mage to build a connection
 between their senses and a desired location. This can
-34 Enlightened Grimoire
 take the form of scrying: where the Mage can view a
 location remotely. It can also take the form of an active
 defense, where the Mage watches for others attempting
@@ -1556,7 +1239,6 @@ With Forces, the echoes that cause the ripples can be
 heard.
 Heat Seeking
 Technocracy: New World Order page 48
-Divination and Fate 35
 Correspondence 2, Life 1, Forces 1
 With the aid of surveillance devices that can
 track people by temperature, the New World
@@ -1620,21 +1302,8 @@ Correspondence 3
 An advanced form of Open/Close Window, this
 allows the Mage to track any irregularity back to its
 source.
-36 Enlightened Grimoire
-Elemental Magick
-Elemental magick is some of the flashiest magick
-around. And some of the most vulgar. Many, many
-effects in this chapter are almost never coincidental, but
-still, many Mages look forward to the day when they can
-finally cut loose with it.
-This chapter is divided by element, starting with General
-which works with multiple elements, and then
-Earth, Electricity, Fire and Heat, Light, and Water and
-Weather.
+=== Elemental Magick
 General
-While most Elemental rotes focus on a specific element,
-some of them work on a set of them, often depending
-on the Mage's paradigm.
 Anger in the Land
 Book of Crafts page 74
 Spirit 3 or 4, Matter 3 or Forces 3, Prime 2;
@@ -1662,7 +1331,6 @@ paradigm, only along the cycle of creation or
 destruction.
 Time Lock
 Tradition Book: Order of Hermes (First Edition) page 66
-38 Enlightened Grimoire
 Time 4, Forces 2 or 3, optional Prime 2
 A Hermetic Adept of Time can pre-set a force to be
 infused to be removed from an area in advance. Forces
@@ -1690,7 +1358,6 @@ geography of the area.
 Yao Su Dragon Thunder
 Book of Crafts page 135
 Forces 3 or Matter 3, Spirit 2, Prime 2
-Elemental Magick 39
 This rote allows a Wu Lung to make a direct attack at
 anything, physical or ephemera, using some element,
 such as a fireball, a thunderbolt, a shower of molten
@@ -1762,7 +1429,6 @@ Discharge Static
 Mage: The Ascension First Edition page 195
 Mage: The Ascension Second Edition page 198
 Forces 2
-40 Enlightened Grimoire
 This rote causes the static electricity in the air,
 attacking a target.
 Electrical Chaos
@@ -1840,7 +1506,6 @@ Lost Paths: Ahl-i-Batin and Taftani page 87
 Forces 4, Prime 2
 The Taftani most often trigger this effect by forging a
 ring of copper and brass and then throwing it at their
-Elemental Magick 41
 enemies while speaking the trigger word. This causes the
 ring itself to turn into a tunnel of flame, sucking the
 Taftani's enemies into it. Evading this tunnel without
@@ -1880,7 +1545,6 @@ it takes.
 Gabriel's Embrace
 Blood Treachery page 88
 Correspondence 2, Matter 2 or Life 5, Prime 2, Forces 3
-42 Enlightened Grimoire
 This rote converts the air around the target (Matter)
 or the target's flesh itself (Life) into a burning flame.
 The Mage calls upon Gabriel, the Archangel of Fire, and
@@ -1961,7 +1625,6 @@ Life 3, Forces 2, optional Correspondence 2
 The Wu-Keng usually reserve this attack for their
 enemies, the Wu Lung, but sometimes use it on others.
 This rote boils the victim alive in their skin.
-Elemental Magick 43
 Wildfire
 Tradition Book: Order of Hermes (Revised) page 68
 Entropy 2, Forces 2
@@ -2090,7 +1753,6 @@ water, either through levitation or by strengthening the
 water's surface itself.
 Mahu (Steam)
 Dead Magic 2 page 28
-Elemental Magick 45
 Forces 2, Prime 2
 This rote converts water directly to steam, scalding
 anyone caught in it.
@@ -2172,7 +1834,6 @@ Allows the Mage to set a trigger for an effect. If done,
 the effect hangs, ready to fire, but only does so when the
 trigger occurs.
 Counterspell Rune
-48 Enlightened Grimoire
 Dead Magic 2 page 98
 Various
 This Rune acts as Countermagick.
@@ -2250,7 +1911,6 @@ Prime 4
 This drains all the Quintessence from a Node and
 puts it into a dormant state. If awoken, the Node will
 return to normal.
-Energy-Work 49
 Glorious Is the Temple
 Artisan's Handbook page 52
 Prime 3, Mind 2
@@ -2294,7 +1954,6 @@ has Rank 1 Data sympathy.
 Prime Location
 Book of Shadows page 145
 Correspondence 1 or 2, Prime 1
-50 Enlightened Grimoire
 Mages understand how important location is, almost
 as much as realtors. This rote allows the Mage to find
 the specific location of a Node. With Correspondence
@@ -2369,7 +2028,6 @@ whoever drinks it.
 Drain Tass
 Order of Reason page 83
 Prime 3
-Energy-Work 51
 Allows the Mage to draw Tass from a node in excess
 of their avatar rating.
 Economic Warfare
@@ -2409,7 +2067,6 @@ Prime 3, Correspondence 3
 This rote allows Quintessence to be sent anywhere on
 Earth.
 Primal Infusion
-52 Enlightened Grimoire
 Technocracy: Progenitors page 44 (as Create Primessence
 Drug)
 Convention Book: Progenitors (Revised) page 74
@@ -2486,7 +2143,6 @@ a number of days equal to the number of successes in
 between points. This spreads out the damage and allows
 the Taftani to avoid a single, large paradox backlash.
 Flames of Purification
-Energy-Work 53
 Mage: The Ascension First Edition page 211
 Mage: The Ascension Second Edition page 215
 Mage: The Ascension Revised page 184
@@ -2565,7 +2221,6 @@ This allows the Akashic to temporarily change the
 Mage's Resonance, or at Prime 5, pass it along to
 another being.
 Change the Resonance
-54 Enlightened Grimoire
 Book of Crafts page 41
 Matter 2, Mind 2
 This allows the Child of Knowledge to alter the
@@ -2644,7 +2299,6 @@ spirit, bound into the Mage with Life rather than
 acquired through the Better Body rote.
 Blood of the Sacred King
 Tradition Book: Verbena (Revised) page 65
-Energy-Work 55
 Prime 3
 This rote allows the Verbena to sacrifice a person in
 exchange for Quintessence. A Sleeper sacrificed this way
@@ -2713,21 +2367,8 @@ Quintessence. By self-harming, such as cutting runes
 into their flesh, the mage gains one point of
 Quintessence for each level of bashing damage taken,
 and an additional point for each lethal.
-56 Enlightened Grimoire
-Enhanced Combat
-There are many ways for magick to enhance combat.
-Fighting and warfare are as old as humanity, so it's no
-surprise that Mages have refined their ability to make
-violence work more in their favor.
-This chapter begins with Utility rotes, which are useful
-in combat but not tied to any particular technique.
-Then it covers Cooperation, rotes that enhance the ability
-of groups to work together. Then it turns to specific
-aspects of combat: Martial Arts, Melee and Ranged
-fighting.
+=== Enhanced Combat
 Utility
-There are many helpful rotes for combat that are beneficial
-to everyone, no matter how they choose to fight.
 Arrest the Flight of Arrows
 Tradition Book: Verbena (Revised) page 64
 Forces 2
@@ -2756,7 +2397,6 @@ bullets and knives to bounce off them. With enough
 successes, they even retrace their original paths, which
 can cause bullets to hit the person who fired them.
 Lucky Blow
-58 Enlightened Grimoire
 Order of Reason page 70
 Entropy 2
 This rote allows the Mage to detect weaknesses during
@@ -2798,7 +2438,6 @@ Artisan's Handbook page 46 (as Aiming Grid)
 Correspondence 1
 This allows an Iterator to locate and track their
 enemies. This procedure removes cover penalties
-Enhanced Combat 59
 (except for full cover) and reduces the difficulty of the
 next projectile attack on that target.
 Time-Motion Study
@@ -2879,7 +2518,6 @@ Order of Reason page 78
 Mind 1
 This Artificer rote comes from attempting to quantify
 everything involving in military matters. The Mage uses
-60 Enlightened Grimoire
 this rote before leading others into battle, and the
 successes from it may be used at various points in that
 battle to represent superior positioning and morale for
@@ -2916,7 +2554,6 @@ otherwise the Mage uses standard multiple-action rules.
 Bullet Catch
 Mage: The Ascension 20th Anniversary Edition page 607
 Forces 2, Life 2, Time 2
-Enhanced Combat 61
 A skilled martial artist can catch many weapons as
 they are used against them. However, bullets can only
 be caught that way through the enlightened martial art
@@ -2997,7 +2634,6 @@ Piercing Cry
 Book of Shadows page 148
 Matter 3, Entropy 3
 Required Do Maneuver: Kiai
-62 Enlightened Grimoire
 This Do technique allows the Akashic to shatter solid
 objects. One success allows them to break glass, while
 three or four is enough to crack a wall or heavy door.
@@ -3075,7 +2711,6 @@ When a swordsman is outnumbered, a taunt backed
 by this rote can mock their enemies into coming at them
 one at a time instead of all at once.
 Iron Snake
-Enhanced Combat 63
 Tradition Book: Akashic Brotherhood (Revised) page 67
 Correspondence 2, Forces 2, Mind 3
 Only extremely skilled melee fighters among the
@@ -3153,7 +2788,6 @@ X's Time-Motion Managers developed this procedure. It
 attacks the target with a variety of simple forces:
 microwaves attack with heat, a laser attempts to burn
 and blind, noise can deafen, and X-rays have little
-64 Enlightened Grimoire
 immediate effect, but if the target survives the short
 term, can cause cancer.
 Golden Gunman
@@ -3197,7 +2831,6 @@ For those Euthanatos more comfortable with modern
 technology, this rote allows them to fire a bullet and
 cause chance to break just right for it to hit multiple
 targets, ricochet in unpredictable ways, or otherwise
-Enhanced Combat 65
 behave unexpectedly. In particular, it allows the Mage
 to hit additional targets with the same bullet.
 Ricochet
@@ -3244,24 +2877,8 @@ Correspondence 1, Entropy 1, Forces 1, Mind 1
 With Trickshot, the Mage can arrange nearly
 impossible shots effectively. Successes subtract from the
 difficulty of the next shot the Mage fires.
-66 Enlightened Grimoire
-Healing and Harming
-Healing has always been one of the essential magickal
-techniques. In some places, magick itself was part of the
-bag of tricks that was referred to as medicine, though
-now medicine almost exclusively refers to techniques for
-healing. The flip side of healing is the ability to cause
-harm.
-In this chapter, we cover rotes for Diagnostics, because
-a problem must be identified before it can be
-solved. Then we move on to Drugs and Poisons, Harming,
-Healing, and Mental Health. With the basics
-down, we move on to Pain, and then the more dramatic
-areas of Resurrection and Temporary Health.
+=== Healing and Harming
 Diagnostics
-Before any malady can be solved, it must first be recognized.
-Diagnostic rotes are used to determine what,
-if anything, is wrong with someone.
 Bloodsight
 Tradition Book: Verbena (First Edition) page 63
 Life 1
@@ -3287,7 +2904,6 @@ illness.
 Examine Humors
 Order of Reason page 73
 Life 1, optional Mind 2
-68 Enlightened Grimoire
 A Cosian rote, by examining the patient's body fluids,
 insight can be gained into the patient's health issues.
 Each success gives a -1 difficulty on a medicine roll for
@@ -3323,7 +2939,6 @@ so that they always have the right tool for the job. Some
 less ethical Scientists have used it to alter poisons in a
 victim's system to destroy evidence of murder.
 Cinnabar Tears
-Healing and Harming 69
 Tradition Book: Akashic Brotherhood (Revised) page 67
 Life 3, Matter 2
 The Akashic ingests a tiny amount of a poison, which
@@ -3404,7 +3019,6 @@ Guide to the Technocracy page 211
 Life 2, Mind 2, Prime 1
 By persuading someone that they have gotten a "bad
 batch" of some chemical that's common in food, a
-70 Enlightened Grimoire
 Progenitor can cause one of any number of effects, with
 the following examples:
 • the food they ate is not filling, and they are hungry
@@ -3451,7 +3065,6 @@ Tradition Book: Cult of Ecstasy (Revised) page 72
 Life 2, Mind 1
 This rote allows a Cultist to regain control of
 themselves despite whatever methods they've used to
-Healing and Harming 71
 alter their consciousness. Usually through some sort of
 meditative technique, they use Mind to regain selfcontrol
 and Life to purge their body of the aftereffects
@@ -3571,7 +3184,6 @@ dissolving the connection between the avatar and the
 mind, and dispelling its energy back to the universe at
 large. Life is often added to shred the pattern of the offender
 or else directly transmute them to dust, Forces
-Healing and Harming 73
 scatter the remains so that they cannot be reconstituted,
 and Correspondence can be used to dispel every element
 of the victim.
@@ -3645,7 +3257,6 @@ can be used on a patient in the Mage's care.
 Distill the Azoth Elixir
 Tradition Book: Order of Hermes (First Edition) page 67
 Life 5, Prime 3, Matter 2
-74 Enlightened Grimoire
 A closely guarded secret, this rote allows Hermetics to
 create Azoth, a liquid that captures the pure essence of
 life. Azoth can heal any injury, cure any disease, and
@@ -3717,7 +3328,6 @@ good dreams and good spirit energy. With Mind 4,
 mental illness can be healed, and with Spirit 4
 possession can be healed.
 Massage Therapy
-Healing and Harming 75
 Book of Crafts page 89
 Life 3 or Mind 3 or both
 The Mage can cure almost any wound, ache or
@@ -3760,7 +3370,6 @@ Entropy 1, Life 1 or 3
 Two rotes commonly used together by Babylonian
 physicians, the first (with Life 1) attempts to diagnose
 the source of a malady, usually determining which god
-76 Enlightened Grimoire
 the target has gained the disfavor of. The second (with
 Life 3) attempts to heal it.
 Surpu
@@ -3839,7 +3448,6 @@ neurochemistry.
 Quietsong
 Hidden Lore page 13
 Mind 2 or 3, Entropy 1
-Healing and Harming 77
 The Mage can enter (perception only at Mind 2,
 communication at 3) the interior reality of a Mage in
 Quiet.
@@ -3917,7 +3525,6 @@ alive. Every time skin is pulled away; however, new skin
 grows to replace is, allowing the flaying to begin again
 and again.
 General Anesthesia
-78 Enlightened Grimoire
 Tradition Book: Sons of Ether (First Edition) page 63
 Mind 1, Life 1
 Etherites with an interest in medicine quickly
@@ -3954,7 +3561,6 @@ may be spent to act.
 Turkey Basting
 Technocracy: Syndicate page 48
 Mind 3, Life 3
-Healing and Harming 79
 By describing the tortures that the Syndicate agent
 could do to the target, they lock them into a mental loop
 where they feel all those tortures and more, without
@@ -4014,20 +3620,7 @@ levels out of ephemera, reducing the subject's wound
 penalties as if those health levels were real. With Life 3,
 this will also actually heal one health level per success
 and grant one ephemeral one as well.
-80 Enlightened Grimoire
-Inanimate Objects
-Aside from just creating magickal objects, magick has
-a long history of working with the inanimate. One of
-the most ancient goals of the alchemists was to turn lead
-into gold, a common stage feat of magic is to pull an
-object seemingly from nowhere.
-This chapter is divided up into Alterations, which
-change the structure of an object, Analysis which gives
-the Mage information about it, Conjuration, the ability
-to call objects from elsewhere, Creation which can make
-exotic materials and even create something out of nothing,
-Destruction, Enhanced Objects, Repair and Reinforcement
-and then finally, Transmutation itself.
+=== Inanimate Objects
 Alterations
 These rotes alter the fundamental properties of matter
 without changing it into another type. These allow
@@ -4056,7 +3649,6 @@ Mage: The Ascension Revised page 174
 Matter 5
 As a Master of Matter, a Mage can alter fundamental
 properties of matter. With this rote, the Mage can
-82 Enlightened Grimoire
 increase or decrease an object's weight without altering
 any other properties of the object.
 Guncotton's Blessing
@@ -4097,7 +3689,6 @@ Mage: The Ascension Second Edition page 207
 Matter 5
 A technique invented by Etherites, this rote makes
 two materials insubstantial with respect to each other:
-Inanimate Objects 83
 they can just pass through one another. The two
 substances are unchanged otherwise.
 Melt and Reform
@@ -4135,7 +3726,6 @@ and thus eavesdrop on secure communication.
 Transephemeration Ray Projector
 Mage: The Ascension First Edition page 225
 Matter 3, Life 3
-84 Enlightened Grimoire
 Targeting both a person and an inanimate object with
 beams of light, this rote causes the person and object to
 no longer interact, just passing through one another.
@@ -4209,7 +3799,6 @@ they can then produce the weapon, catching their
 opponent by surprise. Often, Correspondence is used
 to hide it in an unlikely location, such as the Mage's
 mouth.
-Inanimate Objects 85
 Pickpocket
 Order of Reason page 66
 Correspondence 2
@@ -4290,7 +3879,6 @@ Exotic Matter - Primium
 Technocracy: Iteration X page 48 (as Smelt Primium)
 Tradition Book: Sons of Ether (Revised) page 62
 Matter 5, Prime 3
-86 Enlightened Grimoire
 Among the only groups that know how to make
 Primium are Iteration X and the Society of Ether. It's
 an alchemically perfect allow of gold and silver.
@@ -4333,7 +3921,6 @@ Matter 2, Prime 2, Correspondence 2, Mind 1
 By careful examination of a broken machine, an
 Etherite may determine exactly what needs to be done
 to repair it and then proceed to do so using whatever
-Inanimate Objects 87
 techniques they prefer. The worse condition the
 machine is in, the more successes are required to do the
 repair.
@@ -4409,7 +3996,6 @@ destroy them utterly.
 Erode Matter
 Mage: The Ascension First Edition page 193
 Entropy 3
-88 Enlightened Grimoire
 This rote infuses entropy and chaos into an object,
 causing it to decay.
 Sabotage
@@ -4487,7 +4073,6 @@ Spirit 4
 The Mage can bind spirits to objects to give access to
 some of the spirit's powers to the owner of the object,
 which will work best if the spirit is cooperating.
-Inanimate Objects 89
 Create Talen
 The Spirit Ways page 90
 Spirit 3, optional Prime 2
@@ -4528,7 +4113,6 @@ This effect causes whatever it is used on to
 automatically resize itself to fit whoever it is using it.
 Gorningstakkr
 Dead Magic 2 page 102 Entropy 2, Life 2, Matter 2, Prime 2;
-90 Enlightened Grimoire
 Matter 5, Prime 2;
 Life 3, Matter 2, Prime 2
 The Wound-Proof Shirt. This ritual creates a shirt
@@ -4606,7 +4190,6 @@ harder to break. At Matter 3, it becomes difficult but
 not impossible to break, but at Matter 5, the object can
 only be destroyed by magickal effects.
 Awaken the Inanimate
-Inanimate Objects 91
 Mage: The Ascension Second Edition page 218
 Mage: The Ascension Revised page 187
 Mage: The Ascension 20th Anniversary Edition page 607
@@ -4767,7 +4350,6 @@ Philosopher's Stone in powder form over a seed, and as
 the plant grows, it will convert base metals in the ground
 around it into gold. Each success can create a half-ounce
 of unrefined gold.
-Inanimate Objects 93
 Simple Transmutation
 Order of Reason page 75
 Matter 2
@@ -4786,6 +4368,7 @@ Matter 4
 The Mage can transform virtually any substance into
 virtually any other. The mage can only affect one type of
 material at a time.
+=== Miscellaneous
 Checklist
 Convention Book: Void Engineers (Revised) page 85
 Entropy 2 or Prime 5
@@ -4828,7 +4411,6 @@ Matter to be destroyed, causing it to crumble to dust.
 Ebon Dragon's Tide
 Dragons of the East page 67
 Entropy 4, Life 3, Prime 2, Matter 2
-96 Enlightened Grimoire
 By digging a deep pit and petitioning for the release
 of the dark waters brought by the ancient black dragon,
 a Wu-Keng can bring about a stream that rots flesh,
@@ -4912,7 +4494,6 @@ is behaving oddly, or else be at -2 to all dice pools for
 the duration.
 Mages who notice it will immediately recognize that
 magick is involved, but Sleepers must roll Willpower
-Miscellaneous 97
 against difficulty 8 or else feel that they are haunted by
 that shadow, seeing it everywhere, for the duration.
 Telekinesis
@@ -4939,31 +4520,7 @@ arbitrary amounts from nothing, or destroying it. This
 allows them to give the target object whatever velocity
 they want: pennies moving at the speed of bullets,
 stopping a speeding train instantly, etc.
-98 Enlightened Grimoire
-Movement and
-Communication
-Teleportation and Telepathy are just two of the powers
-of movement and communication at the beck-andcall
-of a Mage. The ability to move long distances instantly
-or even to communicate across them, is taken for
-granted in the modern world of airplanes and cell
-phones, but these are still powerful magicks that have
-served Mages well for ages and continue to do so despite
-modern technology making them less essential.
-But also, Mages can go places that Sleepers can't, and
-through methods that they can't. The Umbra is still the
-playground of Mages, though other supernatural beings
-can get there.
-This chapter contains Utility rotes, which are helpful
-for many different sorts of travel, rotes that Alter Distance,
-allow for Astral Travel, aid in Breaking In to
-places, the ability to Broadcast a thought or emotion, to
-alter how we speak or perceive Language, to enter or
-create Realms, send or read Secret Messages, to manage
-the very dangerous Shadowlands Travel, the Sleeping
-Lands of the Australian Aborigines, Teleportation,
-Umbral Travel, surviving and getting to Unusual Environments
-and finally, Unusual Modes of transport.
+=== Movement and Communication
 Utility
 Some rotes are useful no matter what you're doing
 with respect to communication and travel or are highly
@@ -4983,7 +4540,6 @@ thing, and is essential in bonding a Familiar.
 Joyride
 Hidden Lore page 14
 Correspondence 2, Entropy 2 or Forces 2
-100 Enlightened Grimoire
 With this rote, a Mage can make sure that traffic lights
 aren't a problem while they drive. Entropy alters chance
 so that the lights happen to be green for them, and
@@ -5061,7 +4617,6 @@ riding a horse with this rote. It allows them to move so
 quickly that the scenery blurs and, sooner than
 expected, they arrive. Each success causes the travel time
 to decrease by 20%, to a minimum of 0.
-Movement and Communication 101
 Correspondence 4 is needed to take others with the
 Mage.
 The Seven-League Stride
@@ -5096,7 +4651,6 @@ Astral Projection
 Dead Magic 2 page 103 (as Gand-Rei "Chant Riding")
 Mage: The Ascension Revised page 178
 Mind 4
-102 Enlightened Grimoire
 Astral Projection releases the Mage's mind, free of the
 body. When Astral Projecting, the Mage can access the
 Astral Umbra. They can also move around the material
@@ -5174,7 +4728,6 @@ Entropy 2, Matter 1
 The Mage randomly twists the dial on a lock and
 manages to unlock it. For each success, the Mage learns
 one digit of the combination, more successes are needed
-Movement and Communication 103
 to work out longer combinations. An additional success
 is needed for time-locks.
 Thief in the Night
@@ -5253,7 +4806,6 @@ Over an area determined by number of successes, this
 procedure is used by the New World Order to hijack
 television, radio, etc. signals and transmit "emergency
 bulletins" regarding "dangerous criminals." If the
-104 Enlightened Grimoire
 procedure succeeds, the viewers will believe that the
 transmission is real, and become convinced that the
 people described are dangerous criminals.
@@ -5294,7 +4846,6 @@ Correspondence 2, but many screens with
 Correspondence 3. Mind 2 only allows emotional
 manipulation as in Subliminal Impulse, whereas Mind
 4 allows full Possession.
-Movement and Communication 105
 Telepathy
 Mage: The Ascension First Edition page 206
 Mage: The Ascension Second Edition page 210
@@ -5373,7 +4924,6 @@ they're found, Matter is needed as well.
 Speaking in Tongues
 Tradition Book: Celestial Chorus page 64
 Mind 3
-106 Enlightened Grimoire
 This Chorister rote allows the Mage to speak in their
 language while causing their listeners to hear it in their
 own.
@@ -5448,7 +4998,6 @@ with Entropy the effect can hang and trigger if someone
 other than the Mage themselves opens the book.
 Craft Tome
 Order of Reason page 89
-Movement and Communication 107
 Entropy 3, Mind 1
 Whereas Cypher Wheel encrypts a short message,
 Craft Tome creates an entire work of novel length
@@ -5491,7 +5040,6 @@ Mind 2, Matter 2, Prime 2
 Hermetics often need to hide their teachings in
 plain sight. This rote allows them to do so in a book.
 Mages who read it will be able to tell that there is
-108 Enlightened Grimoire
 something hidden, but only those who know how to
 parse it or who succeed at Wits + Intelligence difficulty
 8 roll. The more distinct from the printed text the
@@ -5535,7 +5083,6 @@ vision quest where the purpose is to cause the Mage to
 embrace Oblivion rather than the spur them to personal
 Enlightenment. If the Mage succeeds, the effect ends,
 and they are brought back to their physical body. If they
-Movement and Communication 109
 fail, that is, they reject their Avatar or deny Ascension,
 they make a Willpower roll at difficulty 9. If they
 succeed, the effect ends and they (and any companions)
@@ -5647,7 +5194,6 @@ pool of water, marks the boundary with their spit and
 urine, and puts in a drop of their blood. When the
 victim steps into the pool, they are pulled into the water
 and transported to another location. A stronger version
-Movement and Communication 111
 holds the victim there, suspended in time, where Time
 4 does so after some duration, and 5 can do so
 indefinitely.
@@ -5712,7 +5258,6 @@ other hand, barge in and make themselves at home,
 crafting Realms and bargaining with the inhabitants.
 To do these things, the rotes of this section are essential.
 Breach Gauntlet Undetectably
-112 Enlightened Grimoire
 Technocracy: Void Engineers page 42
 Dimensional Science 3
 At a cost of requiring two more successes than
@@ -5752,7 +5297,6 @@ least as many successes as their avatar rating, must spend
 one point of quintessence per dot of avatar. The spirit
 then takes the damage from the Avatar Storm instead of
 the mage.
-Movement and Communication 113
 Deep Umbra Travel
 Mage: The Ascension First Edition page 215
 Mage: The Ascension Second Edition page 219
@@ -5831,7 +5375,6 @@ Earth or the Near Umbra.
 Long-Distance Universal Travel
 Technocracy: Void Engineers page 42
 Dimensional Science 5
-114 Enlightened Grimoire
 This allows the Void Engineer to travel the Deep
 Universe freely, and even breach Horizon Realms
 without using the proper entrance. This rote is also
@@ -5913,7 +5456,6 @@ Gauntlet, but also cause those near it to be sucked
 through. Particularly effective in the age of the Avatar
 Storm.
 Trailblazing
-Movement and Communication 115
 Tradition Book: Dreamspeakers (First Edition) page 67
 Prime 2, Spirit 2
 For one day per success, the Dreamspeaker creates a
@@ -5991,7 +5533,6 @@ capable of Umbral travel as well.
 Nitrogen Narcosis
 Technocracy: Void Engineers page 48
 Life 3, Matter 2
-116 Enlightened Grimoire
 By using a decompression suit or chamber, Void
 Engineers can avoid the deadly consequences of
 nitrogen narcosis, also called The Bends.
@@ -6068,7 +5609,6 @@ Tradition Book: Hollow Ones (Revised) page 64
 Entropy 2, Forces 2
 This rote gives the Mage significant control over
 traffic patterns, allowing them to manipulate traffic
-Movement and Communication 117
 lights, how heavy traffic is, and even prevent or cause
 minor accidents.
 Walking on Water
@@ -6087,21 +5627,7 @@ By making a pair of wings out of feathers and wax and
 donning them, this rote allows a Mage to fly clumsily.
 Strong winds can decrease the difficulty, and extended
 rituals are strongly recommended.
-118 Enlightened Grimoire
-Mystic Perception
-An underrated class of rotes, those that enhance perception
-are often open to even the weakest and newest
-of Mages. These rotes are almost always coincidental,
-and although not flashy like other sorts, they can give a
-Mage a huge advantage. A Mage armed only with perception
-effects is already substantially more powerful
-than a Sleeper, able to see perfectly in the dark, to interact
-lightly with Spirits, or to process information much
-more quickly than others.
-This chapter is divided up by the primary sphere of
-each effect, with a final section for complex perception
-effects that don't have a primary sphere, but instead use
-multiple spheres equally.
+=== Mystic Perception
 Correspondence/Data
 Calculate Kinematics
 Technocracy: Void Engineers page 41
@@ -6129,7 +5655,6 @@ gives +1 to Perception for the scene or -1 to Alertness
 checks.
 Information Overload
 Tradition Book: Virtual Adepts (Revised) page 66
-120 Enlightened Grimoire
 Correspondence 2, Mind 2
 This rote vastly increases the target's perceptive
 abilities. If the Reality Coder chooses, it can be an
@@ -6207,7 +5732,6 @@ in objects and people, similar to Locate Disorder and
 Weakness. By hitting them, the Mage gains dice of their
 damage roll, one per success.
 Idealism
-Mystic Perception 121
 Order of Reason page 69
 Entropy 1
 Originating with the High Guild and Explorators, just
@@ -6249,7 +5773,6 @@ weak points.
 Ring of Truth
 Mage: The Ascension Second Edition page 193
 Mage: The Ascension Revised page 162
-122 Enlightened Grimoire
 Entropy 1
 By paying attention to the strands of Fate, the Mage
 can detect lies.
@@ -6284,7 +5807,6 @@ infrastructure. This access allows them to determine
 how much energy is being used in an area.
 Darksight
 Mage: The Ascension First Edition page 195
-Mystic Perception 123
 Mage: The Ascension Second Edition page 198
 Order of Reason page 70 (as Dark-Adapted Eye)
 Mage: The Ascension Revised page 166
@@ -6360,7 +5882,6 @@ target.
 Pattern Store
 Technocracy: Progenitors page 41
 Life 1
-124 Enlightened Grimoire
 This Procedure allows the Progenitor to memorize
 and record the Pattern of a life form.
 Scan Life Signs
@@ -6431,7 +5952,6 @@ spiritual nature and thoughts. This is a combination of
 aura reading and reading surface thoughts.
 Cram Session
 Guide to the Technocracy page 216
-Mystic Perception 125
 Time 3, Mind 1
 A Technocrat that needs to find something out can
 conduct a Cram Session. Doing so divides the time
@@ -6471,7 +5991,6 @@ state of those affected.
 Lip Reading
 Order of Reason page 91
 Mind 3, Entropy 2, optional Time 2
-126 Enlightened Grimoire
 Even as early as the Renaissance, lip-reading was in
 common use by the Ksirafai and other spy
 organizations. When trying to determine the target's
@@ -6544,7 +6063,6 @@ and physical state of the target is also gained.
 Prime/Primal Utility
 Detect Reality Deviation Technocracy: New World Order page 48 (as Detect Reality
 Deviant)
-Mystic Perception 127
 Convention Book: New World Order (Revised) page 87
 Prime 1, Dimensional Science 2 or Life 2
 This allows the Agent to detect and identify Reality
@@ -6621,7 +6139,6 @@ polarized sunglasses.
 See no Evil
 Order of Reason page 84
 Spirit 1
-128 Enlightened Grimoire
 This rote allows the Mage to see things that have
 footprints in the Umbra: ghosts, spirits, the Gnosis of a
 Werewolf, a faerie's Glamour and the like.
@@ -6745,17 +6262,7 @@ from Life, the ability to see magick and spirits through
 Prime and Spirit, Mind opens them up to these new
 perceptions, and Time lets them perceive the
 imperfections in the flow of time.
-130 Enlightened Grimoire
-Necromancy
-Originally, the word Necromancy referred specifically
-to summoning the ghosts of the dead to ask them questions
-about the future, a form a divination. Now, it refers
-to any magic that has to do with death and the undead.
-This chapter is divided into the rotes that involve a
-ghost's Fetters, those that directly deal with Ghosts and
-the Shadowlands, those involving Rebirth whether as
-natural human beings or other things and finally those
-involving using the dead as Servants.
+=== Necromancy
 Fetters
 Every Wraith is bound to the world by some collection
 of objects and people important to them in life.
@@ -6788,7 +6295,6 @@ expending Quintessence, the fetter becomes
 permanent.
 Fetter Ball
 Tradition Book: Hollow Ones (Revised) page 65
-132 Enlightened Grimoire
 Prime 2, Spirit 4
 This creates a one-point fetter for a Wraith, in the
 possession of the Hollow One. The Wraith must
@@ -6828,7 +6334,6 @@ Tradition Book: Hollow Ones (Revised) page 66
 Correspondence 1, Entropy 1, Mind 1, Spirit 1
 This allows Hollow One necromancers to not only see
 ghosts, but to see the Shadowlands how the Wraiths see
-Necromancy 133
 it: morbid black-and-white, the weak points of
 everything completely obvious, the auras of living things
 giving away that they are, in fact, alive. By focusing on
@@ -6861,7 +6366,6 @@ it that this technique was learned from the soulsmiths
 of Stygia (for more detail, see Wraith: The Oblivion),
 and is exceedingly unpleasant for any spirit used in such
 a way, even those that are used to pain.
-134 Enlightened Grimoire
 The forging merges matter and spirit into a new
 material, destroying the spirit's original form but not
 quite destroying its consciousness, so that it experiences
@@ -6940,7 +6444,6 @@ When they die, this prevents them from becoming a
 ghost, and ensures that they move on to whatever
 afterlife there may be.
 Servants
-Necromancy 135
 Some Mage create bonds between themselves as the
 dead, other command their bodies or spirits to do their
 bidding directly. Though most Mages would never do
@@ -6997,16 +6500,7 @@ Summon Volva
 Dead Magic 2 page 103
 Entropy 1, Spirit 2, optional Correspondence 2, optional Time 2
 This rote is identical to the Ghost Rune.
-136 Enlightened Grimoire
-Obfuscation
-Mages often have a need to hide things. Obfuscation
-magick is the sort that allows a Mage to hide in a crowd,
-to cause something to disappear or to become invisible.
-Some Mages take it farther and mimic the background
-Arcane with these magicks, potentially to terrible consequences.
-This chapter is divided into rotes for Blending In, for
-Disappearing the Mage or information, for going Unnoticed
-or even for going Unseen.
+=== Obfuscation
 Blending In
 Often a Mage doesn't need to disappear entirely.
 What they need to interact with people without them
@@ -7038,7 +6532,6 @@ hide their malevolent intent.
 Passing
 Orphan's Survival Guide page 128
 Life 3
-138 Enlightened Grimoire
 Sometimes, certain people are not safe. Whether
 you're the wrong race, sex or otherwise, this rote allows
 the Mage to change their features to match whatever it
@@ -7079,7 +6572,6 @@ trouble.
 Secure the Scene
 Mage: The Ascension 20th Anniversary Edition page 604
 Mind 2 or 3, Forces 1, Matter 1, optional Forces 3
-Obfuscation 139
 Technocrats need to score at least three successes to
 Secure a Scene, and more successes are needed the
 larger the area to secure is.
@@ -7154,7 +6646,6 @@ Dead Magic 2 page 103
 Mind 2 or 4;
 Entropy 5;
 Forces 2
-140 Enlightened Grimoire
 With this magic, the Mage can cloud the minds of
 men. The most basic version allows the Mage to strike
 fear into all those in their presence. A more advanced
@@ -7230,7 +6721,6 @@ into darkness. Forces 3 is necessary for a larger area or
 brighter light sources.
 Shadow Project
 Orphan's Survival Guide page 126
-Obfuscation 141
 Forces 2
 This effect pushes away light, drawing shadows
 around the Mage and hiding them from sight.
@@ -7285,19 +6775,7 @@ The Mage alters their body to the point where it no
 longer interacts with light. Though one success might
 just render them blurry, three or more grant complete
 invisibility.
-142 Enlightened Grimoire
-Space-Time
-Management
-For some Mages, Space and Time themselves can be
-treated merely as suggestions. These powers let them do
-some of the most fantastical of feats from fiction and
-mythology, if they can survive the paradox. This, of
-course, is why Mages rarely Time Travel.
-This chapter is divided into rotes that gives
-Knowledge of space and time, those that allow the
-Mage to see or interact with Many Places simultaneously,
-the powerful rotes that manage Time Manipulation
-and finally those that Warp Space itself.
+=== Space-Time Management
 Knowledge
 Space and Time are the playground that Reality sits
 inside. But they're also aspects of it. A Mage who uses
@@ -7328,7 +6806,6 @@ be.
 Smoker's Timing
 Guide to the Traditions page 280
 Time 2
-144 Enlightened Grimoire
 It's a well-known urban legend that if a smoker is
 waiting for something, it will happen the moment they
 start a cigarette. Taking advantage of that, a Tradition
@@ -7368,7 +6845,6 @@ Polyappearance
 Mage: The Ascension First Edition page 187
 Mage: The Ascension Second Edition page 191
 Mage: The Ascension Revised page 160
-Space-Time Management 145
 Correspondence 4
 The Mage is in multiple places simultaneously.
 Observers see the Mage's interactions with all locations,
@@ -7406,7 +6882,6 @@ overwhelming. Contrary to the title, this is not just an
 hour, but rather lasts for the usual duration, and is most
 commonly used as a form of torture. To concentrate
 while the victim of this effect, a Willpower roll is
-146 Enlightened Grimoire
 necessary with difficulty determined by how intense the
 base sensation is. This effect can only be broken,
 however, by a sensation more powerful than the original
@@ -7491,7 +6966,6 @@ opt to slow the process of aging to the point where it is
 barely happening at all. Maintaining it requires that the
 Mage expend a point of Quintessence every week, or
 else take a Lethal damage per day and begin aging
-Space-Time Management 147
 rapidly to at least (often more) than their actual age.
 This effect usually causes a Mage to age by a single year
 for every fifty that they experience.
@@ -7570,7 +7044,6 @@ The Mage can "borrow" Quintessence from their
 future self, but they cannot be sure how far into the
 future. They may gain one Quintessence for each
 success, and at some point, in the future, the Storyteller
-148 Enlightened Grimoire
 informs them that they have lost an equivalent amount
 of Quintessence.
 Warping Space
@@ -7609,7 +7082,6 @@ work your way out of the labyrinth.
 Maze of the Minotaur
 Dead Magic page 107
 Mind 3, optional Correspondence 4
-Space-Time Management 149
 A craftsman can build a maze so complex that it
 causes anyone inside it to lose their sense of direction.
 With just Mind, the target loses track of their path,
@@ -7641,19 +7113,7 @@ Correspondence can bend space to their whim. They
 can cause things to shrink, grow, distort in other way,
 can cause geometries that are impossible in the normal
 world, their imagination is the only limit.
-150 Enlightened Grimoire
-Summoning, Binding
-and Warding
-Although Movement and Communication covers
-how to get to and travel within the Umbra, this chapter
-consists of rotes for dealing with the beings that call it
-home. However, spirits are not the only beings that can
-be summoned, bound or warded against, and so these
-topics are construed more broadly.
-This chapter begins with rotes that handle Basic Interactions
-with spirits, then continues on to Binding
-rituals, rotes that aid in Perception of these beings,
-Summoning rituals and finally Warding.
+=== Summoning, Binding and Warding
 Basic Interactions
 The rotes in this section focus on the basic interactions
 between Mages and spirits and their world. They
@@ -7683,7 +7143,6 @@ works against ghosts and spirits.
 Sharing the Outsider's Gaze
 Infinite Tapestry page 183
 Mind 4, Prime 1, Spirit 3
-152 Enlightened Grimoire
 This allows the Mage to share in a Spirit's senses.
 Spirits often have senses completely alien to
 humans (tasting quintessence, experiencing
@@ -7761,7 +7220,6 @@ Lost Paths: Ahl-i-Batin and Taftani page 88
 Spirit 4, Matter 3, Prime 2
 Using techniques going back to Suleiman the Wise
 himself, the Taftani is no longer at the mercy of Djinni,
-154 Enlightened Grimoire
 but rather can control them. By creating a container and
 a trigger phrase, a djinn can be sucked into the bottle,
 and the Mage has three turns to seal the bottle so that
@@ -7918,7 +7376,6 @@ of the Gauntlet in a given location.
 Sense the Demon's Weakness
 Book of Crafts page 135
 Entropy 1, Spirit 1
-156 Enlightened Grimoire
 This allows a Wu Lung to focus on a demon and
 determine the essential weakness of its nature.
 Sense the Nagloper
@@ -7999,7 +7456,6 @@ doesn't guarantee that the elemental will be friendly.
 Enter the Sauna
 Dead Magic 2 page 126
 Spirit 2
-158 Enlightened Grimoire
 The Mage uses a meditative trance to reach out to
 spirits. For each success, the Mage may ask one yes/no
 question of the divining spirits.
@@ -8123,7 +7579,6 @@ Spirit 2, Mind 1
 Through bloodletting (at least two lethal damage) in a
 spiritually significant location on the Mage's body, they
 can commune with gods and spirits and receive visions
-160 Enlightened Grimoire
 from them. Spirit calls to the spirit or god and allows
 the Mage to see their message, Mind filters it through
 appropriate symbols for the Mage to interpret.
@@ -8240,7 +7695,6 @@ attacks across the Gauntlet.
 Reconstruct Gauntlet
 Technocracy: Void Engineers page 42
 Dimensional Science 4
-162 Enlightened Grimoire
 At this point, a Void Engineer can repair a damaged
 piece of the Gauntlet, preventing anything from
 crossing through.
@@ -8373,22 +7827,7 @@ Correspondence 2, Spirit 2
 The original ward against demons, from which most
 Hermetic warding is descended, it creates a boundary
 which spirits cannot cross.
-164 Enlightened Grimoire
-Transformations
-From Circe turning Odysseus's crew into pigs to people
-who wear the skins of wolves in order to become one,
-transformations have been an important part of myth and
-magick. The entire history of the Council of Nine depends in
-part on a transformation: the creation of the Rebis, Heyley,
-who betrayed the First Cabal to the Technocracy.
-This chapter is divided among several different types of
-transformations. The first merely Alter Appearance, followed
-by more significant Alterations. After that, there is Creation,
-when something not living is transformed into a livfeform.
-Next are rotes that perform a large scale Metamorphosis,
-changing the target into something fundamentally different.
-Finally come those rotes that cause limited changes, generally
-resulting in the Mage performing Self Improvement.
+=== Transformations
 Alter Appearance
 When a Mage alters their appearance, they have more
 options than Sleepers could ever dream of. The rotes
@@ -8417,7 +7856,6 @@ blowing dust into the faces of a person allows them to
 disguise something they don't want discovered.
 Jivitamarana (Death in Life) Yoga
 Tradition Book: Euthanatos (Revised) page 67
-166 Enlightened Grimoire
 Entropy 4 or Matter 4, Life 4
 This effect creates a state of living near-death for the
 Mage. For the duration, the Mage can soak lethal
@@ -8459,7 +7897,6 @@ actual one.
 Uther's Butchered Visage
 Mage: The Ascension First Edition page 224
 Life 3, Mind 1
-Transformations 167
 By cutting away their own flesh, the Mage can
 transform into a perfect physical duplicate of
 anyone whose Pattern they have had the
@@ -8499,7 +7936,6 @@ Technocracy: Iteration X page 50
 Matter 5, Life 3, Prime 3
 Once a biomechanism has been made through
 Craft Biomechanism, it must be attached to the user.
-168 Enlightened Grimoire
 The Life Pattern of the person and the Matter Pattern
 of the mechanism must be carefully joined together
 through surgery.
@@ -8580,7 +8016,6 @@ changes to their local environment, such as extracting
 oxygen from water.
 Mokupuni Palahalaha Wiki
 Dead Magic 2 page 29
-Transformations 169
 Life 2, Prime 3, Time 3
 Polynesian Mages often want their own islands and
 reefs away from prying eyes. This rote, whose name
@@ -8658,7 +8093,6 @@ successes, with the number doubled for creating
 something new rather than duplicating existing life.
 The Foundling
 Mage Storyteller's Companion page 63
-170 Enlightened Grimoire
 Correspondence 2, Life 5, Matter 2, Mind 3, Spirit 4
 Used by a Master who knows that they are about to
 die, this ties the Mage's avatar to their most prized
@@ -8702,7 +8136,6 @@ Life 4, Matter 2, Mind 2, Prime 2
 Using Pattern spheres to handle the physical issues
 and Mind to handle the mental ones, this rote allows an
 Etherite to keep a brain alive outside of its body,
-Transformations 171
 whether just in a jar or in a new, better body. A robot
 body.
 Thorn Wall
@@ -8782,7 +8215,6 @@ Forces, they can even turn their targets into inanimate
 objects and energy.
 Eagle Form
 Dead Magic 2 page 128
-172 Enlightened Grimoire
 Mind 4, Spirit 2
 The Mage shapechanges their Astral Form to an
 Eagle, giving them the ability to move more easily
@@ -8825,7 +8257,6 @@ becomes 10 feet tall, their skin turns the color of
 wrought iron and their four hands end in talons, each
 holding a menacing weapon. Usually, these weapons
 are swords, though variants with other weapons exist.
-Transformations 173
 Before devoting successes to duration, the Mage must
 increase Strength to 6, spend three successes to soak
 lethal and aggravated damage (soak dice per success) and
@@ -8870,7 +8301,6 @@ in a much larger part of the light spectrum.
 LERMUization requires five successes before
 duration and causes three points of permanent paradox.
 Lesser Shapechanging
-174 Enlightened Grimoire
 Mage: The Ascension Second Edition page 203
 Life 4
 This allows the Mage to shapeshift into any animal of
@@ -8953,7 +8383,6 @@ or on an Arete roll from a Mage. With Prime, the effect
 deals damage to any shapeshifter that touches them
 based on the number of successes more than three
 rolled at creation.
-Transformations 175
 Shapeshifting
 Technocracy: Progenitors page 40
 Life 5
@@ -9034,7 +8463,6 @@ than normal desert heat or cold, or deep-water pressure,
 can be withstood.
 Adrenal Rush
 Book of Shadows page 143
-176 Enlightened Grimoire
 Life 3, Prime 2
 By playing an intense video game, a Virtual Adept can
 get a rush of adrenaline and make other slight changes
@@ -9078,7 +8506,6 @@ alterations to themselves, including increasing physical
 attributes, appearance, growing claws or gills, natural
 armor, etc.
 Biochemical Regulation
-Transformations 177
 Technocracy: Progenitors page 44
 Life 3
 The Progenitor can alter the biochemistry of the body.
@@ -9123,7 +8550,6 @@ during intense action.
 Go Ti Ta
 Dragons of the East page 68
 Life 4, Spirit 4
-178 Enlightened Grimoire
 The Wu-Keng have very few combat-oriented rotes.
 This is one of them. It derives from a fertility ritual
 where combatants spar with deer antlers. By inscribing
@@ -9198,7 +8624,6 @@ Tradition Book: Verbena (Revised) page 68
 Life 3
 By drawing on the Earth itself as a source, the
 Verbena can increase their Strength, one dot per
-Transformations 179
 success, so long as the Verbena is in contact with the
 ground.
 Survivor's Charm
@@ -9238,25 +8663,7 @@ even heat and code that would hurt a normal person
 (such as the center of a bonfire or the Antarctic) is
 comfortable: each success reduces the damage by two
 levels.
-180 Enlightened Grimoire
-Uncanny Influence
-Sometimes, Mages exert an influence over those
-around them beyond what mundane methods are capable
-of. Mind control is the bluntest form of this, but
-most Mages have a much lighter touch. Another dramatic
-example is Room 101 of the New World Order,
-where Mages are taken and have their wills broken
-down in an attempt to turn them into Technocrats.
-This section starts with emotional manipulation: Anger
-and Calm, Fear and Intimidation, Seduction and
-Other Emotions can all be instilled directly. Beyond
-that, Animal Control can be performed. Mages can
-also control the Attention something or someone gets
-and improve the Cooperation among groups. They can
-also cause Disruption of people's thoughts and plans.
-The heavier duty techniques include investigating peoples'
-Dreams, casting Illusions, altering Memory, and,
-of course, direct Mind Control.
+=== Uncanny Influence
 Anger and Calm
 Mages can cause people to become unnaturally angry
 or unnaturally calm, either starting or preventing fights
@@ -9280,7 +8687,6 @@ them, within about two yards per success.
 Peace of Buddha
 Book of Shadows page 138
 Mind 2
-182 Enlightened Grimoire
 The Akashic can force a feeling of peace into their
 target's mind. The number of successes must match or
 exceed the opponent's Willpower, and if so, the target
@@ -9316,7 +8722,6 @@ Another way that Mages prevent fights is by terrifying
 their opponent in advance. By instilling a deep fear in
 their target, they can cause them to flee or capitulate, or
 to overestimate how competent at fighting the Mage is.
-Uncanny Influence 183
 Abh-t-ab, "Biting the Heart"
 Book of Crafts page 57
 Correspondence 2, Mind 2
@@ -9426,7 +8831,6 @@ Convention Book: Syndicate (Revised) page 72
 Mind 2
 It's become a very common shortcut in the mind to
 associate emotions with brands. The Syndicate agent
-Uncanny Influence 185
 can tailor their appearance and mannerisms to match a
 brand, and thus, influence the emotions of the target in
 an appropriate way.
@@ -9547,7 +8951,6 @@ Physiological Emotion Control
 Mage: The Ascension First Edition page 200
 Mage: The Ascension Second Edition page 203
 Mage: The Ascension Revised page 171
-Uncanny Influence 187
 Life 4
 An Adept of Life can alter a target's emotional state
 by directly influencing the biochemistry of their brain.
@@ -9589,7 +8992,6 @@ temporary Willpower will allow them to ignore the
 Effect briefly, but it will return if the Mage keeps
 performing.
 Subtle Persuasion
-188 Enlightened Grimoire
 Order of Reason page 90
 Mind 2, Prime 2
 Related to the Craft Tome effect, but rather than
@@ -9669,7 +9071,6 @@ her hair," the brambles and kelp of the ocean floor. This
 sends out a wave of calm, summoning seals and whales
 to the Mage.
 Sing to the Whales
-Uncanny Influence 189
 Dead Magic page 132
 Mind 2
 Some Inuit fisherman sing songs reminiscent of whale
@@ -9744,7 +9145,6 @@ do so themselves (lesser version) or to lead others
 rest or refreshment for a day.
 Workflow
 Convention Book: Syndicate (Revised) page 75
-190 Enlightened Grimoire
 Mind 2, Time 3
 Successes are divided among the number of people in
 the team, the duration of the work, and the power of
@@ -9820,7 +9220,6 @@ The Dreamspeaker sends disturbing dreams to
 someone that they don't like. The Mind version taps
 directly into the target's fears, whereas the Spirit version
 calls a spirit such as Night Terror to do it for the Mage.
-Uncanny Influence 191
 Illusions
 The art of illusion is the art of making people see
 things that aren't there or see things that are there as
@@ -9895,7 +9294,6 @@ The Swashbuckler's Handbook page 93
 Mind 3
 Creates a false memory in the target.
 High Memory
-192 Enlightened Grimoire
 Digital Web page 99
 Mind 3, Entropy 2
 This rote takes some information and shuffles it
@@ -9935,7 +9333,6 @@ be tied to a trigger, letting the Cultist encourage or
 discourage specific behaviors.
 Plausible Denial
 Technocracy: New World Order page 46
-Uncanny Influence 193
 Mind 3
 The New World Order Agent can use this Procedure
 to induce memory blackouts in a target, forcing them to
@@ -10011,7 +9408,6 @@ Mage: The Ascension Revised page 179
 Mind 5
 With this effect, the Master of Mind can create an
 entirely new conscious mind. This can be used to create
-194 Enlightened Grimoire
 artificial intelligences in computer systems, to grant
 intelligence to animals, or to give an "empty" body a
 consciousness.
@@ -10091,7 +9487,6 @@ Nervous Control
 Technocracy: Progenitors page 44 (as Control Nerves)
 Convention Book: Progenitors (Revised) page 74
 Forces 3, Life 3
-Uncanny Influence 195
 With a controlled electronic pulse guided by intimate
 knowledge of neurology, the Progenitor may compel
 someone to repeat an action, to feel intense pain, or to
@@ -10174,7 +9569,6 @@ Mind 3, Entropy 3 or Entropy 5
 With Mind and Entropy, the Mage disrupts the
 thoughts of their target, making their reasoning weak
 and bringing their insecurities to the fore. With the
-196 Enlightened Grimoire
 Entropy only version, thoughts are destroyed directly for
 the same effect.
 Self Possession
@@ -10217,7 +9611,6 @@ Technocrat. For details, see Mage: The Ascension 20th
 Anniversary Edition pages 605-607.
 Soul Shaping
 World of Darkness: Outcasts page 90
-Uncanny Influence 197
 Spirit 5, Mind 4, Prime 3
 The Hollow One response to things like Room 101,
 this rote pushes the soul of the target out of their body,
@@ -10261,1330 +9654,3 @@ command. Optionally, spending Willpower would
 allow them to overcome the binding for one round.
 This command can be as broad or specific as the Mage
 chooses.
-198 Enlightened Grimoire
-Appendix: Expanded
-Rules
-Dramatic Tension
-There is a certain tension between the mechanical
-systems of Mage and aspects of the flavor when it comes
-to rotes. In Mage: The Ascension 20th Anniversary
-Edition, on page 529 it says that "Rules-wise, a rote is
-simply an Effect that your character has used before or
-learned from someone else." It provides very brief
-systems for learning rotes, but these add a difficulty
-without offering up any benefit.
-It also indicates that rotes are the tried and true
-methods, the deeply researched and practiced spells and
-procedures of the Mage world. This suggests that there
-should be enough benefit for a character to study under
-a Mage who knows a rote that they don't, or to raid an
-enemy for their magickal knowledge more precisely
-than just books on the Spheres.
-The optional rules included in this appendix offer up
-systems for rotes to incentivize this behavior. They offer
-several possible benefits for learning a rote and will also
-encourage characters to develop a signature style, where
-there are a set of tricks that they use on a regular basis.
-This goes for NPCs as well and gets good results when
-combined with careful attention paid to Resonance and
-Synergy, adding another dimension to a character's
-realization that an old enemy or friend has been where
-they are.
-Rules
-Under these rules, a rote is a carefully honed formula
-for an effect that has been tested and established deeply
-within a given focus.
-To buy rotes, a Mage has a pool of rote points which
-can be obtained at a rate of 5 rote points for 1 experience
-point. At creation, a character has 10 rote points,
-and 3 rote points can be bought for one freebie point,
-though no more freebies may be spent on this than the
-characters Mentor + Library score, they need to learn
-the rotes from somewhere!
-Actually, learning a rote requires either a teacher, a
-book that contains the rote or substantial time to practice
-and refine the effect, almost certainly within a sanctum
-(vulgar rotes refined outside of a sanctum should
-come with hefty amounts of paradox).
-Aside from avoiding the fast-cast penalty, which all
-rotes do automatically, the biggest advantage that a rote
-has is that, when created, the Mage chooses its primary
-200 Enlightened Grimoire
-sphere and uses Arete + Sphere to cast the rote, rather
-than just Arete, resulting in a larger dice pool and more
-powerful magick.
-The base cost of learning a rote is the total number of
-sphere levels involved in the rote. The final cost of a
-rote will also include any mechanical benefits that the
-character wishes to build into it, and several options are:
-• Improved Casting: -1 difficulty to casting for 3 x New
-Level rote points
-• Backlash Resistance: +1 difficulty on backlashes for
-4 x New Level rote points
-• Stabilized: Negate one permanent Paradox from the
-rote for 5 x New Level rote points
-• Penetration: +1 difficulty on target's countermagick
-for 3 x New Level rote points
-• Reinforced: One botch die is considered a failure instead
-for 4 x New Level rote points
-• Strengthened: One automatic success for 5 x New
-Level rote points
-• Specialized: May reroll 10s for 3 rote points
-To define a rote, first a Paradigm, a set of Practices
-and a set of Instruments must be chosen. A Mage can
-only learn rotes whether they have overlap in at least
-one of these things. If the only overlap is at the Paradigm
-level, the rote costs three times as much. If only
-at the Practice level, twice as much. Rotes are normal
-cost if they share instruments with the Mage.
-Rote-Only Effects
-•
-•
-•
-•
-•
-Uncanny Influence 201
-Next, the precise effect is defined, along with the precise
-method for casting it. Sphere levels are determined,
-and whether the rote is Vulgar or Coincidental. Then
-any add-on bonuses are added, each can be bought up
-to three times. Sometimes, a rote will require special
-abilities to use, such as Do or knowledge of a language.
-After being learned, the rote can be changed by the
-Mage putting in similar effort. To change a rote requires
-half of the rote points spent to get the rote
-(rounded up) plus the difference between the cost of the
-original rote and the new rote.
-Example
-To illustrate this, as an example, a fairly typical Hermetic
-rote, lightning bolt.
-Creo Fulmen
-Compatible Paradigms: Turning the Keys to Reality,
-A Mechanistic Cosmos
-Compatible Practices: High Ritual Magick,
-Elementalism
-Compatible Instruments: Circles and Designs,
-Wands and Staves, True Names, Elements
-Spheres: Forces •••, Prime ••
-Dice Pool: Arete + Forces
-Description: This rote involves most of the work
-being done up front. The Mage must first find wood
-from an oak tree that has been split by lightning. Then,
-a piece of that wood is laid inside of a ritual circle while
-the True Name of the Angel of Lightning, Baraqiel is
-recited as part of a complex ritual. Once this is done,
-the wood is carved by the Mage who will use it into a
-wand. In the moment, the Mage needs merely to point
-the want at their target and speak the phrase "Creo
-Fulmen" to create the lightning. This rote does two dice
-per success devoted to damage on the Arete + Forces roll
-plus one additional die of aggravated damage and must
-devote one success per target. The damage is divided
-evenly among the targets.
-This rote has Backlash Resistance • and Improved
-Casting • and Strengthened •.
-This rote costs 17 rote points to learn for a Mage with
-appropriate instruments.
-Later, say the Mage realizes that their opponents tend
-to have countermagick. Also, they would like to be able
-to target people who they don't have line of sight with.
-The new version of the rote adds Correspondence ••
-and Penetration •. To upgrade the rote requires 9 rote
-points from half of the original cost, plus 2 for the Correspondence
-and 3 more for Penetration, giving a cost
-of 14, or just under 3 XP.
-202 Enlightened Grimoire
-Index of Rotes
-Index of Rotes
-108 Plum Blossoms ............... 60
-Aai-ab, "Washing the Heart" 124
-Abh-t-ab, "Biting the Heart" 183
-Abundance ............................ 84
-Accelerate Time .................. 145
-Accelerated Aging ................. 71
-Accidental Overdose ............. 68
-Ace of Diamonds .................. 13
-Actively Actuarial .................. 13
-Adad ...................................... 26
-Adaptation .......................... 175
-Adaptive Chemistry .............. 68
-Adder's Tongue ................... 105
-Adjust Major Anomalies ....... 76
-Adjust Minor Anomalies ...... 76
-Adrenal Rush ...................... 175
-Advanced Therapies ............ 176
-Affix Gauntlet ..................... 160
-Agama Te Sojourn .............. 108
-Agrivelopment ..................... 167
-'Ahiu Nalu (Rogue Wave) ..... 44
-AI (Artificial Intelligence) ..... 23
-Akua Kumu Haka (Guided
-Fireball) ............................. 40
-Ala Wai (Short Waters) ...... 100
-Alarm System ...................... 123
-All Tomorrow's Parties ......... 29
-Allergic Reaction ................... 71
-Alley Vanish ........................ 110
-Alloy ...................................... 81
-Alter Paradigm .................... 193
-Alter Simple Creature ......... 167
-Alter Small Sequence .......... 167
-Alter State .............................. 81
-Alter Weight .......................... 81
-Amon Maat, "Hidden Justice"
-......................................... 102
-An Hour in Hellfire ............ 145
-An Uncompromising
-Commitment to Excellence
-......................................... 189
-Ana'ana (The Death Prayer) . 71
-Analyze Substance ................. 84
-Anger in the Land ................. 37
-Animal Form ....................... 171
-Animal Possession ............... 188
-Animal Riding ..................... 188
-Animal Shift ........................ 171
-Ansu Ishten............................ 10
-Antiquing ............................... 90
-Anunnaku .............................. 30
-Apathy .................................. 181
-Aphrodite's Blessing .............. 73
-Apportation ........................... 84
-Ap-Sobk, "Last Judgment of
-Sobk" ................................ 156
-Aquatic Survival .................. 115
-Arashi-Waza ........................... 60
-Arc .......................................... 39
-Area Scan ............................... 33
-Ariadne's Thread ................. 143
-Arrest the Flight of Arrows ... 57
-Assess Affinity ...................... 124
-Astral Projection .................. 101
-At Ease ................................. 139
-Atitsiak ................................. 134
-Attach Biomechanism ......... 167
-Audience of Inanna ............... 23
-Audio Tap ............................ 122
-Augment Simple Lifeform .. 168
-Auric Trail ............................. 33
-Auspicious Dialogues .......... 105
-Avatar Form ......................... 171
-Awaken Flame ....................... 40
-Awaken the Inanimate .......... 90
-Awaken the Sleeping Earth ... 48
-Babel .................................... 105
-Back Door Parole ................ 165
-Back to the Earth ................... 92
-Balance the Scales .................... 9
-Balancing the Furies .............. 53
-Balefire ................................... 40
-Ball of Abysmal Flames ......... 40
-Bambolai ................................ 91
-Banish Elemental ................... 37
-Banishing Blessing ................. 10
-Baptism Rune ........................ 10
-Battery Man ......................... 176
-Battle Rune ............................ 59
-Be Cool ................................ 184
-Beads on a String .................. 88
-Beginner's Luck ..................... 10
-Behavior Modification Device
-......................................... 191
-Being Invisible ..................... 140
-Berate the Demon ................. 91
-Betrayal of the Burning Arrow
-........................................... 40
-Better Body .......................... 176
-Bewitchment ....................... 183
-Binding Oath ........................ 29
-Binding Song ....................... 153
-Biochemical Regulation ...... 176
-Bio-Luminescence ............... 177
-Biometric Holographic
-Recreation ......................... 30
-Black Card/Little Black Box. 21
-Blade Sense............................ 62
-Bless the Heavenly Flower .... 10
-Blight of Aging ...................... 71
-Blight/Farmer's Favor ............. 9
-Blindside .............................. 148
-Blood for the Gods ............... 54
-Blood from a Stone ............. 131
-Blood of the Sacred King ...... 54
-Bloodsight ............................. 67
-Body of Light ......................... 47
-Body of the Spirit ................ 116
-Bond of Blood ....................... 50
-Bone Twisting Palm .............. 71
-Book of Whispers ................. 25
-Boot Buzzer ........................... 20
-Bottle of Djinn .................... 153
-Bottle of Smoke..................... 88
-Brain Boost .......................... 177
-Brand (the Rawhide Rote) .... 17
-Branding .............................. 184
-Branding the Heart ............... 77
-Breach Alien Gauntlet ........ 106
-Breach Gauntlet Undetectably
-......................................... 111
-Breach the Gauntlet ............ 112
-Break the Dreamshell ......... 112
-Bridge of Blood ................... 112
-Brittle Bones ........................ 168
-204 Enlightened Grimoire
-Bubble of Reality................. 148
-Bug Off ................................ 188
-Bullet Catch ........................... 60
-Bum a Dollar From the
-Universe ............................. 11
-Burn Out ................................ 20
-Burn-Out ................................ 87
-Buzz ........................................ 77
-Buzzwords ............................... 11
-Caesar's Due .......................... 11
-Caffeine Plus .......................... 91
-Calculate Kinematics .......... 119
-Call Forth the Forgotten .... 156
-Call Lightning ........................ 39
-Call Spirit ............................ 157
-Call the Dreamborn Sibling 157
-Calling the Wind Lords ......... 44
-Capiche? .............................. 183
-Captain's Treasure ................. 22
-Celestial Prediction ................ 30
-Chain ................................... 143
-Chain of Whispers .............. 103
-Chainbreaker Rune ............... 87
-Chakra Influence ................ 177
-Change the Resonance .......... 53
-Chaos Butterfly ...................... 26
-Charm Rune ....................... 183
-Check the Corners ................. 33
-Checklist ................................ 95
-Chiminage Rune ................. 151
-Chirurgeon ............................. 73
-Chronopathy .......................... 30
-Cinnabar Tears ...................... 68
-Circe's Enchantment .......... 171
-Circle of Binding ................ 154
-Circle Ward......................... 160
-Cloak of Shadows ............... 140
-Clone ................................... 169
-Cloning ............................... 169
-Cloud Cover .......................... 44
-Coerce Spiri ........................ 154
-Coffin for a Fisher .............. 131
-Cold Water's Blessing ............ 47
-Co-Location......................... 144
-Comp Me ............................ 185
-Compel the Unseen ............ 154
-Conclave Wellness Works ..... 67
-Conference Call .................. 144
-Confusing Apishtiss ............... 95
-Conjure the Jade Warrior ... 157
-Consecration ......................... 99
-Consuming Thought ........... 193
-Contemplation ...................... 27
-Contingent Effect .................. 47
-Convert Node to Tass ........... 50
-Cool Glamour ..................... 185
-Coordinated Fire ................... 59
-Coordination ....................... 189
-Core Dump ........................... 22
-Correspondence Sensing....... 33
-Corrupt Text ........................ 106
-Counterintelligence ............. 160
-Counter-Irritant ..................... 77
-Counterspell Rune ................ 47
-Courtesan's Draught/Blessed
-Heir .................................. 169
-Craft Biomechanism ............. 88
-Craft Tome .......................... 106
-Cram .................................... 128
-Cram Session ....................... 124
-Create Drone ....................... 193
-Create Fetish .......................... 88
-Create Gauntlet ................... 106
-Create Horizon Realm
-Construct ......................... 106
-Create Mind ........................ 193
-Create Talen .......................... 89
-Create Talismans and Artifacts
-........................................... 89
-Create Virtual Object/Create
-Daemon ............................. 17
-Crime and Consequence ...... 30
-Crocodile Blood .................. 177
-Crowd Surfing ....................... 25
-Crowdsourced Combat ......... 57
-Cry of Distress ..................... 103
-Cuicuilco's Demise ................ 39
-Cup of Itz ............................... 55
-Cup of Joe .............................. 50
-Current Metering ................ 122
-Curse of Macha ..................... 77
-Curse of the Mayfly ............... 72
-Cycle of the Five Agents ........ 37
-Cynical Eye .......................... 120
-Cypher Wheel ..................... 107
-Daedalean Labyrinth ........... 148
-Daedalus Gateway ............... 110
-Daedalus's Wings ................ 116
-Danse Macabre ............ 120, 131
-Dark Streets ......................... 140
-Darksight ............................. 122
-Dash and a Pinch ...................85
-Deadaim .................................63
-Death Curse ...........................13
-Death Ray ...............................63
-Death Song .......................... 103
-Death Wish ............................13
-Death's Passage ................... 109
-Deceive the Eyes .................. 165
-Deduction ........................... 125
-Deep Umbra Travel ............ 113
-Deep Universe Survival ...... 113
-Defense Screen Versus Higher
-Lifeforms ......................... 160
-Defense Screen Versus Lower
-Lifeforms ......................... 160
-Degrade Order .......................95
-Degree Absolute .....................77
-Deity Form .......................... 171
-Delay Paradox ........................52
-Delion's Haze ...................... 190
-Delirium .............................. 191
-Deprocessing ....................... 194
-Destroy Structures ..................95
-Destroy Thought ................. 190
-Destructive Genegineering ....72
-Destructive Paranoia ........... 194
-Detect Lie ............................ 120
-Detect Mental Anomalies ......67
-Detect Possession ................ 155
-Detect Reality Deviation ..... 126
-Detect the Dream Gateway . 113
-Devouring Gullet of Flame ....40
-Dialectic............................... 127
-Digital Disruption ..................17
-Dim Mak ............................. 120
-Dimension Bomb................ 151
-Dingo's Touch ..................... 102
-Dionysus's Gift .................... 171
-Discharge Static ......................39
-Disintegrator ..........................95
-Disk-Doctor ............................22
-Distant Sight ..........................34
-Distill the Azoth Elixir ...........73
-Distort Time ........................ 146
-Divert Prime Force .................48
-Divided Sight .........................34
-Uncanny Influence 205
-Divinations ............................ 31
-Divine Aura ......................... 189
-DMSO ................................... 69
-Doe's Password ...................... 17
-Dogon Divination ................. 27
-Don't Cross the Streams ....... 31
-Dontcme .............................. 139
-Dousing ................................. 44
-Download Specialization .... 128
-Downvote ............................ 138
-Downward Spiral ................ 190
-Dowsing ................................. 44
-Dragon Fist ............................ 61
-Dragonstorm ......................... 41
-Drahma Protector ............... 154
-Drain Node ........................... 48
-Drain Tass ............................. 50
-Dream Drama ..................... 190
-Dream Locus ....................... 113
-Dream Play .......................... 190
-Dreamborn Rising .............. 157
-Dreamcry ............................. 103
-Dreamer's Shroud from Day140
-Dreamline ............................ 103
-Dreamquest ......................... 113
-DRM ...................................... 22
-Drug Enhancement............... 69
-Drums of Elemental Fire .... 157
-Dukhamarana Moksa (Release
-of Agonizing Death) .......... 77
-Eagle Eye ............................. 119
-Eagle Form .......................... 171
-Ear of Dionysus ................... 123
-Ease of Passage ...................... 74
-Eavesdropper ......................... 25
-Ebon Dragon's Tide .............. 95
-Economic Warfare ................ 51
-Eight Drunken Hsien ........... 61
-Electrical Chaos .................... 40
-Embracing the Earth Mother 39
-Emit Beam-Ray ...................... 63
-Empathic Projection ........... 185
-Enchant Life .......................... 48
-Enchant Weapon .................. 89
-Encode ................................... 18
-Encrypt .................................. 22
-Encrypt Thoughts ............... 138
-Endless Parchment ................ 77
-Energy Shield ...................... 140
-Energy Transformation ......... 18
-Ensure the Endless Sleep .... 154
-Enter the Sauna ................... 157
-Epiphany of the Muse ........... 11
-Erode Matter .......................... 87
-Establish and Exchange
-Temporal Event Fields .... 146
-Establish Local Temporal Event
-Field ................................. 146
-Eternal Discipline of the Family
-......................................... 135
-Eternal Flame......................... 41
-Etheric Shielding ................. 160
-Evaluate Fourth Dimensional
-Fabric ............................... 128
-Evaluation .............................. 84
-Exalted Desire ...................... 183
-Examine Humors .................. 67
-Exorcism .............................. 154
-Exorcism Song ..................... 154
-Exotic Matter ......................... 85
-Exotic Matter - Antimatter .... 85
-Exotic Matter - Primium ........ 85
-Experience Substance ............ 69
-False Witness ....................... 191
-Fate Mark ............................... 29
-Fatherless Birth .................... 169
-Feedback ................................ 18
-Fetter Ball............................. 131
-Fiat Lux .................................. 43
-Field of Yin .......................... 137
-Fifteen Minutes ................... 189
-Filter All-Space ....................... 34
-Filter'd Lantern-Light ............ 43
-Find Reality Flaws ............... 127
-Find the Guilty .................... 125
-Find the Lost ......................... 28
-Find the Sun ........................ 119
-Fire Rune ............................... 41
-Fits Like a Glove .................... 89
-Flames of Purification ........... 52
-Flash ....................................... 43
-Flesh Toys ............................ 169
-Flower Gesture .................... 103
-Fluids of Death ...................... 72
-Flying Dragon Kick ................ 61
-Focus of the Blow .................. 61
-Followme ............................. 125
-Footbind ................................ 51
-FOR NEXT Loop .................. 20
-Forecasting ............................ 31
-Format Space ....................... 115
-Fortify Gauntlet .................. 160
-Fount of Paradise .................. 51
-Fractal Encryption ................. 18
-Fragments of Dream ........... 124
-Frame Up ............................ 191
-Free Conjunction ................ 111
-Free the Mad Howlers......... 158
-Friction Curse ....................... 41
-Fuck Off/Fuck Off and Die . 72
-Gabriel's Embrace ................. 41
-Games of Luck ...................... 11
-Gateway Transport .............. 113
-Gatha ................................... 185
-Gauntlet Prison ................... 154
-Geasa ..................................... 29
-Gene Scan ........................... 123
-General Anesthesia ............... 77
-Genetic Mastery .................. 170
-Genetic Pattern Matching .. 168
-Genetics Scan ...................... 123
-Genome Mapping ............... 123
-Geometric Jars ....................... 34
-Ghayba (Occultation or
-"Unbeingness") ................ 139
-Ghost Rune ......................... 135
-Ghost-Burning ..................... 132
-Gift of Prana.......................... 79
-Gilgul ..................................... 72
-Glorious Is The Temple ........ 49
-Glorious Sword of Heaven ... 43
-Go Ti Ta .............................. 177
-Goanna's Hiding ................. 137
-Going Under the Cloak ...... 109
-Going Viral.......................... 189
-Golden Gunman ................... 64
-Good Eatin'/Cleanse the Clown
-........................................... 69
-Gorningstakkr ....................... 89
-Graft Alien Bio-Matter Between
-Animals ........................... 168
-Graft Alien Bio-Matter to
-Humans ........................... 168
-Grand Salvo........................... 64
-Grand Style ......................... 185
-Graphic Transmission .......... 22
-Green Thumb ..................... 168
-206 Enlightened Grimoire
-Gremlins ............................. 158
-Guncotton's Blessing ............. 82
-Hacker's Glance ..................... 22
-Hail of Bullets ........................ 59
-Hajjaj ...................................... 74
-Hallmark ............................. 127
-Halt the Nagloper ............... 154
-Hands of Death ...................... 61
-Hardware Entry ...................... 19
-Heal Self ................................. 74
-Heal Simple Creature ............ 74
-Healer Rune ........................... 74
-Healing Figurine .................... 74
-Healing Slumber .................... 74
-Healthy Skepticism ................ 53
-Hear and Obey .................... 135
-Heart for Huitzilopochtli ....... 55
-Heart Murmurs ...................... 73
-Heart's Blood ......................... 55
-Heat Seeking .......................... 34
-Heat Trace .............................. 35
-Heaven's Tumbling Pebbles 111
-Heenalu (Wave Walking) ...... 44
-Hellfire ................................ 151
-Help Rune .............................. 76
-Hepatoscopy ........................... 31
-Here Kitty, Kitty .................. 158
-Hermes Portal ..................... 111
-Hermes' Brand ....................... 42
-Hersh, "To be Patient" ........ 127
-Hidden Features .................... 82
-Hidden Switch .................... 124
-High Memory ...................... 191
-High Rhetoric ..................... 185
-High-Definition...................... 25
-Higher Lifeform Grafting and
-Recombination ............... 168
-Holdout Weapon ................... 64
-Holes in the Desert ............. 124
-Holographic Projector ........ 191
-Holopuni'au'nei .................. 113
-Holy Stroke ............................ 53
-Holy Union ......................... 172
-Hoodoo Man's Heartbeat ... 183
-Hope's Birth ........................ 185
-Horsemaster's Bidding ........ 188
-Hot-Shotting .......................... 64
-Hua To's Cure ........................ 79
-Huli Shjalmr ("Helmet of
-Hiding") ........................... 140
-Hymn of Beatific Harmony ... 51
-Hypernarrative Influence .... 194
-I Know Your Cousin ........... 125
-Idealism ................................ 120
-IFF ........................................ 191
-Ignis ........................................ 42
-Imaginary Friend ................. 191
-Imbue Flesh ......................... 154
-Impulse Purchase ................. 194
-Incitation ............................. 185
-Industry .................................. 86
-Inferno ................................... 42
-Infidel's Laughter ................... 57
-Infiltration ........................... 102
-Information Glut ................. 119
-Information Overload ......... 119
-Information Superhighway ... 19
-Initiation .............................. 185
-Inquisitor ............................. 127
-Inscribe Amulet ..................... 86
-Instant Measurement .......... 124
-Instant Offline ....................... 19
-Intel ........................................ 22
-Internal Clock ..................... 128
-Internal Obligation ............. 194
-Internalize Ephemeral Object
-......................................... 102
-Iron Avatar .......................... 172
-Iron Snake ............................. 62
-Ishin Den Shin .................... 125
-Istar ........................................ 28
-Jabarut (The Darwishim Battle
-Trance) ............................... 63
-Jack in the Green ................. 158
-Jaguar Cloak ........................ 173
-Jivitamarana (Death in Life)
-Yoga ................................. 165
-Jolt .......................................... 96
-Joyride .................................... 99
-Jung's Trick ............................ 31
-Jury Rig .................................. 86
-Karmic Inversion ................. 113
-Karoshi ................................. 189
-Kaumaha (Sacrifice) ............... 55
-Kinetic Push........................... 96
-Kispu .................................... 134
-Kiss of the Virtuous Maiden . 84
-Knock Out .............................78
-Kohl Sight ........................... 129
-Kuoha (The Passion Prayer) 183
-Lambs to the Slaughter ..........55
-Landscape of the Mind ....... 120
-Laser Enhancement ...............43
-Laser Production ....................43
-Laserblast ................................64
-Lay of the Land ................... 120
-Laying on of Hands ...............28
-Leap Beyond ........................ 102
-Leap Sideways ..................... 113
-Learn-It ...................................14
-Lecherous Kiss .................... 184
-Legion's Life ...........................59
-LERMUization .................... 173
-Lesser Binding of Spirits ..... 155
-Lesser Shapechanging ......... 173
-Levitation Walk .................. 116
-Leying of the Line ..................49
-Lichedom ............................ 134
-Life Scan .............................. 123
-Life Sense ............................ 123
-Liftoff ................................... 115
-Lighting the Path ...................28
-Lightning Gateway .................40
-Like Clockwork ......................91
-Limited Grafting and
-Recombination ............... 168
-Lip Reading ......................... 125
-Liquor's Calling ................... 109
-Little Good Death ..................73
-Living Bridge ....................... 155
-Lobotomize.............................96
-Locate Disorder and Weakness
-......................................... 121
-Locate Quintessence Flow .....49
-Long Fist .................................61
-Long-Distance Universal
-Travel/Puncture Reality
-Barrier ............................. 113
-Long-Range Eyes ....................31
-Lore Rune ........................... 127
-Lotus Bloom ...........................42
-Love Me, Love Me .............. 166
-Loving Cup ......................... 186
-Lower Lifeform Manipulation
-......................................... 168
-Luck Be a Lady Tonight.........12
-Uncanny Influence 207
-Luck Blessing/Curse ................9
-Luck of the Lotus/The Crippled
-Lotus .................................. 10
-Lucky Blow ............................ 57
-Lull the Waking Dreamborn
-......................................... 155
-Luster ..................................... 92
-Machine God ........................ 84
-Magdeline's Dynamic Mind 190
-Magic Bullet .......................... 64
-Magic Circle ........................ 160
-Mahu (Steam) ........................ 44
-Maikai (The Seaward Pull) .. 194
-Maintain Device .................... 91
-Major Environmental
-Alteration ........................ 168
-Major Geas ............................ 29
-Manchurian Candidate ...... 194
-Manipulate Memories ......... 192
-Manipulate Memory ........... 192
-Manipulate Time Fragment .. 31
-Manufacture Enlightened Drugs
-........................................... 69
-Map the True Way ................ 35
-Marching Orders ................... 59
-Mark of the Beast ................ 129
-Masquerade to Adulthood .... 12
-Massage Therapy ................... 74
-Master's Enchantment .......... 48
-Matter Association ................ 82
-Matter-Energy Converter ...... 53
-Maze of the Minotaur ......... 148
-Mele Lapa'au ....................... 178
-Melt and Reform ................... 83
-Memento Mori ...................... 90
-Mental Interface .................... 22
-Mercury's Bridge ................. 111
-Merlin's Ride ....................... 100
-Mershakushtu Qurdu ........... 96
-Metabolic Mastery ................. 69
-Midnight O ........................... 55
-Midwife's Blessing ................. 12
-Mind Empowerment........... 126
-Mind of the Ant Hill ............ 60
-Mind Rune .......................... 194
-Mindfulness of Wrong Thought
-......................................... 126
-Mindscreen .......................... 137
-Minor Environmental
-Alteration ......................... 168
-Minor Geas ............................ 29
-Mirrorshades ........................ 127
-Mokupuni Palahalaha Wiki
-(Coral Island Bloom)....... 168
-Mold Tree ............................ 169
-Monarch's Friend ................ 124
-Monitor Communications .... 26
-Mono Kahea 'Ai (Shark Call)
-......................................... 188
-Mood Swing/Communion . 186
-Morpheus's Kiss ................... 194
-Motivational Speaking......... 186
-Move Along ......................... 138
-Move to Clone ..................... 192
-Moving the World Walls..... 114
-Mukashuan ............................ 75
-Multi-tasking ........................ 178
-Mutate Ephemera .................. 96
-Mutate Form ........................ 174
-Na Kua's Gift ......................... 87
-Namburbu ............................. 10
-Nanotech Integration .......... 178
-Navigation ............................ 116
-Nearest and Dearest .............. 26
-Neon-Mail ............................ 107
-Nervous Control .................. 194
-Nick of Time ........................ 146
-Night Battle ........................... 96
-Nightmare Dance ................ 190
-Nitrogen Narcosis ................ 115
-No Surrender ......................... 38
-Nobody Dies in Vegas ........... 12
-Node Raider .......................... 49
-Node Spike ............................ 54
-No-Doz ................................. 129
-No-Mind .............................. 126
-Non-Descript ....................... 139
-Nonlinear Prediction ............. 31
-Nostalgia .............................. 192
-Nuzzlings .............................. 159
-O'Doul's Ingeniae ................. 87
-Oak of Sanguine Root ......... 170
-Oathbreaker's Lash .............. 121
-Obsidian Steel ....................... 91
-Occlude the Seal of Power .... 54
-Olive Branch ........................ 181
-One With Beasts ................. 174
-Online Virus Transmitter
-Program ............................. 19
-Open/Close Window ........... 35
-Organize .............................. 121
-Orgone Accumulator ............ 54
-Our Enemies are Delicious . 178
-Override Signal ................... 103
-Overwrite ............................... 19
-Painting the War Dance ..... 191
-Paradox Ward ....................... 53
-Parallax .................................. 20
-Parma Magica ........................ 48
-Pass Calmly ......................... 181
-Pass for Normal ................... 139
-Pass the Key ......................... 102
-Passing ................................. 137
-Pathfinding .......................... 100
-Pathos .................................. 126
-Pattern Store ....................... 123
-Patterns of the Long Count 127
-Peace of Buddha ................. 181
-Peace Rune .......................... 182
-Peeping Tom ......................... 31
-Pele Wai'ula (Pele's Blood).... 39
-Pele's Wrath .......................... 39
-Penance for the Sicarii .......... 53
-Penny Dreadful's Bright New
-Penny ................................. 91
-Perfect Fuse ......................... 143
-Perfect Metamorphosis ....... 174
-Perfect Time ........................ 128
-Perfect Timing ..................... 128
-Perfection of the Tools ......... 84
-Perfection of the True Form . 92
-Perpetual Motion .................. 92
-Persephone's Nectar .............. 69
-Persona ................................ 166
-Personal Assistant Software .. 23
-Personal Compression ........ 169
-Petals of Love ...................... 186
-Phlogiston Manipulation ...... 42
-Phlogiston Phlux ................... 42
-Phone Tap ............................. 26
-Phosphoric Marker ............. 169
-Physical Exorcism ................ 155
-Physiological Emotion Control
-......................................... 186
-Physiological Rule ................. 76
-Pickpocket ............................. 85
-208 Enlightened Grimoire
-Piercing Cry ............................ 61
-Pilot Skyrigger ..................... 116
-PIN Drop ............................... 26
-Pirated Media Blitz ............. 103
-Pixie Lead ............................ 100
-Planned Projection ................ 31
-Plausible Denial .................. 192
-Play Back ................................ 32
-Point-to-Point Narrow-Band
-Transmission ................... 104
-Polyappearance ................... 144
-Polysorbate ............................. 69
-Pop Goes the Weasel ............. 42
-Positive Thinking ................ 126
-Positronic Brain .................. 178
-Possess Flame ......................... 42
-Possession ............................ 195
-Postcognition ......................... 32
-Prayer of Healing Revelation . 68
-Presentation of the Passage Stick
-......................................... 109
-Pretty-Shinies .......................... 90
-Primal Credit Rating ............. 49
-Primal Dread ....................... 183
-Primal Infusion ...................... 51
-Primal Net .............................. 52
-Prime Location ....................... 49
-Probe Thoughts................... 193
-Processing ............................ 195
-Programmed Event ................ 48
-Programming....................... 195
-Prolong Pleasure/Pain ........... 78
-Proof against Immolation ...... 42
-Protection of the Golden Race
-......................................... 159
-Protection Song .................. 161
-Psychiatric Compounds ......... 87
-Psychic Impression ................. 54
-Psychic Interface .................... 23
-Psychic Intrusion................. 195
-Psychic Sterilization ............ 161
-Psychological Breaking Point
-......................................... 126
-Psychometry ........................... 32
-Public Posting ..................... 104
-Pulse of the Electro-Stream.... 40
-Purge ....................................... 70
-Purge Thought Crime ......... 195
-Purging the System ................ 70
-Purify ...................................... 70
-Purifying Step ........................ 62
-Pygmalion's Paradigm .......... 159
-Qayaq's Fish ......................... 174
-Quahuitl .............................. 161
-Quantify Energy .................. 123
-Quantum Interference
-Shielding .......................... 161
-Quantum Temporal Travel . 146
-Quietsong .............................. 76
-Quintessence Blast ................ 53
-Quo Vadis? (Whither Goest
-Thou?) ................................ 32
-Radiate Prime Energy ............ 52
-Random Impulse ................. 195
-Rapid Healing ........................ 75
-Rat's Rage/Lost Cousin ...... 182
-Ratstorm .............................. 188
-Ravensong ............................ 105
-Read the Lightning ................ 28
-Read the Soul ...................... 126
-Reading the Umbral Skein ... 32
-Reanimation ........................ 135
-Recant .................................. 195
-Recharge Device .................... 52
-Recharge Gift ......................... 52
-Reconstruct Gauntlet .......... 161
-Red Button ............................ 20
-Re-education Mode ............. 195
-Reflecting Bane ...................... 12
-Remembrance ...................... 100
-Remote Access ....................... 22
-Remote Piloting Override ... 100
-Remote Programming ........... 23
-Repeating Blow ...................... 62
-Repel the Hungry Dead ...... 162
-Repel the Kuei ..................... 162
-Restrict Sector........................ 20
-Return to Darkness ............. 140
-Reverie ................................. 114
-Ricochet ................................. 65
-Riding the Railroad ............. 111
-Right-Click ........................... 126
-Righteous Fist ........................ 62
-Ring of Truth....................... 121
-Rip the Man-Body ................. 73
-Ripple Through Space ........... 85
-Rival's Curse .......................... 14
-Rokea'ole.............................. 174
-Rolling Hands ........................62
-Romance ............................. 184
-Rooftop Leap ...................... 116
-Rouge .................................. 166
-Rouse the Dragon ..................38
-Rubbing of Bones ..................78
-Rudra's Bow ...........................65
-Running Scenarios .................32
-Sabotage .................................88
-Safe Little World ................. 162
-Safecracker .......................... 102
-Salmon of Wisdom ................32
-Salt on the Earth ................. 162
-Samas ......................................28
-Sanitize Evidence ...................88
-Satan's Song ........................ 159
-Scan Life Signs .................... 124
-Scan Memories .................... 193
-Scan Non-Local Universe ......35
-Scent of Control ................. 187
-Schedule of Heaven ............ 114
-Screech of the Owl .................62
-Scrying ....................................35
-Sculpture ................................83
-Search Engine ........................28
-Secret Labyrinth .................. 162
-Secret Rune ............................29
-Secure the Scene ................. 138
-Sedna's Blessing................... 188
-See no Evil ........................... 127
-See the Light ....................... 195
-See the Soul's Burn ............. 122
-Seeds of Gold .........................92
-Seizing the Forgotten .............35
-Selective Edit ....................... 139
-Self Possession ..................... 196
-Self-Sacrifice ...........................55
-Semi Auto CAD CAM ..........83
-Semiotic Communication .. 105
-Sense Connection ............... 120
-Sense Corruption ................ 122
-Sense Node.............................50
-Sense Quintessence ................52
-Sense the Demon's Weakness
-......................................... 155
-Sense the Dreamsong ......... 109
-Sense the Echo of the Dragon
-............................................58
-Sense the Fleeting Moment 128
-Uncanny Influence 209
-Sense the Nagloper ............. 156
-Sequencing .......................... 124
-Serene Temple ...................... 75
-Serenity of the Stone ........... 146
-Shadow Project .................... 140
-Shadow Sight ....................... 132
-Shadows in the Mist............ 156
-Sha'ir's Sentence .................... 14
-Shaking Tent ....................... 159
-Shaman's Craft ...................... 92
-Shameful Outburst ............. 187
-Shango's Grave ...................... 96
-Shapechange Curse ............. 174
-Shapeshifter Prison ............. 174
-Shapeshifting ....................... 175
-Sharing the Outsider's Gaze 151
-Shed the Years ..................... 147
-Shelter from the Storm ....... 133
-Shield ................................... 139
-Shield of the Soul ............... 114
-Shih-Huang-Ti's Marvelous
-Game ................................. 42
-Shinobijutsu ........................ 141
-Shishipat's Favor ................... 13
-Shortcut ............................... 101
-Show of Force ..................... 183
-Shuttle ................................. 111
-Sidestep Time ...................... 147
-Silent Promise of the Spring
-Tortoise ............................. 28
-Simon's Petition .................. 145
-Simple Biochemical
-Manipulation .................. 178
-Simple Transmutation .......... 93
-Simulate Inborn Errors of
-Metabolism........................ 73
-Sin .......................................... 28
-Sing Down the Rain ............. 45
-Sing the Dreaming Earth .... 109
-Sing to the Whales .............. 188
-Singularity ........................... 149
-Sinner's Redemption .......... 196
-Sjonhverfing ("Deceiving of the
-Sight") .............................. 139
-Slay Machine ......................... 88
-Slow Time ........................... 147
-Smart Drink ........................ 129
-Smoke Screen ...................... 141
-Smoke-bomb Trick .............. 141
-Smoker's Timing .................. 143
-Sneaking Shadow .................. 96
-Social Conditioning ............ 196
-Social Science ...................... 187
-Song of Orpheus ................. 134
-Songline Soaring .................. 109
-Songline Walking ................ 110
-Songs of Future Days ............. 33
-Soothe the Dead .................. 133
-Soul Cloak ........................... 139
-Soul Shaping ........................ 196
-Soul-Forging ......................... 133
-Sound/Thought Transfer ... 104
-Sousveillance ........................ 120
-Sparrow's Fall ........................ 29
-Spatial Mutations ................ 149
-Spatial Sheath ........................ 85
-Speaking in Tongues ........... 105
-Spear of my Fathers ............... 87
-Spearcatcher Rune ................. 58
-Spinning Thread .................... 52
-Spirit Cloak.......................... 114
-Spirit Eating ......................... 152
-Spirit Journey ....................... 114
-Spirit Pilgrimage .................... 53
-Spirit Roster ......................... 159
-Spirit Sight ........................... 128
-Spirit Slaying ........................ 152
-Spirit Wall ........................... 162
-Spirit Warding ..................... 162
-Spirit Wounder ..................... 62
-Spirit Wounding ................. 152
-Spiritual Persuasion ............. 153
-Splitting a Cuirass ................. 63
-Spoiling .................................. 14
-Spontaneous Generation .... 170
-Spontaneous Material
-Construction ..................... 87
-Spot the Man ....................... 127
-Spy's Stigmata ........................ 73
-Squaring the Circle ............... 26
-St. Vitus's Kiss ..................... 147
-Stalking the Void ................... 35
-Statistical Mechanics ............. 15
-Stay the God's Hand.............. 75
-Stepping Sideways ............... 114
-Stoicism ................................ 182
-Stop-Gap Resurrection .......... 79
-Storm of Crows ................... 175
-Storm Rune ........................... 45
-Storm Watch ....................... 114
-Strains of Laughter, Sleep and
-Sorrow ............................. 187
-Strategic Inefficiency Analysis33
-Strategy .................................. 58
-Straw Into Gold .................... 93
-Strength of the Earth .......... 178
-Subliminal Impulse ............. 104
-Subliminal Transmission .... 104
-Subtle Persuasion ................ 187
-Sucking Gate ....................... 114
-Sugar Magnolias .................... 33
-Summon Fog ....................... 141
-Summon Paradox Spirit ..... 159
-Summon the Earthly Gods . 159
-Summon Volva ................... 135
-Summon Weapon ................. 85
-Supporting the Brain .......... 170
-Sure Footing ........................ 116
-Surpu ..................................... 76
-Surveillance ........................... 26
-Survivor's Charm ................ 179
-Sustenance Pill ...................... 70
-Swordbreaker Rune .............. 63
-Symphony of the Soul ......... 147
-Synchronize Watches .......... 144
-System Crash ......................... 21
-System Havoc ........................ 21
-Tag ......................................... 54
-Taking Poison for the Enemy 70
-Taliesin's Song ..................... 184
-Talisman Tattoos .................. 90
-Talisman Transmogrification 90
-Talons .................................. 179
-Tamping ................................ 65
-Tap Node............................... 50
-Tapping the Signal ................ 83
-Targeting Computation ........ 58
-TechnoVision ........................ 20
-Telekinesis ............................. 97
-Teleoperate .......................... 100
-Telepathy ............................. 105
-Telescreen .............................. 26
-Telltale ................................. 162
-Temper Viasilicos ................ 105
-Tempest in a Teapot ............. 45
-Temple Gongs ..................... 197
-Temple Pillars........................ 87
-210 Enlightened Grimoire
-Tension .................................. 65
-Terminal Sanitization ............ 50
-That Rascal Puff ..................... 21
-The Argument of Princes ... 183
-The Aura Adamantium ......... 90
-The Ball Game ....................... 54
-The Barrel of Iskander ........ 115
-The Blissful Disciple ........... 193
-The Branding Rote ................ 71
-The Burning Lotus ................ 50
-The Curse of Consequences . 77
-The Endless Pool ................ 110
-The Final Blow ....................... 61
-The Foundling .................... 169
-The Frenzy of the Spinning
-Wheels............................. 146
-The Gate of Culsu .............. 109
-The Geometry of Trade ......... 31
-The Golden Apple .............. 185
-The Golden Lion ................... 92
-The Gutter View ................. 129
-The Hand of the Siphoner .... 51
-The Hero's Challenge ............ 62
-The Holy Pentacles ............. 154
-The Incredible Shrunken
-Machine ............................. 82
-The Key of Vanth ............... 135
-The Look/The Word .......... 186
-The Master's Hand .............. 161
-The Moment that Stretches 146
-The Notorious Vampiric Lawn
-Chair ............................... 174
-The Poison Maiden ............... 69
-The Rush ................................ 52
-The Scented Handkerchief .... 33
-The Seven Golden Swords of
-the Tiger .......................... 162
-The Seven-League Stride ..... 101
-The Silent Circle ................. 141
-The Spirit's Caress .............. 152
-The Swift Lock ....................... 65
-The Trip .............................. 190
-The Weeping Willow.......... 175
-Thick Skin ........................... 179
-Thief in the Night ............... 103
-Thorn Wall ......................... 171
-Threefold Return ................... 10
-Thunder Bridge................... 116
-Thunder's Gauntlet ............ 105
-Time Lock .............................. 37
-Time Sense .......................... 128
-Time Travel ......................... 147
-Time Wards ......................... 162
-Time Warp .......................... 147
-Time's Tongue ..................... 106
-Time-Motion Study ............... 59
-Titan's Power ....................... 179
-Tolerance ............................... 70
-Tower of Babel/Speak In
-Tongues ........................... 106
-Tracking Device ..................... 26
-Traffic Pulse ......................... 116
-Trailblazing .......................... 114
-Transephemeration Ray
-Projector ............................ 83
-Transfer Memories .............. 193
-Transformers ......................... 84
-Transmutation ....................... 93
-Trauma................................... 76
-Trauma Transmission ........... 76
-Trickshot ................................ 65
-True Form............................ 126
-Tsuiho - The Fires of Heaven 43
-Tulugaak's Harpoon .............. 88
-Tumo ................................... 179
-Tune In, Turn On, Drop Out
-......................................... 147
-Tune Psychic Radio ............. 123
-Turkey Basting ....................... 78
-Turning the Wheel of Ages ... 33
-TWACI .................................. 39
-Twisted Yarrow Stalks ......... 163
-Ultimate Argument ............. 197
-Umbral Visions ................... 115
-Universal Travel .................. 115
-Unleash Nanotech Destruction
-........................................... 97
-Unraveling the Text ............ 107
-Unseen Arm .......................... 97
-Unseen Nomenclature ........ 107
-Untether .............................. 102
-Utchatti, "The Two Divine Eyes"
-......................................... 128
-Uther's Butchered Visage .... 166
-VAR ..................................... 116
-Veil of Invisibility ................ 141
-Vext ........................................ 15
-View the Scattered Lotus Petals
-............................................33
-Virtual Lockpick ....................23
-Virtual Talisman
-Transmogrification ............20
-Visionary Bloodletting ........ 159
-Vitality ....................................92
-Voice Across the Void ........ 132
-Voice of the Jade Ancestors 132
-Voidcast ............................... 111
-Vulcan's Hammer ............... 175
-Waipuilani (Waterspout) .......45
-Waiting to Exhale ..................13
-Walk to Too'ga .................... 134
-Walking Chair .......................90
-Walking on Water .............. 117
-Walking the Open Path ...... 115
-Wall of Mirrors ................... 163
-War the Inner Sanctum ...... 163
-Ward .................................... 163
-Ward Rune .......................... 163
-Warding Heads ................... 163
-Warp-Spasm ........................ 175
-Watch the Weaving ...............48
-Watchdog ...............................90
-Waters of the Well of Life .....79
-Wayfarer's Reckoning ......... 100
-Wearing the Bear Shirt ..........59
-Weather Working ..................45
-Weaver's Retribution .......... 155
-Webcrawlers ...........................20
-Weeping for Tammuz ............13
-Welcoming the Jester .......... 197
-We'll Get There .................. 100
-Well, It Is Vegas .................. 140
-Wellspring ..............................50
-What Did You Say .............. 106
-Whereami? .......................... 120
-Wildfire ..................................43
-Willful Binding ................... 197
-Wind-Water Skein .................63
-Wings of Icarus ................... 117
-Wings of the Lasa ............... 109
-Witch's Diplomacy ................71
-Witch's Vengeance ................73
-Witchwind .......................... 188
-Wolf Form........................... 175
-Workflow ............................ 189
-Worm .................................. 193
-Uncanny Influence 211
-Wrath of God ....................... 59
-Wrath of Heaven .................. 43
-Writing on the Wall ........... 108
-Wurnan Blessing ................... 13
-Wyrd Visions ......................... 28
-Yao Su Dragon Thunder ....... 38
-Zeitgeist ................................ 160
-Zen and the Art of Panhandling
-......................................... 147
-Zisurru ................................. 163
-Twenty-Five Years of Magick
-Over the last twenty-five years of Mage: The Ascension, spells have been scattered like
-treasure through the pages of multiple books and supplements, adding depth and
-texture to the World of Darkness. These small gems have given us peeks over the years
-at how the Traditions, Technocracy and Crafts not only construct their effects, but how
-a Mage's Paradigm works in the most practical sense.
-Gathered in a Single Spellbook
-Now, for the first time, every single rote ever published has been gathered into a single
-Enlightened Grimoire, updated for Mage: The Ascension 20th Anniversary Edition's
-rules and indexed to allow the player to go back and find the origins of every spell, rote
-and procedure ever written in its original form. Here you will find everything from the
-terrifying transformations of the Verbena to the mental manipulations of the New
-World Order. Even those spells that can warp and damage a Mage's very soul…

@@ -56,6 +56,7 @@ function SpellList(props: SpellListProps) {
                 {filteredSpells.map(cur => (
                     <Spell 
                         name={cur.name} 
+                        books={cur.books}
                         description={cur.description} 
                         sphereCostRaw={cur.sphereCostRaw} 
                         sphereCost={cur.sphereCost} 

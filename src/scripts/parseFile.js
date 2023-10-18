@@ -30,6 +30,7 @@ const parseSpheres = (str) => {
         const spheres = group.split(" or ").map(s => s.trim().replace("Primal Utility", "Prime").replace("Dimensional Science", "Spirit").replace("Data", "Correspondence"));
 
         let newConfigurations = [];
+        let shouldUpdateConfigurations = false; // flag to determine whether configurations should be updated
 
         for (let sphere of spheres) {
             const sphereParts = sphere.split(" ");
@@ -40,7 +41,7 @@ const parseSpheres = (str) => {
             if (name.includes("both")) continue;
             if (name.includes("may substitute")) continue;
             if (!name || !cost) {
-                console.log(`No name or cost provided for ${name} (${sphere})`);
+                // console.log(`No name or cost provided for ${name} (${sphere})`);
                 continue;
             }
             if (isNaN(cost)) {
@@ -52,33 +53,42 @@ const parseSpheres = (str) => {
                 const newConfig = config.concat([{ name, cost }]);
                 newConfigurations.push(newConfig);
             }
+
+            shouldUpdateConfigurations = true; // flag set to true as we have valid sphere configurations
         }
 
-        configurations = newConfigurations;
+        if (shouldUpdateConfigurations) {
+            configurations = newConfigurations;
+        }
     }
 
     return configurations;
 }
 
 // Testing the function:
-console.log(parseSpheres("Entropy 2 or Forces 3, Prime 2, Correspondence 3"));
-
-console.log(parseSpheres("Correspondence 2, Matter 2 or Prime 2"));
-console.log(parseSpheres("Spirit 3 or 4, Matter 3 or Forces 3, Prime 2;"));
-console.log(parseSpheres("Correspondence 2, Forces 2, optional Forces 3, Prime 2"));
-console.log(parseSpheres("Time 4, Entropy 3, Prime 2, may substitute Mind 4 or Life 3"));
-console.log(parseSpheres("Correspondence 1 or Entropy 1 or Spirit 1"));
-console.log(parseSpheres("Entropy 2 or 3, Life 2 or Matter 2 or Forces 2"));
-console.log(parseSpheres("Entropy 2 or Time 4, Life 2 or Matter 2 or Forces 2"));
+console.log(parseSpheres(" Life 3, Time 3 or Correspondence 2, Matter 2, optional Spirit 2,Prime 2"));
+// console.log(parseSpheres("Entropy 2 or Forces 3, Prime 2, Correspondence 3"));
+// console.log(parseSpheres("Correspondence 2, Matter 2 or Prime 2"));
+// console.log(parseSpheres("Spirit 3 or 4, Matter 3 or Forces 3, Prime 2;"));
+// console.log(parseSpheres("Correspondence 2, Forces 2, optional Forces 3, Prime 2"));
+// console.log(parseSpheres("Time 4, Entropy 3, Prime 2, may substitute Mind 4 or Life 3"));
+// console.log(parseSpheres("Correspondence 1 or Entropy 1 or Spirit 1"));
+// console.log(parseSpheres("Entropy 2 or 3, Life 2 or Matter 2 or Forces 2"));
+// console.log(parseSpheres("Entropy 2 or Time 4, Life 2 or Matter 2 or Forces 2"));
 
 
 for (let i = 0; i < textByLine.length; i++) {
     const pattern = /^((Entropy|Prime|Spirit|Correspondence|Life|Mind|Matter|Time|Forces|Data|Primal Utility)\s\d(,)?(\sor)?(\sand)?(\s\d)?(,)?(\soptional)?(\smay substitute)?(\sboth)?(\sother spheres)?\s?;?)+$/;
 
     if (pattern.test(trimLineEndings(textByLine[i]))) {
-        // Find spell name
+        // Find spell name and books
+        let books = [];
         let j = i;
         while (textByLine[j - 1] && (!checkEndOfDescription(textByLine[j - 1]) || i - j > 20)) {
+            if (textByLine[j].includes('page')) {
+                const normalizedBook = textByLine[j].replace(/ page .+$/, '').trim();
+                books.push(normalizedBook);
+            }
             j--;
         }
         let name = trimLineEndings(textByLine[j]);
@@ -104,6 +114,7 @@ for (let i = 0; i < textByLine.length; i++) {
 
         const spell = {
             name,
+            books,
             sphereCostRaw: trimLineEndings(sphereCost),
             sphereCost: parseSpheres(trimLineEndings(sphereCost)),
             description
@@ -115,7 +126,7 @@ for (let i = 0; i < textByLine.length; i++) {
 const jsonData = JSON.stringify(output);
 console.log(output.length);
 
-fs.writeFile('./src/data.json', jsonData, (err) => {
+fs.writeFile('../data.json', jsonData, (err) => {
     if (err) throw err;
     console.log('Data has been written to the file');
 });

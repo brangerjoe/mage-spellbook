@@ -109,9 +109,9 @@ function App() {
 						Spheres
 						<span
 							onClick={resetSpheres}
-							style={{ marginLeft: '10px', fontSize: '16px', cursor: 'pointer' }}
+							style={{ marginLeft: '10px', fontSize: '16px', cursor: 'pointer', alignItems: 'end' }}
 						>
-							[Reset]
+							(Reset)
 						</span>
 					</h2>
 					{sphereOptions.map((sphere, index) => (
@@ -142,8 +142,8 @@ function App() {
 							onMouseLeave={() => setDropdownHovered(false)}
 							onChange={(e) => setSortOrder(e.target.value as 'asc' | 'desc')}
 						>
-							<option value="asc">Asc</option>
 							<option value="desc">Desc</option>
+							<option value="asc">Asc</option>
 						</select>
 					</div>
 				</div>

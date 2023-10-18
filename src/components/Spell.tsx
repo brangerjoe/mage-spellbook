@@ -2,6 +2,7 @@ import React from 'react';
 
 export interface ISpell {
     name: string;
+    books: Array<string>;
     sphereCostRaw: string;
     sphereCost: Array<Array<{ name: string; cost: number }>>;
     description: string;
@@ -55,9 +56,9 @@ function Spell(props: ISpell) {
         <div style={cardStyle}>
             <div style={titleStyle}>{spell.name}</div>
             <hr style={hrStyle} />
-            <div style={cellStyle}><strong>Cost:</strong> {spell.sphereCostRaw}</div>
-            <div style={cellStyle}><strong>Description:</strong> {spell.description}</div>
-            {/* <div style={cellStyle}><strong>Cost:</strong> {JSON.stringify(spell.sphereCost)}</div> */}
+            <div style={cellStyle}>{spell.books.map(book => <div>{book}</div>)}</div>
+            <div style={cellStyle}><strong>Cost</strong>: {spell.sphereCostRaw}</div>
+            <div style={cellStyle}><strong>Description</strong>: {spell.description}</div>
         </div>
     );
 }
