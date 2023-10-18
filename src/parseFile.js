@@ -12,8 +12,6 @@ const checkEndOfDescription = (str) => {
 }
 
 const parseSpheres = (str) => {
-    let output = [];
-
     function replaceWithSmallerNumber(inputString) {
         const regex = /(\d+)\s+or\s+(\d+)/g;
         return inputString.replace(regex, function (match, number1, number2) {
@@ -29,7 +27,7 @@ const parseSpheres = (str) => {
     let configurations = [[]];
 
     for (let group of groups) {
-        const spheres = group.split(" or ").map(s => s.trim().replace("Primal Utility", "Prime"));
+        const spheres = group.split(" or ").map(s => s.trim().replace("Primal Utility", "Prime").replace("Dimensional Science", "Spirit").replace("Data", "Correspondence"));
 
         let newConfigurations = [];
 
