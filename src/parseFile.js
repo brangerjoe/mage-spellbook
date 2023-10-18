@@ -12,8 +12,8 @@ const checkEndOfDescription = (str) => {
 }
 
 const parseSpheres = (str) => {
-    // console.log(`Parsing: ${str}`);
     let output = [];
+
     function replaceWithSmallerNumber(inputString) {
         const regex = /(\d+)\s+or\s+(\d+)/g;
         return inputString.replace(regex, function (match, number1, number2) {
@@ -21,18 +21,20 @@ const parseSpheres = (str) => {
             return smallerNumber.toString();
         });
     }
+
     str = replaceWithSmallerNumber(str);
     str = str.replace(";", " or ");
-    let possibilities = str.split(" or ");
+    let groups = str.split(",");
 
-    for (possibility of possibilities) {
-        // possibility: 'Spirit 3, Forces 2'
-        // console.log(`= Possibility: ${possibility}`);
-        const possibilitySpheres = [];
-        const spheres = possibility.split(",");
-        for (sphere of spheres) {
-            // sphere: 'Spirit 3'
-            const sphereParts = sphere.trim().replace("Primal Utility", "Prime").split(" ");
+    let configurations = [[]];
+
+    for (let group of groups) {
+        const spheres = group.split(" or ").map(s => s.trim().replace("Primal Utility", "Prime"));
+
+        let newConfigurations = [];
+
+        for (let sphere of spheres) {
+            const sphereParts = sphere.split(" ");
             const name = sphereParts[0];
             const cost = parseInt(sphereParts[1]);
 
@@ -47,22 +49,30 @@ const parseSpheres = (str) => {
                 console.log(`Failed to add cost for ${name}`);
                 continue;
             }
-            // console.log(`== Sphere Name: ${sphereParts[0]}, cost: ${sphereParts[1]}`);
-            possibilitySpheres.push({
-                name,
-                cost
-            });
+
+            for (let config of configurations) {
+                const newConfig = config.concat([{ name, cost }]);
+                newConfigurations.push(newConfig);
+            }
         }
-        if (possibilitySpheres.length > 0) output.push(possibilitySpheres);
+
+        configurations = newConfigurations;
     }
 
-    return output;
+    return configurations;
 }
+
+// Testing the function:
+console.log(parseSpheres("Entropy 2 or Forces 3, Prime 2, Correspondence 3"));
 
 console.log(parseSpheres("Correspondence 2, Matter 2 or Prime 2"));
 console.log(parseSpheres("Spirit 3 or 4, Matter 3 or Forces 3, Prime 2;"));
 console.log(parseSpheres("Correspondence 2, Forces 2, optional Forces 3, Prime 2"));
 console.log(parseSpheres("Time 4, Entropy 3, Prime 2, may substitute Mind 4 or Life 3"));
+console.log(parseSpheres("Correspondence 1 or Entropy 1 or Spirit 1"));
+console.log(parseSpheres("Entropy 2 or 3, Life 2 or Matter 2 or Forces 2"));
+console.log(parseSpheres("Entropy 2 or Time 4, Life 2 or Matter 2 or Forces 2"));
+
 
 for (let i = 0; i < textByLine.length; i++) {
     const pattern = /^((Entropy|Prime|Spirit|Correspondence|Life|Mind|Matter|Time|Forces|Data|Primal Utility)\s\d(,)?(\sor)?(\sand)?(\s\d)?(,)?(\soptional)?(\smay substitute)?(\sboth)?(\sother spheres)?\s?;?)+$/;

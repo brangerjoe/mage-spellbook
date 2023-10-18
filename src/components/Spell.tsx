@@ -19,7 +19,7 @@ function Spell(props: ISpell) {
     };
 
     const cardStyle = {
-        width: '500px',
+        width: '470px',
         padding: '15px',
         margin: '10px',
         border: `3px solid ${colors.border}`,  // Brown border
