@@ -20,7 +20,7 @@ function App() {
 
 	const sphereOptions = [
 		'Entropy', 'Prime', 'Spirit', 'Correspondence', 'Life', 'Mind',
-		'Matter', 'Time', 'Forces', 'Data', 'PrimalUtility'
+		'Matter', 'Time', 'Forces'
 	];
 
 	const colors = {
@@ -36,8 +36,6 @@ function App() {
 		alignItems: 'center',
 		padding: '40px 20px',
 		backgroundColor: colors.secondary,
-		// width: '100%',
-		// minHeight: '100vh',
 	};
 
 	const contentContainerStyle: React.CSSProperties = {
