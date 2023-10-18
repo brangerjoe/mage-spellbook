@@ -10,33 +10,45 @@ export interface ISpell {
 function Spell(props: ISpell) {
     const spell = props;
 
-    const cardStyle = {
-        width: '450px',
-        padding: '10px',
-        margin: '10px',
-        border: '1px solid #8B4513',  // Brown border
-        borderRadius: '5px',
-        backgroundColor: '#D2B48C',  // Tan background color
+    // Define color palette
+    const colors = {
+        primary: '#D5BBA2', // light brown
+        secondary: '#E9DCCD', // lighter brown
+        text: '#5D473B', // dark brown for text
+        border: '#8B4513', // darker brown for border
     };
 
+    const cardStyle = {
+        width: '450px',
+        padding: '15px',
+        margin: '10px',
+        border: `3px solid ${colors.border}`,  // Brown border
+        borderRadius: '8px',
+        backgroundImage: `linear-gradient(45deg, ${colors.primary}, ${colors.secondary})`, // Gradient background
+        boxShadow: '0px 5px 15px rgba(0, 0, 0, 0.2)',  // More pronounced shadow for depth
+        fontFamily: 'Gabarito, sans-serif'
+    };
+    
+
     const titleStyle = {
-        marginBottom: '8px',
-        fontFamily: 'Grenze Gotisch, sans-serif', // Use Grenze Gotisch font for the title
-        fontSize: '24px', // Larger font size for the title
+        marginBottom: '10px',
+        fontFamily: 'Grenze Gotisch, sans-serif', 
+        fontSize: '24px', 
         fontWeight: 'bold',
-        color: '#8B4513'
+        color: colors.text
     };
 
     const cellStyle = {
         marginBottom: '8px',
-        fontSize: '16px', // Font size for other content
+        fontSize: '16px', 
+        color: colors.text,
     };
 
     const hrStyle = {
         marginTop: '10px',
         marginBottom: '10px',
         border: '0',
-        borderTop: '1px solid #8B4513',  // Brown horizontal line
+        borderTop: `1px solid ${colors.border}`,  // Brown horizontal line
     };
 
     return (
