@@ -8,7 +8,7 @@ function App() {
 	const [filter, setFilter] = useState<Array<[string, number]>>([]);
 	const [sortSphere, setSortSphere] = useState<string | null>(null);
 	const [sortOrder, setSortOrder] = useState<'asc' | 'desc' | null>(null);
-	const [setDropdownHovered] = useState(false);
+	const [, setDropdownHovered] = useState(false);
 
 	const handleSelect = (sphere: string, cost: number) => {
 		const updatedFilter = filter.filter(([sphereName]) => sphereName !== sphere);
