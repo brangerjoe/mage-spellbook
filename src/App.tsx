@@ -18,6 +18,10 @@ function App() {
 		setFilter(updatedFilter);
 	};
 
+	const resetSpheres = () => {
+		setFilter([]);
+	};
+
 	const sphereOptions = [
 		'Entropy', 'Prime', 'Spirit', 'Correspondence', 'Life', 'Mind',
 		'Matter', 'Time', 'Forces'
@@ -101,9 +105,23 @@ function App() {
 			<h2 style={subtitleStyle}>Mage: The Ascension (20th ed.)</h2>
 			<div style={contentContainerStyle}>
 				<div style={dropdownContainerStyle}>
-					<h2 style={{ fontSize: '24px', marginBottom: '20px', color: colors.text }}>Spheres</h2>
+					<h2 style={{ fontSize: '24px', marginBottom: '20px', color: colors.text }}>
+						Spheres
+						<span
+							onClick={resetSpheres}
+							style={{ marginLeft: '10px', fontSize: '16px', cursor: 'pointer' }}
+						>
+							[Reset]
+						</span>
+					</h2>
 					{sphereOptions.map((sphere, index) => (
-						<SphereSelector key={index} sphere={sphere} onSelect={(cost: number) => handleSelect(sphere, cost)} />
+						<SphereSelector
+							key={index}
+							sphere={sphere}
+							reset={filter.length === 0}
+							onSelect={(cost: number) => handleSelect(sphere, cost)}
+						/>
+
 					))}
 					<hr style={horizontalHrStyle} />
 					<div style={{ display: 'flex', flexDirection: 'row', marginBottom: '20px', alignItems: 'center' }}>
