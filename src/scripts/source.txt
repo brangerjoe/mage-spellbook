@@ -1831,7 +1831,7 @@ the effect hangs, ready to fire, but only does so when the
 trigger occurs.
 = Counterspell Rune
 Dead Magic 2 page 98
-Various
+Varies
 This Rune acts as Countermagick.
 = Divert Prime Force
 Technocracy: Void Engineers page 45
@@ -6201,7 +6201,7 @@ can determine if Time has been manipulated in an area.
 == Complex
 = The Gutter View
 Orphan's Survival Guide page 123
-Any sphere at 1
+Any Sphere 1
 At the bottom, people live by their wits and their
 senses. Every sphere grants useful perception effects that
 help with survival, such as:
