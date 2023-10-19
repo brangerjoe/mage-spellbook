@@ -41,12 +41,12 @@ function App() {
 			<h2 className="subtitle">Mage: The Ascension</h2>
 			<div className="content-container">
 				<div className="dropdown-container">
-					<h2 className="sphere-title">
+					{/* <h2 className="sphere-title">
 						Spheres
 						<span onClick={resetSpheres} className="reset-text">
 							(Reset)
 						</span>
-					</h2>
+					</h2> */}
 					{sphereOptions.map((sphere, index) => (
 						<SphereSelector
 							key={index}

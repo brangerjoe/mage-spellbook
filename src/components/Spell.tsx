@@ -104,16 +104,15 @@ function Spell(props: ISpell) {
     };
 
     const getStyleForCategory = (category: string): React.CSSProperties => {
-        return categoryStyles[category] || { color: colors.text }; // default to dark brown text if no special style
+        return categoryStyles[category] || { color: colors.text };
     };
 
     const cardStyle = {
         boxSizing: 'border-box' as 'border-box',
         width: '100%',
-        // maxWidth: '500px',
         padding: '15px',
         margin: '10px',
-        border: `3px solid ${colors.secondary}`,  // Brown border
+        border: `3px solid ${colors.secondary}`,
         borderRadius: '8px',
         backgroundImage: `linear-gradient(45deg, ${colors.secondary}, ${colors.primary})`, // Gradient background
         boxShadow: '0 4px 8px 3px rgba(0, 0, 0, .15), 0 1px 3px rgba(0, 0, 0, .3)',

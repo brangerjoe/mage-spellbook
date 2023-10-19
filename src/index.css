@@ -1,12 +1,3 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -16,10 +7,18 @@ html {
   overflow-y: scroll;
 }
 
-/* In your main CSS or at the start of Spells.css */
-:root {
-  --primary-color: '#D5BBA2';
-  --secondary-color: '#E9DCCD';
-  --text-color: '#5D473B';
-  --border-color: '#8B4513';
+body {
+  background-image: url('/assets/mage-background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /* This will ensure the image stays in place when scrolling */
+  background-position: center center;
+  /* This will center the image */
+  height: 100%;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  /* You can change the font if needed */
+  color: #333;
+  /* Default text color, you can change as needed */
 }
