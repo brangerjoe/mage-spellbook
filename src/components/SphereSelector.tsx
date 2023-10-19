@@ -1,5 +1,4 @@
 import React, { useEffect, useState, CSSProperties } from 'react';
-import { colors as appColors } from '../App';
 
 interface SphereSelectorProps {
 	sphere: string;
