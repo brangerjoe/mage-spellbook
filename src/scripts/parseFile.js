@@ -76,50 +76,57 @@ console.log(parseSpheres(" Life 3, Time 3 or Correspondence 2, Matter 2, optiona
 // console.log(parseSpheres("Entropy 2 or 3, Life 2 or Matter 2 or Forces 2"));
 // console.log(parseSpheres("Entropy 2 or Time 4, Life 2 or Matter 2 or Forces 2"));
 
+let currentCategory = null;
+let currentSubcategory = null;
 
 for (let i = 0; i < textByLine.length; i++) {
-    const pattern = /^((Entropy|Prime|Spirit|Correspondence|Life|Mind|Matter|Time|Forces|Data|Primal Utility)\s\d(,)?(\sor)?(\sand)?(\s\d)?(,)?(\soptional)?(\smay substitute)?(\sboth)?(\sother spheres)?\s?;?)+$/;
+    const line = trimLineEndings(textByLine[i]);
 
-    if (pattern.test(trimLineEndings(textByLine[i]))) {
-        // Find spell name and books
-        let books = [];
-        let j = i;
-        while (textByLine[j - 1] && (!checkEndOfDescription(textByLine[j - 1]) || i - j > 20)) {
-            if (textByLine[j].includes('page')) {
-                const normalizedBook = textByLine[j].replace(/ page .+$/, '').trim();
-                books.push(normalizedBook);
+    // Detect category and subcategory
+    if (line.startsWith('===')) {
+        currentCategory = line.replace('===', '').trim();
+    } else if (line.startsWith('==')) {
+        currentSubcategory = line.replace('==', '').trim();
+    } else {
+        const pattern = /^((Entropy|Prime|Spirit|Correspondence|Life|Mind|Matter|Time|Forces|Data|Primal Utility)\s\d(,)?(\sor)?(\sand)?(\s\d)?(,)?(\soptional)?(\smay substitute)?(\sboth)?(\sother spheres)?\s?;?)+$/;
+
+        if (line.startsWith('=')) {
+            // Spell name detected
+            let name = line.replace('=', '').trim();
+
+            // Capture all book lines
+            let books = [];
+            while (textByLine[i + 1] && (textByLine[i + 1].includes('page') || textByLine[i + 1].includes('pas'))) {
+                books.push(trimLineEndings(textByLine[++i]));
             }
-            j--;
-        }
-        let name = trimLineEndings(textByLine[j]);
 
-        // Aggregate spell cost
-        let sphereCost = textByLine[i];
-        while (pattern.test(textByLine[i + 1])) {
-            sphereCost = " " + trimLineEndings(sphereCost);
-            sphereCost = sphereCost + textByLine[i + 1];
-            i++;
-        }
-
-        // Find description
-        let descriptionStartLine = ++i;
-        let description = "";
-        while (textByLine[i]) {
-            description += i == descriptionStartLine ? trimLineEndings(textByLine[i]) : " " + trimLineEndings(textByLine[i]);
-            if (checkEndOfDescription(textByLine[i])) {
-                break;
+            // Next line after books should be sphere cost
+            let sphereCost = trimLineEndings(textByLine[++i]);
+            while (pattern.test(textByLine[i + 1])) {
+                sphereCost += " " + trimLineEndings(textByLine[++i]);
             }
-            i++;
-        }
 
-        const spell = {
-            name,
-            books,
-            sphereCostRaw: trimLineEndings(sphereCost),
-            sphereCost: parseSpheres(trimLineEndings(sphereCost)),
-            description
-        };
-        output.push(spell);
+            // Find description
+            let description = "";
+            i++; // move to the first line of description
+            while (textByLine[i] && !textByLine[i].startsWith('=') && !textByLine[i].startsWith('==') && !textByLine[i].startsWith('===')) {
+                description += " " + trimLineEndings(textByLine[i]);
+                i++;
+            }
+            i--; // revert the last increment to ensure the next loop iteration reads the next spell/category/subcategory
+
+            const spell = {
+                name,
+                category: currentCategory,
+                subcategory: currentSubcategory,
+                books,
+                sphereCostRaw: sphereCost,
+                sphereCost: parseSpheres(sphereCost),
+                description: description.trim()
+            };
+
+            output.push(spell);
+        }
     }
 }
 

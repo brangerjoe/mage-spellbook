@@ -1,50 +1,74 @@
 const fs = require('fs');
 const path = require('path');
 
-const inputFilePath = path.resolve(__dirname, './bookmarks.txt');
-const outputFilePath = path.resolve(__dirname, './filteredBookmarks.txt');
+const bookmarksFilePath = path.resolve(__dirname, './bookmarks.txt');
+const sourceFilePath = path.resolve(__dirname, './source.txt');
+const outputFilePath = path.resolve(__dirname, './modifiedSource.txt');
 
-const inputFileContent = fs.readFileSync(inputFilePath, 'utf-8');
-const lines = inputFileContent.split(/\r?\n/); // This accounts for different types of line endings
+const bookmarksContent = fs.readFileSync(bookmarksFilePath, 'utf-8');
+const sourceLines = fs.readFileSync(sourceFilePath, 'utf-8').split('\n');
 
+let lines = bookmarksContent.split('\n');
 let bookmarks = [];
 let currentBookmark = {};
+
+const sanitizeText = (text) => {
+    return (text || '').toLowerCase().replace(/[^\w\s]/g, '').trim();
+};
 
 for (let line of lines) {
     if (line.startsWith('BookmarkBegin')) {
         if (currentBookmark.BookmarkTitle) {
-            if (currentBookmark.BookmarkLevel === '2' || currentBookmark.BookmarkLevel === '3') {
-                bookmarks.push(currentBookmark);
-            }
-            currentBookmark = {}; // reset the bookmark after processing
+            bookmarks.push(currentBookmark);
         }
+        currentBookmark = {};
     } else if (line.startsWith('BookmarkTitle:')) {
-        currentBookmark.BookmarkTitle = line.split(': ')[1];
+        const match = line.match(/BookmarkTitle:\s*(.*)/);
+        if (match) {
+            currentBookmark.BookmarkTitle = match[1];
+        }
     } else if (line.startsWith('BookmarkLevel:')) {
         currentBookmark.BookmarkLevel = line.split(': ')[1].trim();
-    } else if (line.startsWith('BookmarkPageNumber:')) {
-        currentBookmark.BookmarkPageNumber = line.split(': ')[1];
     }
 }
 
 // Handle the last bookmark if present
 if (currentBookmark.BookmarkTitle) {
-    if (currentBookmark.BookmarkLevel === '2' || currentBookmark.BookmarkLevel === '3') {
-        bookmarks.push(currentBookmark);
+    bookmarks.push(currentBookmark);
+}
+
+console.log(bookmarks)
+
+for (let bookmark of bookmarks) {
+    const sanitizedTitle = sanitizeText(bookmark.BookmarkTitle);
+    let replacement;
+    if (bookmark.BookmarkLevel === '2') {
+        replacement = `=== ${bookmark.BookmarkTitle}`;
+    } else if (bookmark.BookmarkLevel === '3') {
+        replacement = `== ${bookmark.BookmarkTitle}`;
+    } else if (bookmark.BookmarkLevel === '4') {
+        replacement = `= ${bookmark.BookmarkTitle}`;
+    } else {
+        // console.warn(`Warning: Invalid BookmarkLevel ${bookmark.BookmarkLevel} for ${bookmark.BookmarkTitle}.`);
+        continue; // Skip this bookmark as its level is not recognized.
+    }
+
+    let found = false;
+    for (let i = 0; i < sourceLines.length; i++) {
+        if (sanitizeText(sourceLines[i]) === sanitizedTitle) {
+            sourceLines[i] = replacement;
+            found = true;
+            break;
+        }
+    }
+    
+    if (!found) {
+        console.log(`Entry "${bookmark.BookmarkTitle}" from bookmarks.txt not found in source.txt`);
     }
 }
 
-console.log("Total Lines:", lines.length);
-console.log("Total Bookmarks Parsed:", bookmarks.length);
+// ... [rest of your code]
 
-// Convert bookmarks back to the original format
-let outputContent = '';
-for (let bookmark of bookmarks) {
-    outputContent += 'BookmarkBegin\n';
-    outputContent += `BookmarkTitle: ${bookmark.BookmarkTitle}\n`;
-    outputContent += `BookmarkLevel: ${bookmark.BookmarkLevel}\n`;
-    outputContent += `BookmarkPageNumber: ${bookmark.BookmarkPageNumber}\n`;
-}
 
-fs.writeFileSync(outputFilePath, outputContent);
-console.log('Filtered bookmarks have been written to the file');
+fs.writeFileSync(outputFilePath, sourceLines.join('\n'));
+console.log('Replacements have been made in the file');

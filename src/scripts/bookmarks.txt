@@ -1,48 +1,4 @@
 BookmarkBegin
-BookmarkTitle: Enlightened Grimoire (Cover)
-BookmarkLevel: 1
-BookmarkPageNumber: 1
-BookmarkBegin
-BookmarkTitle: Credits
-BookmarkLevel: 2
-BookmarkPageNumber: 3
-BookmarkBegin
-BookmarkTitle: Table of Contents
-BookmarkLevel: 2
-BookmarkPageNumber: 4
-BookmarkBegin
-BookmarkTitle: Introduction
-BookmarkLevel: 2
-BookmarkPageNumber: 6
-BookmarkBegin
-BookmarkTitle: What is this book?
-BookmarkLevel: 3
-BookmarkPageNumber: 6
-BookmarkBegin
-BookmarkTitle: Differences Between Editions
-BookmarkLevel: 4
-BookmarkPageNumber: 6
-BookmarkBegin
-BookmarkTitle: First Edition
-BookmarkLevel: 4
-BookmarkPageNumber: 6
-BookmarkBegin
-BookmarkTitle: Second Edition
-BookmarkLevel: 4
-BookmarkPageNumber: 7
-BookmarkBegin
-BookmarkTitle: Sorcerer&#8217;s Crusade
-BookmarkLevel: 4
-BookmarkPageNumber: 7
-BookmarkBegin
-BookmarkTitle: Revised Edition
-BookmarkLevel: 4
-BookmarkPageNumber: 8
-BookmarkBegin
-BookmarkTitle: How to Use This Book
-BookmarkLevel: 3
-BookmarkPageNumber: 8
-BookmarkBegin
 BookmarkTitle: Blessings and Curses
 BookmarkLevel: 2
 BookmarkPageNumber: 10
@@ -55,7 +11,7 @@ BookmarkTitle: Balance the Scales
 BookmarkLevel: 4
 BookmarkPageNumber: 10
 BookmarkBegin
-BookmarkTitle: Blight/Farmer&#8217;s Favor
+BookmarkTitle: Blight/Farmer's Favor
 BookmarkLevel: 4
 BookmarkPageNumber: 10
 BookmarkBegin
@@ -107,7 +63,7 @@ BookmarkTitle: Buzzwords
 BookmarkLevel: 4
 BookmarkPageNumber: 12
 BookmarkBegin
-BookmarkTitle: Caesar&#8217;s Due
+BookmarkTitle: Caesar's Due
 BookmarkLevel: 4
 BookmarkPageNumber: 12
 BookmarkBegin
@@ -179,7 +135,7 @@ BookmarkTitle: Learn-It
 BookmarkLevel: 4
 BookmarkPageNumber: 15
 BookmarkBegin
-BookmarkTitle: Rival&#8217;s Curse
+BookmarkTitle: Rival's Curse
 BookmarkLevel: 4
 BookmarkPageNumber: 15
 BookmarkBegin
@@ -535,7 +491,7 @@ BookmarkTitle: Secret Rune
 BookmarkLevel: 4
 BookmarkPageNumber: 30
 BookmarkBegin
-BookmarkTitle: Sparrow&#8217;s Fall
+BookmarkTitle: Sparrow's Fall
 BookmarkLevel: 4
 BookmarkPageNumber: 30
 BookmarkBegin
@@ -863,11 +819,11 @@ BookmarkTitle: Friction Curse
 BookmarkLevel: 4
 BookmarkPageNumber: 42
 BookmarkBegin
-BookmarkTitle: Gabriel&#8217;s Embrace
+BookmarkTitle: Gabriel's Embrace
 BookmarkLevel: 4
 BookmarkPageNumber: 42
 BookmarkBegin
-BookmarkTitle: Hermes&#8217; Brand
+BookmarkTitle: Hermes' Brand
 BookmarkLevel: 4
 BookmarkPageNumber: 43
 BookmarkBegin
@@ -923,7 +879,7 @@ BookmarkTitle: Fiat Lux
 BookmarkLevel: 4
 BookmarkPageNumber: 44
 BookmarkBegin
-BookmarkTitle: Filter&#8217;d Lantern-Light
+BookmarkTitle: Filter'd Lantern-Light
 BookmarkLevel: 4
 BookmarkPageNumber: 44
 BookmarkBegin
@@ -1000,298 +956,298 @@ BookmarkLevel: 4
 BookmarkPageNumber: 46
 BookmarkBegin
 BookmarkTitle: Energy-Work
-BookmarkLevel: 3
+BookmarkLevel: 2
 BookmarkPageNumber: 48
 BookmarkBegin
 BookmarkTitle: Meta-Magick
-BookmarkLevel: 4
+BookmarkLevel: 3
 BookmarkPageNumber: 48
 BookmarkBegin
 BookmarkTitle: Body of Light
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 48
 BookmarkBegin
 BookmarkTitle: Cold Water's Blessing
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 48
 BookmarkBegin
 BookmarkTitle: Contingent Effect
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 48
 BookmarkBegin
 BookmarkTitle: Counterspell Rune
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 48
 BookmarkBegin
 BookmarkTitle: Divert Prime Force
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 49
 BookmarkBegin
 BookmarkTitle: Enchant Life
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 49
 BookmarkBegin
 BookmarkTitle: Master's Enchantment
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 49
 BookmarkBegin
 BookmarkTitle: Parma Magica
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 49
 BookmarkBegin
 BookmarkTitle: Programmed Event
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 49
 BookmarkBegin
 BookmarkTitle: Watch the Weaving
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 49
 BookmarkBegin
 BookmarkTitle: Nodes
-BookmarkLevel: 4
+BookmarkLevel: 3
 BookmarkPageNumber: 49
 BookmarkBegin
 BookmarkTitle: Awaken the Sleeping Earth
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 49
 BookmarkBegin
 BookmarkTitle: Drain Node
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 49
 BookmarkBegin
 BookmarkTitle: Glorious Is the Temple
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 50
 BookmarkBegin
 BookmarkTitle: Leying of the Line
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 50
 BookmarkBegin
 BookmarkTitle: Locate Quintessence Flow
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 50
 BookmarkBegin
 BookmarkTitle: Node Raider
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 50
 BookmarkBegin
 BookmarkTitle: Primal Credit Rating
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 50
 BookmarkBegin
 BookmarkTitle: Prime Location
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 50
 BookmarkBegin
 BookmarkTitle: Sense Node
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 51
 BookmarkBegin
 BookmarkTitle: Tap Node
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 51
 BookmarkBegin
 BookmarkTitle: Terminal Sanitization
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 51
 BookmarkBegin
 BookmarkTitle: Wellspring
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 51
 BookmarkBegin
 BookmarkTitle: Quintessence and Tass
-BookmarkLevel: 4
+BookmarkLevel: 3
 BookmarkPageNumber: 51
 BookmarkBegin
 BookmarkTitle: Bond of Blood
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 51
 BookmarkBegin
 BookmarkTitle: The Burning Lotus
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 51
 BookmarkBegin
 BookmarkTitle: Convert Node to Tass
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 51
 BookmarkBegin
 BookmarkTitle: Cup of Joe
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 51
 BookmarkBegin
 BookmarkTitle: Drain Tass
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 51
 BookmarkBegin
 BookmarkTitle: Economic Warfare
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 52
 BookmarkBegin
 BookmarkTitle: Footbind
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 52
 BookmarkBegin
 BookmarkTitle: Fount of Paradise
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 52
 BookmarkBegin
 BookmarkTitle: The Hand of the Siphoner
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 52
 BookmarkBegin
 BookmarkTitle: Hymn of Beatific Harmony
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 52
 BookmarkBegin
 BookmarkTitle: Primal Infusion
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 52
 BookmarkBegin
 BookmarkTitle: Primal Net
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 53
 BookmarkBegin
 BookmarkTitle: Radiate Prime Energy
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 53
 BookmarkBegin
 BookmarkTitle: Recharge Device
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 53
 BookmarkBegin
 BookmarkTitle: Recharge Gift
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 53
 BookmarkBegin
 BookmarkTitle: The Rush
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 53
 BookmarkBegin
 BookmarkTitle: Sense Quintessence
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 53
 BookmarkBegin
 BookmarkTitle: Spinning Thread
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 53
 BookmarkBegin
 BookmarkTitle: Reality Manipulation
-BookmarkLevel: 4
+BookmarkLevel: 3
 BookmarkPageNumber: 53
 BookmarkBegin
 BookmarkTitle: Delay Paradox
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 53
 BookmarkBegin
 BookmarkTitle: Flames of Purification
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 53
 BookmarkBegin
 BookmarkTitle: Healthy Skepticism
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 54
 BookmarkBegin
 BookmarkTitle: Holy Stroke
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 54
 BookmarkBegin
 BookmarkTitle: Matter-Energy Converter
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 54
 BookmarkBegin
 BookmarkTitle: Paradox Ward
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 54
 BookmarkBegin
 BookmarkTitle: Penance for the Sicarii
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 54
 BookmarkBegin
 BookmarkTitle: Quintessence Blast
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 54
 BookmarkBegin
 BookmarkTitle: Spirit Pilgrimage
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 54
 BookmarkBegin
 BookmarkTitle: Resonance and Synergy
-BookmarkLevel: 4
+BookmarkLevel: 3
 BookmarkPageNumber: 54
 BookmarkBegin
 BookmarkTitle: Balancing the Furies
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 54
 BookmarkBegin
 BookmarkTitle: Change the Resonance
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 54
 BookmarkBegin
 BookmarkTitle: Node Spike
-BookmarkLevel: 5
-BookmarkPageNumber: 55
-BookmarkBegin
-BookmarkTitle: Occlude the Seal of Power
-BookmarkLevel: 5
-BookmarkPageNumber: 55
-BookmarkBegin
-BookmarkTitle: Orgone Accumulator
-BookmarkLevel: 5
-BookmarkPageNumber: 55
-BookmarkBegin
-BookmarkTitle: Psychic Impression
-BookmarkLevel: 5
-BookmarkPageNumber: 55
-BookmarkBegin
-BookmarkTitle: Tag
-BookmarkLevel: 5
-BookmarkPageNumber: 55
-BookmarkBegin
-BookmarkTitle: Sacrifice
 BookmarkLevel: 4
 BookmarkPageNumber: 55
 BookmarkBegin
+BookmarkTitle: Occlude the Seal of Power
+BookmarkLevel: 4
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Orgone Accumulator
+BookmarkLevel: 4
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Psychic Impression
+BookmarkLevel: 4
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Tag
+BookmarkLevel: 4
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Sacrifice
+BookmarkLevel: 3
+BookmarkPageNumber: 55
+BookmarkBegin
 BookmarkTitle: The Ball Game
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 55
 BookmarkBegin
 BookmarkTitle: Blood for the Gods
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 55
 BookmarkBegin
 BookmarkTitle: Blood of the Sacred King
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 55
 BookmarkBegin
 BookmarkTitle: Cup of Itz
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 56
 BookmarkBegin
 BookmarkTitle: Heart for Huitzilopochtli
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 56
 BookmarkBegin
-BookmarkTitle: Heart&#8217;s Blood
-BookmarkLevel: 5
+BookmarkTitle: Heart's Blood
+BookmarkLevel: 4
 BookmarkPageNumber: 56
 BookmarkBegin
 BookmarkTitle: Kaumaha (Sacrifice)
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 56
 BookmarkBegin
 BookmarkTitle: Lambs to the Slaughter
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 56
 BookmarkBegin
 BookmarkTitle: Midnight Oil
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 56
 BookmarkBegin
 BookmarkTitle: Self-Sacrifice
-BookmarkLevel: 5
+BookmarkLevel: 4
 BookmarkPageNumber: 56
 BookmarkBegin
-BookmarkTitle: Enchanced Combat
+BookmarkTitle: Enhanced Combat
 BookmarkLevel: 2
 BookmarkPageNumber: 58
 BookmarkBegin
@@ -1451,7 +1407,7 @@ BookmarkTitle: Blade Sense
 BookmarkLevel: 4
 BookmarkPageNumber: 63
 BookmarkBegin
-BookmarkTitle: The Hero&#8217;s Challenge
+BookmarkTitle: The Hero's Challenge
 BookmarkLevel: 4
 BookmarkPageNumber: 63
 BookmarkBegin
@@ -1643,7 +1599,7 @@ BookmarkTitle: Tolerance
 BookmarkLevel: 4
 BookmarkPageNumber: 71
 BookmarkBegin
-BookmarkTitle: Witch&#8217;s Diplomacy
+BookmarkTitle: Witch's Diplomacy
 BookmarkLevel: 4
 BookmarkPageNumber: 72
 BookmarkBegin
@@ -1715,7 +1671,7 @@ BookmarkTitle: Spy's Stigmata
 BookmarkLevel: 4
 BookmarkPageNumber: 74
 BookmarkBegin
-BookmarkTitle: Witch&#8217;s Vengeance
+BookmarkTitle: Witch's Vengeance
 BookmarkLevel: 4
 BookmarkPageNumber: 74
 BookmarkBegin
@@ -2051,7 +2007,7 @@ BookmarkTitle: Na Kua's Gift
 BookmarkLevel: 4
 BookmarkPageNumber: 88
 BookmarkBegin
-BookmarkTitle: O&#8217;Doul&#8217;s Ingeniae
+BookmarkTitle: O'Doul's Ingeniae
 BookmarkLevel: 4
 BookmarkPageNumber: 88
 BookmarkBegin
@@ -2371,7 +2327,7 @@ BookmarkTitle: Teleoperate
 BookmarkLevel: 4
 BookmarkPageNumber: 101
 BookmarkBegin
-BookmarkTitle: Wayfarer&#8217;s Reckoning
+BookmarkTitle: Wayfarer's Reckoning
 BookmarkLevel: 4
 BookmarkPageNumber: 101
 BookmarkBegin
@@ -2423,7 +2379,7 @@ BookmarkTitle: Breaking In
 BookmarkLevel: 3
 BookmarkPageNumber: 103
 BookmarkBegin
-BookmarkTitle: Amon Maat, &quot;Hidden Justice&quot;
+BookmarkTitle: Amon Maat, "Hidden Justice"
 BookmarkLevel: 4
 BookmarkPageNumber: 103
 BookmarkBegin
@@ -2511,7 +2467,7 @@ BookmarkTitle: Temper Viasilicos
 BookmarkLevel: 4
 BookmarkPageNumber: 106
 BookmarkBegin
-BookmarkTitle: Thunder&#8217;s Gauntlet
+BookmarkTitle: Thunder's Gauntlet
 BookmarkLevel: 4
 BookmarkPageNumber: 106
 BookmarkBegin
@@ -2519,7 +2475,7 @@ BookmarkTitle: Language
 BookmarkLevel: 3
 BookmarkPageNumber: 106
 BookmarkBegin
-BookmarkTitle: Adder&#8217;s Tongue
+BookmarkTitle: Adder's Tongue
 BookmarkLevel: 4
 BookmarkPageNumber: 106
 BookmarkBegin
@@ -2543,7 +2499,7 @@ BookmarkTitle: Speaking in Tongues
 BookmarkLevel: 4
 BookmarkPageNumber: 106
 BookmarkBegin
-BookmarkTitle: Time&#8217;s Tongue
+BookmarkTitle: Time's Tongue
 BookmarkLevel: 4
 BookmarkPageNumber: 107
 BookmarkBegin
@@ -2611,7 +2567,7 @@ BookmarkTitle: Agama Re Sojourn/Agama Te Sojourn
 BookmarkLevel: 4
 BookmarkPageNumber: 109
 BookmarkBegin
-BookmarkTitle: Death&#8217;s Passage
+BookmarkTitle: Death's Passage
 BookmarkLevel: 4
 BookmarkPageNumber: 110
 BookmarkBegin
@@ -2683,7 +2639,7 @@ BookmarkTitle: Hermes Portal
 BookmarkLevel: 4
 BookmarkPageNumber: 112
 BookmarkBegin
-BookmarkTitle: Mercury&#8217;s Bridge
+BookmarkTitle: Mercury's Bridge
 BookmarkLevel: 4
 BookmarkPageNumber: 112
 BookmarkBegin
@@ -2847,7 +2803,7 @@ BookmarkTitle: Body of the Spirit
 BookmarkLevel: 4
 BookmarkPageNumber: 117
 BookmarkBegin
-BookmarkTitle: Daedalus&#8217;s Wings
+BookmarkTitle: Daedalus's Wings
 BookmarkLevel: 4
 BookmarkPageNumber: 117
 BookmarkBegin
@@ -2963,7 +2919,7 @@ BookmarkTitle: Locate Disorder and Weakness
 BookmarkLevel: 4
 BookmarkPageNumber: 122
 BookmarkBegin
-BookmarkTitle: Oathbreaker&#8217;s Lash
+BookmarkTitle: Oathbreaker's Lash
 BookmarkLevel: 4
 BookmarkPageNumber: 122
 BookmarkBegin
@@ -3075,7 +3031,7 @@ BookmarkTitle: Instant Measurement
 BookmarkLevel: 4
 BookmarkPageNumber: 125
 BookmarkBegin
-BookmarkTitle: Monarch&#8217;s Friend
+BookmarkTitle: Monarch's Friend
 BookmarkLevel: 4
 BookmarkPageNumber: 125
 BookmarkBegin
@@ -3083,7 +3039,7 @@ BookmarkTitle: Mind
 BookmarkLevel: 3
 BookmarkPageNumber: 125
 BookmarkBegin
-BookmarkTitle: Aai-ab, &quot;Washing the Heart&quot;
+BookmarkTitle: Aai-ab, "Washing the Heart"
 BookmarkLevel: 4
 BookmarkPageNumber: 125
 BookmarkBegin
@@ -3191,7 +3147,7 @@ BookmarkTitle: Spirit/Dimensional Science
 BookmarkLevel: 3
 BookmarkPageNumber: 128
 BookmarkBegin
-BookmarkTitle: Hersh, &quot;To be Patient&quot;
+BookmarkTitle: Hersh, "To be Patient"
 BookmarkLevel: 4
 BookmarkPageNumber: 128
 BookmarkBegin
@@ -3207,7 +3163,7 @@ BookmarkTitle: Spirit Sight
 BookmarkLevel: 4
 BookmarkPageNumber: 129
 BookmarkBegin
-BookmarkTitle: Utchatti, &quot;The Two Divine Eyes&quot;
+BookmarkTitle: Utchatti, "The Two Divine Eyes"
 BookmarkLevel: 4
 BookmarkPageNumber: 129
 BookmarkBegin
@@ -3443,7 +3399,7 @@ BookmarkTitle: Dontcme
 BookmarkLevel: 4
 BookmarkPageNumber: 140
 BookmarkBegin
-BookmarkTitle: Ghayba (Occultation or &quot;Unbeingness&quot;)
+BookmarkTitle: Ghayba (Occultation or "Unbeingness")
 BookmarkLevel: 4
 BookmarkPageNumber: 140
 BookmarkBegin
@@ -3459,7 +3415,7 @@ BookmarkTitle: Selective Edit
 BookmarkLevel: 4
 BookmarkPageNumber: 140
 BookmarkBegin
-BookmarkTitle: Sjonhverfing (&quot;Deceiving of the Sight&quot;)
+BookmarkTitle: Sjonhverfing ("Deceiving of the Sight")
 BookmarkLevel: 4
 BookmarkPageNumber: 140
 BookmarkBegin
@@ -3495,7 +3451,7 @@ BookmarkTitle: Energy Shield
 BookmarkLevel: 4
 BookmarkPageNumber: 141
 BookmarkBegin
-BookmarkTitle: Huli Shjalmr (&quot;Helmet of Hiding&quot;)
+BookmarkTitle: Huli Shjalmr ("Helmet of Hiding")
 BookmarkLevel: 4
 BookmarkPageNumber: 141
 BookmarkBegin
@@ -3579,7 +3535,7 @@ BookmarkTitle: Polyappearance
 BookmarkLevel: 4
 BookmarkPageNumber: 145
 BookmarkBegin
-BookmarkTitle: Simon&#8217;s Petition
+BookmarkTitle: Simon's Petition
 BookmarkLevel: 4
 BookmarkPageNumber: 146
 BookmarkBegin
@@ -3639,7 +3595,7 @@ BookmarkTitle: Slow Time
 BookmarkLevel: 4
 BookmarkPageNumber: 148
 BookmarkBegin
-BookmarkTitle: St. Vitus&#8217;s Kiss
+BookmarkTitle: St. Vitus's Kiss
 BookmarkLevel: 4
 BookmarkPageNumber: 148
 BookmarkBegin
@@ -3711,7 +3667,7 @@ BookmarkTitle: Hellfire
 BookmarkLevel: 4
 BookmarkPageNumber: 152
 BookmarkBegin
-BookmarkTitle: Sharing the Outsider&#8217;s Gaze
+BookmarkTitle: Sharing the Outsider's Gaze
 BookmarkLevel: 4
 BookmarkPageNumber: 152
 BookmarkBegin
@@ -3839,7 +3795,7 @@ BookmarkTitle: Summoning
 BookmarkLevel: 3
 BookmarkPageNumber: 157
 BookmarkBegin
-BookmarkTitle: Ap-Sobk, &quot;Last Judgment of Sobk&quot;
+BookmarkTitle: Ap-Sobk, "Last Judgment of Sobk"
 BookmarkLevel: 4
 BookmarkPageNumber: 157
 BookmarkBegin
@@ -3903,7 +3859,7 @@ BookmarkTitle: Pygmalion's Paradigm
 BookmarkLevel: 4
 BookmarkPageNumber: 160
 BookmarkBegin
-BookmarkTitle: Satan&#8217;s Song
+BookmarkTitle: Satan's Song
 BookmarkLevel: 4
 BookmarkPageNumber: 160
 BookmarkBegin
@@ -4187,7 +4143,7 @@ BookmarkTitle: Cloning
 BookmarkLevel: 4
 BookmarkPageNumber: 170
 BookmarkBegin
-BookmarkTitle: Courtesan&#8217;s Draught/Blessed Heir
+BookmarkTitle: Courtesan's Draught/Blessed Heir
 BookmarkLevel: 4
 BookmarkPageNumber: 170
 BookmarkBegin
@@ -4315,7 +4271,7 @@ BookmarkTitle: Storm of Crows
 BookmarkLevel: 4
 BookmarkPageNumber: 176
 BookmarkBegin
-BookmarkTitle: Vulcan&#8217;s Hammer
+BookmarkTitle: Vulcan's Hammer
 BookmarkLevel: 4
 BookmarkPageNumber: 176
 BookmarkBegin
@@ -4407,7 +4363,7 @@ BookmarkTitle: Strength of the Earth
 BookmarkLevel: 4
 BookmarkPageNumber: 179
 BookmarkBegin
-BookmarkTitle: Survivor&#8217;s Charm
+BookmarkTitle: Survivor's Charm
 BookmarkLevel: 4
 BookmarkPageNumber: 180
 BookmarkBegin
@@ -4419,7 +4375,7 @@ BookmarkTitle: Thick Skin
 BookmarkLevel: 4
 BookmarkPageNumber: 180
 BookmarkBegin
-BookmarkTitle: Titan&#8217;s Power
+BookmarkTitle: Titan's Power
 BookmarkLevel: 4
 BookmarkPageNumber: 180
 BookmarkBegin
@@ -4455,7 +4411,7 @@ BookmarkTitle: Peace Rune
 BookmarkLevel: 4
 BookmarkPageNumber: 183
 BookmarkBegin
-BookmarkTitle: Rat&#8217;s Rage/Lost Cousin
+BookmarkTitle: Rat's Rage/Lost Cousin
 BookmarkLevel: 4
 BookmarkPageNumber: 183
 BookmarkBegin
@@ -4467,7 +4423,7 @@ BookmarkTitle: Fear and Intimidation
 BookmarkLevel: 3
 BookmarkPageNumber: 183
 BookmarkBegin
-BookmarkTitle: Abh-t-ab, &quot;Biting the Heart&quot;
+BookmarkTitle: Abh-t-ab, "Biting the Heart"
 BookmarkLevel: 4
 BookmarkPageNumber: 184
 BookmarkBegin
@@ -4563,7 +4519,7 @@ BookmarkTitle: High Rhetoric
 BookmarkLevel: 4
 BookmarkPageNumber: 186
 BookmarkBegin
-BookmarkTitle: Hope&#8217;s Birth
+BookmarkTitle: Hope's Birth
 BookmarkLevel: 4
 BookmarkPageNumber: 186
 BookmarkBegin
@@ -4639,7 +4595,7 @@ BookmarkTitle: Bug Off
 BookmarkLevel: 4
 BookmarkPageNumber: 189
 BookmarkBegin
-BookmarkTitle: Horsemaster&#8217;s Bidding
+BookmarkTitle: Horsemaster's Bidding
 BookmarkLevel: 4
 BookmarkPageNumber: 189
 BookmarkBegin
@@ -4871,7 +4827,7 @@ BookmarkTitle: Mind Rune
 BookmarkLevel: 4
 BookmarkPageNumber: 195
 BookmarkBegin
-BookmarkTitle: Morpheus&#8217;s Kiss
+BookmarkTitle: Morpheus's Kiss
 BookmarkLevel: 4
 BookmarkPageNumber: 195
 BookmarkBegin
@@ -4919,7 +4875,7 @@ BookmarkTitle: Self Possession
 BookmarkLevel: 4
 BookmarkPageNumber: 197
 BookmarkBegin
-BookmarkTitle: Sinner&#8217;s Redemption
+BookmarkTitle: Sinner's Redemption
 BookmarkLevel: 4
 BookmarkPageNumber: 197
 BookmarkBegin
@@ -4946,31 +4902,3 @@ BookmarkBegin
 BookmarkTitle: Willful Binding
 BookmarkLevel: 4
 BookmarkPageNumber: 198
-BookmarkBegin
-BookmarkTitle: Appendix: Expanded Rules
-BookmarkLevel: 2
-BookmarkPageNumber: 200
-BookmarkBegin
-BookmarkTitle: Dramatic Tension
-BookmarkLevel: 3
-BookmarkPageNumber: 200
-BookmarkBegin
-BookmarkTitle: Rules
-BookmarkLevel: 4
-BookmarkPageNumber: 200
-BookmarkBegin
-BookmarkTitle: Rote-Only Effects
-BookmarkLevel: 4
-BookmarkPageNumber: 201
-BookmarkBegin
-BookmarkTitle: Example
-BookmarkLevel: 4
-BookmarkPageNumber: 202
-BookmarkBegin
-BookmarkTitle: Index of Rotes
-BookmarkLevel: 2
-BookmarkPageNumber: 204
-BookmarkBegin
-BookmarkTitle: Back Cover
-BookmarkLevel: 2
-BookmarkPageNumber: 213

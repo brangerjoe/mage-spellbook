@@ -3,6 +3,13 @@ import { ISpell } from './components/Spell';
 import SpellList from './components/SpellList';
 import SphereSelector from './components/SphereSelector';
 
+export const colors = {
+	primary: '#D5BBA2', // light brown
+	secondary: '#E9DCCD', // lighter brown
+	text: '#5D473B', // dark brown for text
+	border: '#8B4513', // darker brown for border
+};
+
 function App() {
 	const spellArray: ISpell[] = require('./data.json');
 	const [filter, setFilter] = useState<Array<[string, number]>>([]);
@@ -27,18 +34,12 @@ function App() {
 		'Matter', 'Time', 'Forces'
 	];
 
-	const colors = {
-		primary: '#D5BBA2',
-		secondary: '#E9DCCD',
-		text: '#5D473B',
-	};
-
 	const appContainerStyle: React.CSSProperties = {
 		fontFamily: 'Arial, sans-serif',
 		display: 'flex',
 		flexDirection: 'column',
 		alignItems: 'center',
-		padding: '40px 20px',
+		padding: '10px 20px',
 		backgroundColor: colors.secondary,
 	};
 
@@ -59,12 +60,12 @@ function App() {
 	};
 
 	const titleStyle: React.CSSProperties = {
-		fontSize: '42px',
+		fontSize: '62px',
 		marginBottom: '5px',
 		color: colors.text,
 		textAlign: 'center',
 		width: '800px',
-		fontFamily: 'MedievalSharp, sans-serif',
+		fontFamily: 'Fondamento, sans-serif',
 		borderBottom: '2px solid ' + colors.text,
 		paddingBottom: '5px'
 	};
@@ -93,7 +94,7 @@ function App() {
 	// Style for the horizontal <hr />
 	const horizontalHrStyle: React.CSSProperties = {
 		width: '100%',
-		backgroundColor: '#5D473B',
+		backgroundColor: colors.secondary,
 		border: 'none',
 		height: '1px',
 		margin: '20px 0',
@@ -102,7 +103,7 @@ function App() {
 	return (
 		<div style={appContainerStyle}>
 			<h1 style={titleStyle}>Rote Spellbook</h1>
-			<h2 style={subtitleStyle}>Mage: The Ascension (20th ed.)</h2>
+			<h2 style={subtitleStyle}>Mage: The Ascension</h2>
 			<div style={contentContainerStyle}>
 				<div style={dropdownContainerStyle}>
 					<h2 style={{ fontSize: '24px', marginBottom: '20px', color: colors.text }}>
