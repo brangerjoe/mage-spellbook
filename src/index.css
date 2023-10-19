@@ -15,3 +15,11 @@ code {
 html {
   overflow-y: scroll;
 }
+
+/* In your main CSS or at the start of Spells.css */
+:root {
+  --primary-color: '#D5BBA2';
+  --secondary-color: '#E9DCCD';
+  --text-color: '#5D473B';
+  --border-color: '#8B4513';
+}

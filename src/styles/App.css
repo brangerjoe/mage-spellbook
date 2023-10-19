@@ -1,0 +1,121 @@
+.app-container {
+    font-family: 'Arial, sans-serif';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #E9DCCD;
+}
+
+.content-container {
+    display: flex;
+    flex-direction: row;
+    width: 800px;
+    margin-top: 20px;
+    background-color: #D5BBA2;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown-container {
+    margin-right: 20px;
+    width: 250px;
+}
+
+.cards-container {
+    margin-right: 20px;
+    width: 100%;
+}
+
+.title {
+    font-size: 62px;
+    margin-bottom: 5px;
+    color: #5D473B;
+    text-align: center;
+    width: 100%;
+    max-width: 800px;
+    font-family: 'Fondamento', 'sans-serif';
+    border-bottom: 2px solid #5D473B;
+    padding-bottom: 5px;
+}
+
+.subtitle {
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: #5D473B;
+    text-align: center;
+    width: 100%;
+    max-width: 800px;
+    margin-top: 2px;
+    font-family: 'Gabarito', 'sans-serif';
+}
+
+.dropdown-normal {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Gabarito', 'sans-serif';
+    background-color: #E9DCCD;
+    color: #5D473B;
+    cursor: pointer;
+}
+
+.horizontal-hr {
+    width: 100%;
+    background-color: #E9DCCD;
+    border: none;
+    height: 1px;
+    margin: 20px 0;
+}
+
+.sphere-title {
+    font-family: 'Gabarito', 'sans-serif';
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #5D473B;
+}
+
+.reset-text {
+    margin-left: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    align-items: end;
+}
+
+.dropdown-flex {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.dropdown-wide {
+    flex: 2;
+    margin-right: 2px;
+    text-align: center;
+}
+
+.dropdown-narrow {
+    flex: 1;
+    text-align: center;
+}
+
+/* This is the media query for mobile screens */
+@media (max-width: 800px) {
+    .content-container {
+        flex-direction: column;
+        min-width: 0;
+        width: 100%;
+        align-items: center;
+    }
+
+    .dropdown-container {
+        margin-right: 0px;
+        width: 100%;
+    }
+
+    .title {
+        font-size: 40px;
+    }
+}

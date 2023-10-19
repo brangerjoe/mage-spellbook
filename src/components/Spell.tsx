@@ -100,9 +100,7 @@ function Spell(props: ISpell) {
             background: 'linear-gradient(45deg, coral 0%, chocolate 20%)',
             WebkitBackgroundClip: 'text',
             color: 'transparent',
-        },
-
-        // ... Add more categories here
+        }
     };
 
     const getStyleForCategory = (category: string): React.CSSProperties => {
@@ -110,7 +108,9 @@ function Spell(props: ISpell) {
     };
 
     const cardStyle = {
-        width: '470px',
+        boxSizing: 'border-box' as 'border-box',
+        width: '100%',
+        // maxWidth: '500px',
         padding: '15px',
         margin: '10px',
         border: `3px solid ${colors.secondary}`,  // Brown border
