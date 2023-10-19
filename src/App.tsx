@@ -26,9 +26,9 @@ function App() {
 		setFilter(updatedFilter);
 	};
 
-	const resetSpheres = () => {
-		setFilter([]);
-	};
+	// const resetSpheres = () => {
+	// 	setFilter([]);
+	// };
 
 	const sphereOptions = [
 		'Entropy', 'Prime', 'Spirit', 'Correspondence', 'Life', 'Mind',
