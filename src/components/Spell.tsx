@@ -121,7 +121,6 @@ function Spell(props: ISpell) {
 
 
     const titleStyle = {
-        marginBottom: '10px',
         fontFamily: 'Grenze Gotisch, sans-serif',
         fontSize: '24px',
         fontWeight: 'bold',
@@ -135,17 +134,16 @@ function Spell(props: ISpell) {
     };
 
     const categoryStyle = {
-        fontSize: '18px', // Made it a bit larger
+        fontSize: '18px', 
         fontWeight: 'bold',
         color: colors.text,
-        textShadow: '2px 2px 3px rgba(169, 169, 169, 0.2)', // Using a light gray shadow
+        textShadow: '2px 2px 3px rgba(169, 169, 169, 0.2)',
         ...getStyleForCategory(spell.category),
     };
 
     const subcategoryStyle = {
-        fontSize: '14px', // Smaller font size for subcategory
+        fontSize: '14px',
         color: colors.text,
-        marginBottom: '10px'
     };
 
     const hrStyle = {
