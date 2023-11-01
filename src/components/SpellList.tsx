@@ -1,71 +1,84 @@
 import React from 'react';
 import Spell, { ISpell } from './Spell';
+import { bookCategories } from '../App';
 
 interface SpellListProps {
     data: ISpell[];
     filter: Array<[string, number]>;
     sortSphere: string | null;
-    sortOrder: 'asc' | 'desc' | null; // Added sortOrder prop
+    sortOrder: 'asc' | 'desc' | null;
+    bookFilter: string[];
 }
 
 function SpellList(props: SpellListProps) {
-    const { data, filter, sortSphere, sortOrder } = props;
+    const { data, filter, sortSphere, sortOrder, bookFilter } = props;
 
     const filteredSpells = data.filter((spell: ISpell) => {
-        const spellSphereCosts = spell.sphereCost;
-        for (let i = 0; i < spellSphereCosts.length; i++) {
-            const requiredSpheres = spellSphereCosts[i];
-            const hasEnoughSpheres = requiredSpheres.every(currency => {
-                const foundCurrency = filter.find(c => c[0] === currency.name);
-                return foundCurrency && foundCurrency[1] >= currency.cost;
+        // Sphere Cost Filtering
+        const matchesSphereCost = spell.sphereCost.some(group => {
+            return group.every(sphere => {
+                const found = filter.find(([name, cost]) => name === sphere.name);
+                return found && found[1] >= sphere.cost;
             });
-
-            if (hasEnoughSpheres) {
-                return true;
-            }
+        });
+    
+        if (!matchesSphereCost) return false;
+    
+        // If "Others" is checked, return true for Spells that don't belong to any of the predefined book categories
+        if (bookFilter.includes('Others')) {
+            const isOther = spell.books.every(book => !bookCategories.some(category => book.includes(category)));
+            if (isOther) return true;
         }
-        return false;
+    
+        // Check for spells that should be excluded because they match a deselected category
+        const hasDeselectedCategory = spell.books.some(book => bookCategories.some(category => book.includes(category) && !bookFilter.includes(category)));
+    
+        if (hasDeselectedCategory) return false;
+    
+        // Filtering for specific book checkboxes
+        const matchesSpecificBook = spell.books.some(book => bookCategories.some(category => book.includes(category) && bookFilter.includes(category)));
+    
+        return matchesSpecificBook;
     });
 
-    // If a sortSphere is provided, sort the filtered spells based on that sphere's cost
-    if (sortSphere) {
-        filteredSpells.sort((a, b) => {
-            // Extract the cost for the provided sortSphere for both spells
-            const findSphereCost = (spell: ISpell) => {
-                for (let sphereGroup of spell.sphereCost) {
-                    const foundSphere = sphereGroup.find(s => s.name === sortSphere);
-                    if (foundSphere) return foundSphere.cost;
+    let sortedSpells = [...filteredSpells];
+
+    if (sortSphere && sortOrder) {
+        sortedSpells.sort((a, b) => {
+            const findSphereCost = (spell: ISpell, sphereName: string) => {
+                for (let group of spell.sphereCost) {
+                    for (let sphere of group) {
+                        if (sphere.name === sphereName) {
+                            return sphere.cost;
+                        }
+                    }
                 }
-                return 0; // Default cost if the sphere is not found
+                return 0; // default to 0 if sphere is not found
             };
-
-            const aCost = findSphereCost(a);
-            const bCost = findSphereCost(b);
-
-            if (sortOrder === 'asc') {
-                return aCost - bCost; // Sort in ascending order
-            } else {
-                return bCost - aCost; // Sort in descending order (or default if sortOrder is null)
-            }
+    
+            const aSphereCost = findSphereCost(a, sortSphere);
+            const bSphereCost = findSphereCost(b, sortSphere);
+    
+            return sortOrder === 'asc' ? aSphereCost - bSphereCost : bSphereCost - aSphereCost;
         });
     }
+    
+    
 
     return (
         <div>
-            <div>
-                {filteredSpells.map(cur => (
-                    <Spell 
-                        name={cur.name} 
-                        category={cur.category}
-                        subcategory={cur.subcategory}
-                        books={cur.books}
-                        description={cur.description} 
-                        sphereCostRaw={cur.sphereCostRaw} 
-                        sphereCost={cur.sphereCost} 
-                        key={cur.name} 
-                    />
-                ))}
-            </div>
+            {sortedSpells.map(cur => (
+                <Spell
+                    name={cur.name}
+                    category={cur.category}
+                    subcategory={cur.subcategory}
+                    books={cur.books}
+                    description={cur.description}
+                    sphereCostRaw={cur.sphereCostRaw}
+                    sphereCost={cur.sphereCost}
+                    key={cur.name}
+                />
+            ))}
         </div>
     );
 }

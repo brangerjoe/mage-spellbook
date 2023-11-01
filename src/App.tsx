@@ -11,12 +11,36 @@ export const colors = {
 	border: '#8B4513',
 };
 
+export const bookCategories = [
+	'Mage: The Ascension',
+	'Guide to the Traditions',
+	'Akashic Brotherhood',
+	'Celestial Chorus',
+	'Cult of Ecstasy',
+	'Dreamspeakers',
+	'Euthanatos',
+	'Hollow Ones',
+	'Order of Hermes',
+	'Sons of Ether',
+	'Verbena',
+	'Virtual Adepts',
+	'Guide to the Technocracy',
+	'Iteration X',
+	'New World Order',
+	'Progenitors',
+	'Syndicate',
+	'Void Engineers',
+
+];
+
 function App() {
 	const spellArray: ISpell[] = require('./data.json');
+
 	const [filter, setFilter] = useState<Array<[string, number]>>([]);
 	const [sortSphere, setSortSphere] = useState<string | null>(null);
 	const [sortOrder, setSortOrder] = useState<'asc' | 'desc' | null>(null);
 	const [, setDropdownHovered] = useState(false);
+	const [bookFilter, setBookFilter] = useState<string[]>([...bookCategories, 'Others']);
 
 	const handleSelect = (sphere: string, cost: number) => {
 		const updatedFilter = filter.filter(([sphereName]) => sphereName !== sphere);
@@ -26,9 +50,23 @@ function App() {
 		setFilter(updatedFilter);
 	};
 
-	// const resetSpheres = () => {
-	// 	setFilter([]);
-	// };
+	const handleBookFilterChange = (keyword: string) => {
+		let newBookFilter = [...bookFilter];
+		if (bookFilter.includes(keyword)) {
+			newBookFilter = newBookFilter.filter(k => k !== keyword);
+		} else {
+			newBookFilter.push(keyword);
+		}
+		setBookFilter(newBookFilter);
+	};
+
+	const selectAllBooks = () => {
+		setBookFilter([...bookCategories, 'Others']);
+	};
+
+	const deselectAllBooks = () => {
+		setBookFilter([]);
+	};
 
 	const sphereOptions = [
 		'Entropy', 'Prime', 'Spirit', 'Correspondence', 'Life', 'Mind',
@@ -41,12 +79,7 @@ function App() {
 			<h2 className="subtitle">Mage: The Ascension</h2>
 			<div className="content-container">
 				<div className="dropdown-container">
-					{/* <h2 className="sphere-title">
-						Spheres
-						<span onClick={resetSpheres} className="reset-text">
-							(Reset)
-						</span>
-					</h2> */}
+					{/* Sphere selectors */}
 					{sphereOptions.map((sphere, index) => (
 						<SphereSelector
 							key={index}
@@ -56,6 +89,7 @@ function App() {
 						/>
 					))}
 					<hr className="horizontal-hr" />
+					{/* Sorting dropdowns */}
 					<div className="dropdown-flex">
 						<select
 							className="dropdown-normal dropdown-wide"
@@ -78,9 +112,38 @@ function App() {
 							<option value="asc">Asc</option>
 						</select>
 					</div>
+					<hr className="horizontal-hr" />
+					{/* Book filters */}
+					<div className="book-filter-container">
+						<div className="all-none-container">
+							<span className="all-none-option" onClick={selectAllBooks}>All</span>
+							<span className="all-none-option" onClick={deselectAllBooks}>None</span>
+						</div>
+						{bookCategories.map((keyword, index) => (
+							<div key={index}>
+								<input
+									type="checkbox"
+									id={`checkbox-${index}`}
+									checked={bookFilter.includes(keyword)}
+									onChange={() => handleBookFilterChange(keyword)}
+								/>
+								<label className="checkbox-label" htmlFor={`checkbox-${index}`}>{keyword}</label>
+							</div>
+						))}
+						<div>
+							<input
+								type="checkbox"
+								id="checkbox-others"
+								checked={bookFilter.includes('Others')}
+								onChange={() => handleBookFilterChange('Others')}
+							/>
+							<label className="checkbox-label" htmlFor="checkbox-others">Others</label>
+						</div>
+					</div>
+
 				</div>
 				<div className="cards-container">
-					<SpellList data={spellArray} filter={filter} sortSphere={sortSphere} sortOrder={sortOrder} />
+					<SpellList data={spellArray} filter={filter} sortSphere={sortSphere} sortOrder={sortOrder} bookFilter={bookFilter} />
 				</div>
 			</div>
 		</div>

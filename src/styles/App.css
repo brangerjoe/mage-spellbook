@@ -14,7 +14,8 @@
     /* This will center the image */
     height: 100%;
     margin: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Gabarito', 'sans-serif';
+
     /* You can change the font if needed */
     color: #333;
     /* Default text color, you can change as needed */
@@ -132,4 +133,42 @@
     .title {
         font-size: 40px;
     }
+}
+
+/* Checkbox font */
+.checkbox-label {
+    font-family: 'Gabarito', 'sans-serif';
+    font-size: 16px;
+    color: #5D473B;
+    padding-bottom: 5px;
+}
+
+.book-filter-container {
+	margin-bottom: 10px;
+	display: flex;
+	flex-direction: column;
+	padding: 15px;
+	border-radius: 8px;
+	background-color: #E9DCCD;
+}
+
+/* All | None styling */
+.all-none-container {
+    margin-bottom: 10px;
+	display: flex;
+    justify-content: center;
+	padding: 10px;
+	border-radius: 8px;
+	background-color: #D5BBA2;
+    color: #8B4513
+}
+
+.all-none-option {
+    font-family: 'Gabarito', 'sans-serif';
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.all-none-option:last-child {
+    margin-right: 0;
 }
