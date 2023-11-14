@@ -75,8 +75,8 @@ function App() {
 
 	return (
 		<div className="app-container">
-			<h1 className="title">Rote Spellbook</h1>
-			<h2 className="subtitle">Mage: The Ascension</h2>
+			<h1 className="title">The Rotodex</h1>
+			<h2 className="subtitle">Mage: The Ascension Spellbook</h2>
 			<div className="content-container">
 				<div className="dropdown-container">
 					{/* Sphere selectors */}
